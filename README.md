@@ -42,8 +42,8 @@ This semester we will have one presenter each week. Presentation duration is lef
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenters
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by the end of the day on the **Tuesday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
-
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by the end of the day on the **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
+ 
 
 
 Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
