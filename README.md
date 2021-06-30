@@ -47,8 +47,8 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Dongho Lee
 * Jongmin (Paul) Shin
 * Gyeongho Bae
-* Jinwoo Choi
-* Seong Tae Kim 
+* [Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
+* [Seong Tae Kim](https://sites.google.com/site/sseongtaekim/home?authuser=0)
 * others...
 
 Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
