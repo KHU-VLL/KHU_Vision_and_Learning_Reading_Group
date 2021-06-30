@@ -93,12 +93,12 @@ Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-readi
 ## About Us
 
 #### How it works?
-We are a group that meets about once a week to discuss one to three relevant papers. For every meeting, one person will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
+We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, one person will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
 **NOTE:** Please tell the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
 
 #### What we read?
-We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
+We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (MICCAI, ACL, EMNPL, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
 
 #### Who can join?
 We are open to everyone who is interested, whether you are an undergrad, a grad student, or KHU staff, regardless of department. As long as you are interested in learning more about the fields (by reading cutting-edge research papers), you are welcome to join.
