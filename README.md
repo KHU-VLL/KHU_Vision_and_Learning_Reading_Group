@@ -1,6 +1,7 @@
 # KHU Vision and Learning Reading Group
 Time
 - Wednesday 10:30AM - 11:30AM
+
 Location
 - 309, Electronic Information College Building, 1732, Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Rep. of Korea, 17104
 - Or zoom (link will be provided via email)
