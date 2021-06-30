@@ -21,7 +21,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by the end of the day on the **Monday** before your presentation.
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by **Monday** before your presentation.
 
 This semester we will have one presenter each week. Presentation duration is left up to the presenter (as long as it spans no more than one hour).
 
@@ -42,7 +42,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenters
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by the end of the day on the **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
  
 
 
