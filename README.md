@@ -27,7 +27,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 07/07 | Jinwoo Choi(https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [pdf](https://arxiv.org/abs/2103.16565) [slides] |
+| 07/07 | Jinwoo Choi(https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [slides] |
 | 07/14 |   TBD   |  [pdf] [slides]  |
 | 07/21 |   TBD   |  [pdf] [slides]  |
 | 07/28 |   TBD   |  [pdf] [slides]  |
