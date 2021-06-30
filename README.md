@@ -9,7 +9,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2021)](#current-schedule)
+- [Current Schedule (Summer 2021)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Related Links](#related-links)
