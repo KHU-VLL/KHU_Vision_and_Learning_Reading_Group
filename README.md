@@ -44,7 +44,12 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 ## Presenters
 Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
  
-
+* Dongho Lee
+* Jongmin (Paul) Shin
+* Gyeongho Bae
+* Jinwoo Choi
+* Seong Tae Kim 
+* others...
 
 Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
 
