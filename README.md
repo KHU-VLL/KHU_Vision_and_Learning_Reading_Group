@@ -39,7 +39,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 
 ## Mailing List
 
-We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/a/vt.edu/forum/#!forum/vt-vision-and-learning-reading-group-g). You can click "Join Group" when you sign in with your Virginia Tech account.
+We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Virginia Tech account.
 
 ## Presenters
 Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by the end of the day on the **Tuesday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
@@ -83,7 +83,7 @@ Yourself.
 As early as possible, let the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know about your situation. Also contact other presenters to see if they are willing to swap dates with you.
 
 #### I have a question not listed here...
-Then ask by sending an e-mail to the mailing list (vt-vision-and-learning-reading-group-g -at- vt.edu).
+Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-reading-group-g-groups -at- khu -dot- ac -dot- kr).
 
 ## About Us
 
