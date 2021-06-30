@@ -20,8 +20,8 @@ Location
 
 ## Current Schedule
 
-### Reading Group: Thursday 12PM - 1PM, On Zoom (link sent in weekly email)
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by the end of the day on the **Tuesday** before your presentation.
+### Reading Group: 
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by the end of the day on the **Monday** before your presentation.
 
 This semester we will have one presenter each week. Presentation duration is left up to the presenter (as long as it spans no more than one hour).
 
