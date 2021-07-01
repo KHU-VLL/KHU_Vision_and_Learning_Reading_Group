@@ -27,28 +27,41 @@ This semester we will have two presenters each week. Presentation duration is le
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [slides] |
-| 07/14 |   TBD   |  [pdf] [slides]  |
-| 07/21 |   TBD   |  [pdf] [slides]  |
-| 07/28 |   TBD   |  [pdf] [slides]  |
-| 08/04 |   TBD   |  [pdf] [slides]  |
-| 08/11 |   TBD   |  [pdf] [slides]  |
-| 08/18 |   TBD   |  [pdf] [slides]  |
+| 07/07 | [Jin-Woo Choi](https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [slides] |
+| 07/14 |   [Seong-Tae Kim](https://sites.google.com/site/sseongtaekim/home?authuser=0)   |  [pdf] [slides]  |
+| 07/21 |   Ah-Hyung Shin   |  [pdf] [slides]  |
+| 07/21 |   Dong-Ho Lee   |  [pdf] [slides]  |
+| 07/28 |   Jae-Ho Lee   |  [pdf] [slides]  |
+| 07/28 |   Eun-Gi Jo   |  [pdf] [slides]  |
+| 08/04 |   Min-Seok Kim   |  [pdf] [slides]  |
+| 08/04 |   Jong-Min (Paul) Shin   |  [pdf] [slides]  |
+| 08/11 |   Sung-Hoon Lee   |  [pdf] [slides]  |
+| 08/11 |   Gyeong-Ho Bae   |  [pdf] [slides]  |
+| 08/18 |   Jun-Yeong Park   |  [pdf] [slides]  |
+| 08/18 |   Ah-Hyung Shin   |  [pdf] [slides]  |
 | 08/25 |   TBD   |  [pdf] [slides]  |
+
 
 
 ## Mailing List
 
-We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Virginia Tech account.
+We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
 Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
  
-* Dongho Lee
-* Jongmin (Paul) Shin
-* Gyeongho Bae
-* [Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
-* [Seong Tae Kim](https://sites.google.com/site/sseongtaekim/home?authuser=0)
+* Dong-Ho Lee
+* Jong-Min (Paul) Shin
+* Gyeong-Ho Bae
+* Eun-Gi Jo
+* Ah-Hyung Shin
+* Jae-Ho Lee
+* Min-Seok Kim
+* Sung-Hoon Lee
+* Jun-Yeong Park
+* [Prof.Jin-Woo Choi](https://sites.google.com/site/jchoivision/) 
+* [Prof.Seong-Tae Kim](https://sites.google.com/site/sseongtaekim/home?authuser=0)
+* [Prof.Gyeong-Moon Park](https://gyeongmoon.github.io/)
 * others...
 
 Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
@@ -94,7 +107,7 @@ Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-readi
 ## About Us
 
 #### How it works?
-We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, one person will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
+We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
 **NOTE:** Please tell the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
 
