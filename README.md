@@ -68,6 +68,7 @@ Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be 
 - [CMU VASC Seminar Series](http://ri.cmu.edu/events/category/vasc-seminar-series/list/?tribe_paged=1&tribe_event_display=past)
 - [CMU ML Reading Group](http://www.cs.cmu.edu/~aarti/SMLRG/schedule.html)
 - [VT Vision and Learning Reading Group](https://github.com/vt-vl-lab/reading_group)
+- [딥러닝 논문 읽기 모임 @ TensorFlow Korea Facebook Group](https://www.youtube.com/playlist?list=PLXiK3f5MOQ760xYLb2eWbtOKOwUC-bByj)
 
 #### Advanced CV courses
 - [Advanced Computer Vision](https://filebox.ece.vt.edu/~jbhuang/teaching/ece6554/sp17/index.html) (Jia-Bin Huang, Virginia Tech)
