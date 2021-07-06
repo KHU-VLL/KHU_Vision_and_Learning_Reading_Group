@@ -27,7 +27,7 @@ This semester we will have two presenters each week. Presentation duration is le
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 07/07 | [Jin-Woo Choi](https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [slides] |
+| 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [slides] |
 | 07/14 |   [Seong-Tae Kim](http://ailab.khu.ac.kr)   |  Neural Response Interpretation through the Lens of Critical Pathways [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.pdf)] [slides]  |
 | 07/21 |   Ah-Hyung Shin   |  [pdf] [slides]  |
 | 07/21 |   Dong-Ho Lee   |  [pdf] [slides]  |
@@ -59,7 +59,7 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Min-Seok Kim
 * Sung-Hoon Lee
 * Jun-Yeong Park
-* [Prof.Jin-Woo Choi](https://sites.google.com/site/jchoivision/) 
+* [Prof.Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
 * [Prof.Seong-Tae Kim](http://ailab.khu.ac.kr)
 * [Prof.Gyeong-Moon Park](http://agi.khu.ac.kr/)
 * others...
