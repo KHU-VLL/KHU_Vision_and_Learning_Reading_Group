@@ -59,9 +59,9 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Min-Seok Kim
 * Sung-Hoon Lee
 * Jun-Yeong Park
-* [Prof.Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
-* [Prof.Seong-Tae Kim](http://ailab.khu.ac.kr)
-* [Prof.Gyeong-Moon Park](http://agi.khu.ac.kr/)
+* [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
+* [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
+* [Prof. Gyeong-Moon Park](http://agi.khu.ac.kr/)
 * others...
 
 Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
