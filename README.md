@@ -27,8 +27,8 @@ This semester we will have two presenters each week. Presentation duration is le
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Why Can’t I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition[[pdf](https://sites.google.com/site/jchoivision/)]  <br /> Learning Representational Invariances for Data-Efficient Action Recognition [[pdf](https://arxiv.org/abs/2103.16565)] [[slides](https://drive.google.com/file/d/1KHNloRmLGfzsceWSeGMQONzm-Pify1QQ/view?usp=sharing)] |
-| 07/14 |   [Seong-Tae Kim](http://ailab.khu.ac.kr)   |  Neural Response Interpretation through the Lens of Critical Pathways [[pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.pdf)] [slides]  |
+| 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Why Can’t I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition[[Choi et al., NeurIPS 2019](https://sites.google.com/site/jchoivision/)]  <br /> Learning Representational Invariances for Data-Efficient Action Recognition [[Choi et al., arXiv 2021](https://arxiv.org/abs/2103.16565)] [[slides](https://drive.google.com/file/d/1KHNloRmLGfzsceWSeGMQONzm-Pify1QQ/view?usp=sharing)] |
+| 07/14 |   [Seong-Tae Kim](http://ailab.khu.ac.kr)   |  Neural Response Interpretation through the Lens of Critical Pathways [[Khakzar1 et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Khakzar_Neural_Response_Interpretation_Through_the_Lens_of_Critical_Pathways_CVPR_2021_paper.pdf)] [slides]  |
 | 07/21 |   Ah-Hyung Shin   |  [pdf] [slides]  |
 | 07/21 |   Dong-Ho Lee   |  [pdf] [slides]  |
 | 07/28 |   Jae-Ho Lee   |  [pdf] [slides]  |
