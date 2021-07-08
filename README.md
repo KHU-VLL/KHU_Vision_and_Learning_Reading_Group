@@ -33,10 +33,10 @@ This semester we will have two presenters each week. Presentation duration is le
 | 07/21 |   Dong-Ho Lee   |  [pdf] [slides]  |
 | 07/28 |   Jae-Ho Lee   |  [pdf] [slides]  |
 | 07/28 |   Eun-Gi Jo   |  [pdf] [slides]  |
-| 08/04 |   Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 08/04 |   Sung-Hoon Lee   |  [pdf] [slides]  |
-| 08/11 |   Gyeong-Ho Bae   |  [pdf] [slides]  |
+| 08/04 |   Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 08/11 |   Jun-Yeong Park   |  [pdf] [slides]  |
+| 08/11 |   Gyeong-Ho Bae   |  [pdf] [slides]  |
 | 08/18 |   TBD   |  [pdf] [slides]  |
 
 
