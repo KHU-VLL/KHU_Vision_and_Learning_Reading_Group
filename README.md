@@ -50,7 +50,6 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Eun-Gi Jo
 * Ah-Hyung Shin
 * Jae-Ho Lee
-* Min-Seok Kim
 * Sung-Hoon Lee
 * Jun-Yeong Park
 * [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
