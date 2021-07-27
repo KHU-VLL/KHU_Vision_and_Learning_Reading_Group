@@ -33,8 +33,11 @@ This semester we will have two presenters each week. Presentation duration is le
 | 07/28 |   Jae-Ho Lee  <br />   Eun-Gi Jo  |  Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[Liu, Ze, et al., arXiv 2021](https://arxiv.org/abs/2103.14030)] [slides] <br /> Understanding deep networks via extremal perturbations and smooth masks [[Fong, Ruth et al., IEEE/CVF 2019](https://arxiv.org/abs/1910.08485)] |
 | 08/04 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 08/11 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
-| 08/18 |   TBD   |  [pdf] [slides]  |
-
+| 08/18 |   Ah-Hyung Shin <br /> Dong-Ho Lee   |  [pdf] [slides]  |
+| 08/25 |   Jae-Ho Lee  <br />   Eun-Gi Jo   |  [pdf] [slides]  |
+| 09/01 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
+| 09/08 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
+| 09/15 |   Hyo-Gun Lee <br /> Ah-Hyung Shin |  [pdf] [slides]  |
 
 
 ## Mailing List
@@ -47,6 +50,7 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Dong-Ho Lee
 * Jong-Min (Paul) Shin
 * Gyeong-Ho Bae
+* Hyo-Gun Lee
 * Eun-Gi Jo
 * Ah-Hyung Shin
 * Jae-Ho Lee
