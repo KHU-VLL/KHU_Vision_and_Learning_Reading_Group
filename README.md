@@ -30,11 +30,11 @@ This semester we will have two presenters each week. Presentation duration is le
 | 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Why Can’t I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition [[Choi et al., NeurIPS 2019](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1912.05534&sa=D&sntz=1&usg=AFQjCNGrF3B6tCj4cJ7DraA85jgBxTQtTw)]  <br /> Learning Representational Invariances for Data-Efficient Action Recognition [[Choi et al., arXiv 2021](https://arxiv.org/abs/2103.16565)] [[slides](https://drive.google.com/file/d/1KHNloRmLGfzsceWSeGMQONzm-Pify1QQ/view?usp=sharing)] |
 | 07/14 |   [Seong-Tae Kim](http://ailab.khu.ac.kr)   |  Neural Response Interpretation through the Lens of Critical Pathways [[Khakzar et al., CVPR 2021](https://arxiv.org/pdf/2103.16886.pdf)] [[slides](https://drive.google.com/file/d/1nMqlU9q7JCSHCs2q5sFLxmCAT67lpN1S/view?usp=sharing)]  |
 | 07/21 |   Ah-Hyung Shin <br /> Dong-Ho Lee  |  MineGAN: effective knowledge transfer from GANs to target domains with few images [[Wang, Yaxing, et al., CVPR 2020](https://arxiv.org/abs/1912.05270)] [[slides](https://drive.google.com/file/d/1_Uc0RXnvAbLmCd2dD74bk2WMIRnKPQff/view?usp=sharing)] <br /> MLP-Mixer: An all-MLP Architecture for Vision [[Ilya Tolstikhin et al., arXiv 2021](https://arxiv.org/abs/2105.01601)] [[slides](https://drive.google.com/file/d/140spkEJsNVZQVKJoPSp-4yRyvzRNg-gh/view?usp=sharing)] |
-| 07/28 |   Jae-Ho Lee  <br />   Eun-Gi Jo  |  Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[Liu, Ze, et al., arXiv 2021](https://arxiv.org/abs/2103.14030)] [slides] <br /> Understanding deep networks via extremal perturbations and smooth masks [[Fong, Ruth et al., IEEE/CVF 2019](https://arxiv.org/abs/1910.08485)] |
+| 07/28 |   Jae-Ho Lee  <br />   En-Ki Cho  |  Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[Liu, Ze, et al., arXiv 2021](https://arxiv.org/abs/2103.14030)] [[slides](https://drive.google.com/file/d/1IvrqeY0iZAd7pWFBWMwiOz4VEmuE7z-W/view?usp=sharing)] <br /> Understanding deep networks via extremal perturbations and smooth masks [[Fong, Ruth et al., IEEE/CVF 2019](https://arxiv.org/abs/1910.08485)] [[slides](https://drive.google.com/file/d/1kkdooaqgzGapwhsySNVoYokvJgAPz8z5/view?usp=sharing)] |
 | 08/04 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 08/11 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
 | 08/18 |   Ah-Hyung Shin <br /> Dong-Ho Lee   |  [pdf] [slides]  |
-| 08/25 |   Jae-Ho Lee  <br />   Eun-Gi Jo   |  [pdf] [slides]  |
+| 08/25 |   Jae-Ho Lee  <br />   En-Ki Cho   |  [pdf] [slides]  |
 | 09/01 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 09/08 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
 | 09/15 |   Hyo-Gun Lee <br /> Ah-Hyung Shin |  [pdf] [slides]  |
@@ -51,7 +51,7 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Jong-Min (Paul) Shin
 * Gyeong-Ho Bae
 * Hyo-Gun Lee
-* Eun-Gi Jo
+* En-Ki Cho
 * Ah-Hyung Shin
 * Jae-Ho Lee
 * Sung-Hoon Lee
