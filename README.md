@@ -1,4 +1,5 @@
-# KHU Vision and Learning Reading Group
+# KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
+
 Time
 - Wednesday 10:30AM - 11:30AM
 
