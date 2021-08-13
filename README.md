@@ -38,7 +38,7 @@ This semester we will have two presenters each week. Presentation duration is le
 | 08/25 |   Jae-Ho Lee  <br />   En-Ki Cho   |  [pdf] [slides]  |
 | 09/01 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
 | 09/08 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
-| 09/15 |   Hyo-Gun Lee <br /> Ah-Hyung Shin |  [pdf] [slides]  |
+| 09/15 |   Hyo-Gun Lee <br /> Gun-Hee Park |  [pdf] [slides]  |
 |  TBD  | | |
 
 
