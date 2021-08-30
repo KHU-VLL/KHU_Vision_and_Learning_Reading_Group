@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 10:30AM - 11:30AM
+- Friday 12:00PM - 1:00PM
 
 Location
 - 309, Electronic Information College Building, 1732, Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Rep. of Korea, 17104
@@ -22,9 +22,9 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by **Monday** before your presentation.
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by **Wednesday** before your presentation.
 
-This semester we will have two presenters each week. Presentation duration is left up to the presenter (as long as it spans no more than one hour).
+This semester we will have one presenter each week. Presentation duration is left up to the presenter (as long as it spans no more than one hour).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
@@ -36,9 +36,12 @@ This semester we will have two presenters each week. Presentation duration is le
 | 08/11 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  Reducing catastrophic forgetting with learning on synthetic data [[Wojciech Masarczyk, Ivona Tautkute, CVPR Workshops 2020](https://arxiv.org/pdf/2004.14046.pdf)] [[slides](https://drive.google.com/file/d/1qksMlZyA7s1L1KX5q27cmjWLByDJE6xz/view?usp=sharing)] <br /> Is Space-Time Attention All You Need for Video Understanding? [[Gedas Bertasius et al., ICML 2021](https://arxiv.org/abs/2102.05095)] [[slides](https://drive.google.com/file/d/1S8wL2a4cgfJQldRAs7g3XSubxKXaDQ_3/view?usp=sharing)]  |
 | 08/18 |   Ah-Hyung Shin <br /> Dong-Ho Lee   |  Parameter Efficient Multimodal Transformers for Video Representation Learning [[Lee, Sangho, et al., ICLR 2021](https://arxiv.org/abs/2012.04124)] [[slides](https://drive.google.com/file/d/1-H6DhMo7kKwV8lPGxzAWuZJWtD0X7p0B/view?usp=sharing)] <br /> Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[Mehdi Noroozi et al., ECCV 2016](https://arxiv.org/pdf/1603.09246.pdf)] [[slides](https://drive.google.com/file/d/1n9YmuJeOtMPcnTPzVnhmAMXqRnPQMs-a/view?usp=sharing)]  |
 | 08/25 |   Jae-Ho Lee  <br />   En-Ki Cho   |  Training data-efficient image transformers & distillation through attention [[Touvron, Hugo, et al., ICML 2021](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf)] [[slides](https://drive.google.com/file/d/1z-V4EhwUV_6D3G03hIlmwGF2zcNbONO3/view?usp=sharing)] <br /> Restricting the Flow: Information Bottlenecks for Attribution [[Schulz, Karl, et al., ICLR 2020](https://arxiv.org/abs/2001.00396)] [[slides](https://drive.google.com/file/d/1VD59Ikzu3Xh1-yxF1hUPUsIiVII9aDki/view?usp=sharing)]|
-| 09/01 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  [pdf] [slides]  |
-| 09/08 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  [pdf] [slides]  |
-| 09/15 |   Hyo-Gun Lee <br /> Gun-Hee Park |  [pdf] [slides]  |
+| 09/03 |   Sung-Hoon Lee   |  [pdf] [slides]  |
+| 09/10 |   Jong-Min (Paul) Shin    |  [pdf] [slides]  |
+| 09/17 |   Jun-Yeong Park  |  [pdf] [slides]  |
+| 09/24 |   Gyeong-Ho Bae   |  [pdf] [slides]  |
+| 10/01 |   Hyo-Gun Lee     |  [pdf] [slides]  |
+| 10/08 |   Gun-Hee Park    |  [pdf] [slides]  |
 |  TBD  | | |
 
 
@@ -47,17 +50,20 @@ This semester we will have two presenters each week. Presentation duration is le
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Monday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
+Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Wednesday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
  
 * Dong-Ho Lee
 * Jong-Min (Paul) Shin
 * Gyeong-Ho Bae
 * Hyo-Gun Lee
 * En-Ki Cho
+* Min-Guk Kim 
 * Ah-Hyung Shin
 * Jae-Ho Lee
-* Sung-Hoon Lee
 * Jun-Yeong Park
+* Sung-Hoon Lee
+* Gun-Hee Park
+* Ju-Hye Son
 * [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
 * [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
 * [Prof. Gyeong-Moon Park](http://agi.khu.ac.kr/)
@@ -108,7 +114,7 @@ Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-readi
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
+**NOTE:** Please tell the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Wednesday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
