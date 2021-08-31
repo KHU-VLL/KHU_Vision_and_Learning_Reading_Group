@@ -42,6 +42,8 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 09/24 |   Gyeong-Ho Bae   |  [pdf] [slides]  |
 | 10/01 |   Hyo-Gun Lee     |  [pdf] [slides]  |
 | 10/08 |   Gun-Hee Park    |  [pdf] [slides]  |
+| 10/15 |   Ju-Hye Son      |  [pdf] [slides]  |
+| 10/22 |   -      |  No Meeting (Mid-Term Exam)  |
 |  TBD  | | |
 
 
