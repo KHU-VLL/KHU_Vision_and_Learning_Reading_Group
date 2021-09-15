@@ -44,8 +44,14 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 10/08 |   Gun-Hee Park    |  [pdf] [slides]  |
 | 10/15 |   Ju-Hye Son      |  [pdf] [slides]  |
 | 10/22 |   -      |  No Meeting (Mid-Term Exam)  |
-|  TBD  | | |
-
+| 10/29  | Ah-Hyung Shin |[pdf] [slides]|
+| 11/05  | Dong-Ho Lee |[pdf] [slides]|
+| 11/12  | Jae-Ho Lee|[pdf] [slides]|
+| 11/19  | Min-Guk Kim|[pdf] [slides]|
+| 11/26  | En-Ki Cho|[pdf] [slides]|
+| 12/03  | Sung-Hoon Lee|[pdf] [slides]|
+| 12/10  | Jong-Min (Paul) Shin|[pdf] [slides]|
+| 12/17  | - |  No Meeting (Final Exam)  ||
 
 ## Mailing List
 
