@@ -40,7 +40,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 09/10 |   Jong-Min (Paul) Shin    |  EfficientNetV2: Smaller Models and Faster Training [[Tan, Mingxing, et al., ICML 2021](https://arxiv.org/pdf/2104.00298.pdf)] [[slides](https://docs.google.com/presentation/d/1EZwInktVGFYlb-OOqb5XTW7Na3fhjMoD0femmpd8908/edit?usp=sharing)]  |
 | 09/17 |   Jun-Yeong Park  |  Few-Shot Lifelong Learning [[Pratik Mazumder, et al, AAAI 2021](https://www.cse.iitk.ac.in/users/piyush/papers/fsll_aaai2021.pdf)] [[slides](https://drive.google.com/file/d/1QfiBmMjxOdHfqczPNqoSXcQPGhfuyiKk/view?usp=sharing)]  |
 | 09/24 |   Gyeong-Ho Bae   |  Large-Scale Long-Tailed Recognition in an Open World [[Z Liu et al., CVPR 2019](https://arxiv.org/pdf/1904.05160.pdf)] [[slides](https://drive.google.com/file/d/1nQRlupDN-WOzxtT0g8i1MjC65ZVooOGb/view?usp=sharing)]  |
-| 10/01 |   Hyo-Gun Lee     |  Unsupervised Domain Adaptation for Distance Metric Learning [[Sohn et al., ICLR 2019](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Unsupervised%20Domain%20Adaptation%20for%20Distance%20Metric%20Learning.pdf)] [slides]   |
+| 10/01 |   Hyo-Gun Lee     |  Unsupervised Domain Adaptation for Distance Metric Learning [[Sohn et al., ICLR 2019](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Unsupervised%20Domain%20Adaptation%20for%20Distance%20Metric%20Learning.pdf)] [[slides](https://drive.google.com/file/d/1JnTnxrG_r3Ox1IxZ_MEU1_1mvMrF04I5/view?usp=sharing)]   |
 | 10/08 |   Gun-Hee Park    |  [pdf] [slides]  |
 | 10/15 |   Ju-Hye Son      |  [pdf] [slides]  |
 | 10/22 |   -      |  No Meeting (Mid-Term Exam)  |
