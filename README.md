@@ -41,7 +41,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 09/17 |   Jun-Yeong Park  |  Few-Shot Lifelong Learning [[Pratik Mazumder, et al, AAAI 2021](https://www.cse.iitk.ac.in/users/piyush/papers/fsll_aaai2021.pdf)] [[slides](https://drive.google.com/file/d/1QfiBmMjxOdHfqczPNqoSXcQPGhfuyiKk/view?usp=sharing)]  |
 | 09/24 |   Gyeong-Ho Bae   |  Large-Scale Long-Tailed Recognition in an Open World [[Z Liu et al., CVPR 2019](https://arxiv.org/pdf/1904.05160.pdf)] [[slides](https://drive.google.com/file/d/1nQRlupDN-WOzxtT0g8i1MjC65ZVooOGb/view?usp=sharing)]  |
 | 10/01 |   Hyo-Gun Lee     |  Unsupervised Domain Adaptation for Distance Metric Learning [[Sohn et al., ICLR 2019](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Unsupervised%20Domain%20Adaptation%20for%20Distance%20Metric%20Learning.pdf)] [[slides](https://drive.google.com/file/d/1JnTnxrG_r3Ox1IxZ_MEU1_1mvMrF04I5/view?usp=sharing)]   |
-| 10/08 |   Gun-Hee Park    |  [pdf] [slides]  |
+| 10/08 |   Keon-Hee Park    |  Efficient Feature Transformations for Discriminative and Generative Continual Learning [[Verma, Vinay Kumar, et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.pdf)] [slides]  |
 | 10/15 |   Ju-Hye Son      |  [pdf] [slides]  |
 | 10/22 |   -      |  No Meeting (Mid-Term Exam)  |
 | 10/29  | Ah-Hyung Shin |[pdf] [slides]|
@@ -70,7 +70,7 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Jae-Ho Lee
 * Jun-Yeong Park
 * Sung-Hoon Lee
-* Gun-Hee Park
+* Keon-Hee Park
 * Ju-Hye Son
 * [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
 * [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
