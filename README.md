@@ -43,7 +43,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 10/01 |   Hyo-Gun Lee     |  Unsupervised Domain Adaptation for Distance Metric Learning [[Sohn et al., ICLR 2019](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Unsupervised%20Domain%20Adaptation%20for%20Distance%20Metric%20Learning.pdf)] [[slides](https://drive.google.com/file/d/1JnTnxrG_r3Ox1IxZ_MEU1_1mvMrF04I5/view?usp=sharing)]   |
 | 10/08 |   Keon-Hee Park    |  Efficient Feature Transformations for Discriminative and Generative Continual Learning [[Verma, Vinay Kumar, et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1i0Pee33hofHoQT6iqwfayxCNF28ulQky/view?usp=sharing)]  |
 | 10/15 |   Ju-Hye Son      |  FastSpeech2 : Fast And High Quality End To End Text To Speech [[Ren, Yi, et al., ICLR 2021](https://openreview.net/pdf?id=piLPYqxtWuA)] [[slides](https://drive.google.com/file/d/1ZDI0sjf5jH6dWfJC2Ek7Cr3FOi5f1LeS/view?usp=sharing)]  |
-| 10/22  | Ah-Hyung Shin |[pdf] [slides]|
+| 10/22  | Ah-Hyung Shin | Time Series Anomaly Detection with Multiresolution Ensemble Decoding [[Shen, Lifeng, et al, AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf)] [slides]|
 | 10/29  |   -      |  No Meeting (Mid-Term Exam)  |
 | 11/05  |   -      |  No Meeting (Mid-Term Exam)  |
 | 11/12  | Dong-Ho Lee |[pdf] [slides]|
