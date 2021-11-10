@@ -46,7 +46,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 10/22  | Ah-Hyung Shin | Time Series Anomaly Detection with Multiresolution Ensemble Decoding [[Shen, Lifeng, et al, AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf)] [[slides](https://drive.google.com/file/d/1u0KDBZLKRwpgWKhTNmhXYQ68vEH2QSQH/view?usp=sharing)] |
 | 10/29  |   -      |  No Meeting (Mid-Term Exam)  |
 | 11/05  |   -      |  No Meeting (Mid-Term Exam)  |
-| 11/12  | Dong-Ho Lee |[pdf] [slides]|
+| 11/12  | Dong-Ho Lee | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[sohn et al., NeurIPS 2020](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)] [slides]|
 | 11/19  | Jae-Ho Lee|[pdf] [slides]|
 | 11/26  | Min-Guk Kim|[pdf] [slides]|
 | 12/03  | En-Ki Cho|[pdf] [slides]|
