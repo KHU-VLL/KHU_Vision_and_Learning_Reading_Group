@@ -52,8 +52,8 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 12/03  | En-Ki Cho |[pdf] [slides]|
 | 12/10  | Sung-Hoon Lee |[pdf] [slides]|
 | 12/17  | - |  No Meeting (Final Exam)  |
-| 12/24  | - |  Merry Christmas!  |
-| 12/31  | - |  Happy New Year!   |
+| 12/24  | - |  No Meeting! Merry Christmas!  |
+| 12/31  | - |  No Meeting! Happy New Year!   |
 
 
 
