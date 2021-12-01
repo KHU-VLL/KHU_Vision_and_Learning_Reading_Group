@@ -49,7 +49,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 11/12  | Dong-Ho Lee | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[sohn et al., NeurIPS 2020](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)] [[slides](https://drive.google.com/file/d/1-BY3kttQm3PTYuV8IzkIx462LFD75xM0/view?usp=sharing)]|
 | 11/19  | Jae-Ho Lee | Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[Yuan, Li, et al., ICCV2021](https://arxiv.org/pdf/2101.11986.pdf)] [[slides](https://drive.google.com/file/d/1FXbQZYeJf9XXZ52MJN0wYDpiNmcCfRKD/view?usp=sharing)]|
 | 11/26  | Min-Guk Kim | Video Object Segmentation using Space-Time Memory Networks [[Oh, Seoung Wug, et al., ICCV2019](https://arxiv.org/pdf/1904.00607.pdf)] [[slides](https://drive.google.com/file/d/1bIGot1_bSsVmbnmb1LMjPkgiTSyiV645/view?usp=sharing)]|
-| 12/03  | Sung-Hoon Lee |[pdf] [slides]|
+| 12/03  | Sung-Hoon Lee | Adversarial Continual Learning [[Ebrahimiet, Sayna, et al., ECCV 2020](https://arxiv.org/pdf/2003.09553.pdf)] [slides]|
 | 12/10  | En-Ki Cho |[pdf] [slides]|
 | 12/17  | - |  No Meeting (Final Exam)  |
 | 12/24  | - |  No Meeting! Merry Christmas!  |
