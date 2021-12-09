@@ -50,7 +50,7 @@ This semester we will have one presenter each week. Presentation duration is lef
 | 11/19  | Jae-Ho Lee | Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[Yuan, Li, et al., ICCV2021](https://arxiv.org/pdf/2101.11986.pdf)] [[slides](https://drive.google.com/file/d/1FXbQZYeJf9XXZ52MJN0wYDpiNmcCfRKD/view?usp=sharing)]|
 | 11/26  | Min-Guk Kim | Video Object Segmentation using Space-Time Memory Networks [[Oh, Seoung Wug, et al., ICCV2019](https://arxiv.org/pdf/1904.00607.pdf)] [[slides](https://drive.google.com/file/d/1bIGot1_bSsVmbnmb1LMjPkgiTSyiV645/view?usp=sharing)]|
 | 12/03  | Sung-Hoon Lee | Adversarial Continual Learning [[Ebrahimiet, Sayna, et al., ECCV 2020](https://arxiv.org/pdf/2003.09553.pdf)] [[slides](https://drive.google.com/file/d/1qzcLx7qwN2MtURluiGY2gPF2WjO4zdVJ/view?usp=sharing)]|
-| 12/10  | En-Ki Cho | Video Object Segmentation with Episodic Graph Memory Networks [[Lu, Xiankai, et al., ECCV 2020](https://arxiv.org/pdf/2007.07020.pdf)] [slides]|
+| 12/10  | En-Ki Cho | Video Object Segmentation with Episodic Graph Memory Networks [[Lu, Xiankai, et al., ECCV 2020](https://arxiv.org/pdf/2007.07020.pdf)] [[slides](https://drive.google.com/file/d/1o96vazavko664rWxP369mSjjftrrxktN/view?usp=sharing)]|
 | 12/17  | - |  No Meeting (Final Exam)  |
 | 12/24  | - |  No Meeting! Merry Christmas!  |
 | 12/31  | - |  No Meeting! Happy New Year!   |
