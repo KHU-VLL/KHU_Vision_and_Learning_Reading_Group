@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Friday 12:00PM - 1:00PM
+- Wednesday 10:30AM
 
 Location
 - 309, Electronic Information College Building, 1732, Deogyeong-daero, Giheung-gu, Yongin-si, Gyeonggi-do, Rep. of Korea, 17104
@@ -10,7 +10,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Summer 2021)](#current-schedule)
+- [Current Schedule (Winter Break 2022)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Related Links](#related-links)
@@ -22,38 +22,24 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know what paper you are going to present and provide your summary by **Wednesday** before your presentation.
+Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, provide (name and year) of the conference the paper was accepted and summary by **Monday 3pm** before your presentation.
 
-This semester we will have one presenter each week. Presentation duration is left up to the presenter (as long as it spans no more than one hour).
+Moreover, send the presentation slides or a link on  **Tuesday**.
+
+This Winter Break we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 07/07 | [Jinwoo Choi](https://sites.google.com/site/jchoivision/)  | Why Can’t I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition [[Choi et al., NeurIPS 2019](https://www.google.com/url?q=https%3A%2F%2Farxiv.org%2Fabs%2F1912.05534&sa=D&sntz=1&usg=AFQjCNGrF3B6tCj4cJ7DraA85jgBxTQtTw)]  <br /> Learning Representational Invariances for Data-Efficient Action Recognition [[Choi et al., arXiv 2021](https://arxiv.org/abs/2103.16565)] [[slides](https://drive.google.com/file/d/1KHNloRmLGfzsceWSeGMQONzm-Pify1QQ/view?usp=sharing)] |
-| 07/14 |   [Seong-Tae Kim](http://ailab.khu.ac.kr)   |  Neural Response Interpretation through the Lens of Critical Pathways [[Khakzar et al., CVPR 2021](https://arxiv.org/pdf/2103.16886.pdf)] [[slides](https://drive.google.com/file/d/1nMqlU9q7JCSHCs2q5sFLxmCAT67lpN1S/view?usp=sharing)]  |
-| 07/21 |   Ah-Hyung Shin <br /> Dong-Ho Lee  |  MineGAN: effective knowledge transfer from GANs to target domains with few images [[Wang, Yaxing, et al., CVPR 2020](https://arxiv.org/abs/1912.05270)] [[slides](https://drive.google.com/file/d/1_Uc0RXnvAbLmCd2dD74bk2WMIRnKPQff/view?usp=sharing)] <br /> MLP-Mixer: An all-MLP Architecture for Vision [[Ilya Tolstikhin et al., arXiv 2021](https://arxiv.org/abs/2105.01601)] [[slides](https://drive.google.com/file/d/140spkEJsNVZQVKJoPSp-4yRyvzRNg-gh/view?usp=sharing)] |
-| 07/28 |   Jae-Ho Lee  <br />   En-Ki Cho  |  Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [[Liu, Ze, et al., arXiv 2021](https://arxiv.org/abs/2103.14030)] [[slides](https://drive.google.com/file/d/1IvrqeY0iZAd7pWFBWMwiOz4VEmuE7z-W/view?usp=sharing)] <br /> Understanding deep networks via extremal perturbations and smooth masks [[Fong, Ruth et al., IEEE/CVF 2019](https://arxiv.org/abs/1910.08485)] [[slides](https://drive.google.com/file/d/1kkdooaqgzGapwhsySNVoYokvJgAPz8z5/view?usp=sharing)] |
-| 08/04 |   Sung-Hoon Lee  <br />  Jong-Min (Paul) Shin   |  Semantic-Aware Knowledge Distillation for Few-Shot Class-Incremental Learning [[Ali Cheraghian, et al., CVPR 2021](https://arxiv.org/abs/2103.04059)] [[slides](https://drive.google.com/file/d/13VKvVUk5lMtfRggaUZeB_N-JQ45fWwdz/view?usp=sharing)] <br/> Feature Pyramid Networks for Object Detection [[Lin, Tsung-Yi, et al., CVPR 2017](https://arxiv.org/abs/1612.03144)] [[slides](https://drive.google.com/file/d/1CNC3QLL3sho47MvJejtqPqDk_e9bIjZr/view?usp=sharing)] |
-| 08/11 |   Jun-Yeong Park <br /> Gyeong-Ho Bae   |  Reducing catastrophic forgetting with learning on synthetic data [[Wojciech Masarczyk, Ivona Tautkute, CVPR Workshops 2020](https://arxiv.org/pdf/2004.14046.pdf)] [[slides](https://drive.google.com/file/d/1qksMlZyA7s1L1KX5q27cmjWLByDJE6xz/view?usp=sharing)] <br /> Is Space-Time Attention All You Need for Video Understanding? [[Gedas Bertasius et al., ICML 2021](https://arxiv.org/abs/2102.05095)] [[slides](https://drive.google.com/file/d/1S8wL2a4cgfJQldRAs7g3XSubxKXaDQ_3/view?usp=sharing)]  |
-| 08/18 |   Ah-Hyung Shin <br /> Dong-Ho Lee   |  Parameter Efficient Multimodal Transformers for Video Representation Learning [[Lee, Sangho, et al., ICLR 2021](https://arxiv.org/abs/2012.04124)] [[slides](https://drive.google.com/file/d/1-H6DhMo7kKwV8lPGxzAWuZJWtD0X7p0B/view?usp=sharing)] <br /> Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[Mehdi Noroozi et al., ECCV 2016](https://arxiv.org/pdf/1603.09246.pdf)] [[slides](https://drive.google.com/file/d/1n9YmuJeOtMPcnTPzVnhmAMXqRnPQMs-a/view?usp=sharing)]  |
-| 08/25 |   Jae-Ho Lee  <br />   En-Ki Cho   |  Training data-efficient image transformers & distillation through attention [[Touvron, Hugo, et al., ICML 2021](http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf)] [[slides](https://drive.google.com/file/d/1z-V4EhwUV_6D3G03hIlmwGF2zcNbONO3/view?usp=sharing)] <br /> Restricting the Flow: Information Bottlenecks for Attribution [[Schulz, Karl, et al., ICLR 2020](https://arxiv.org/abs/2001.00396)] [[slides](https://drive.google.com/file/d/1VD59Ikzu3Xh1-yxF1hUPUsIiVII9aDki/view?usp=sharing)]|
-| 09/03 |   Sung-Hoon Lee   |  Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation [[Mengyao Zhai, et al., ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)] [[slides](https://drive.google.com/file/d/1Hp3bevABMgI9izgUHSbaqJayJeP3zYAT/view?usp=sharing)]  |
-| 09/10 |   Jong-Min (Paul) Shin    |  EfficientNetV2: Smaller Models and Faster Training [[Tan, Mingxing, et al., ICML 2021](https://arxiv.org/pdf/2104.00298.pdf)] [[slides](https://docs.google.com/presentation/d/1EZwInktVGFYlb-OOqb5XTW7Na3fhjMoD0femmpd8908/edit?usp=sharing)]  |
-| 09/17 |   Jun-Yeong Park  |  Few-Shot Lifelong Learning [[Pratik Mazumder, et al, AAAI 2021](https://www.cse.iitk.ac.in/users/piyush/papers/fsll_aaai2021.pdf)] [[slides](https://drive.google.com/file/d/1QfiBmMjxOdHfqczPNqoSXcQPGhfuyiKk/view?usp=sharing)]  |
-| 09/24 |   Gyeong-Ho Bae   |  Large-Scale Long-Tailed Recognition in an Open World [[Z Liu et al., CVPR 2019](https://arxiv.org/pdf/1904.05160.pdf)] [[slides](https://drive.google.com/file/d/1nQRlupDN-WOzxtT0g8i1MjC65ZVooOGb/view?usp=sharing)]  |
-| 10/01 |   Hyo-Gun Lee     |  Unsupervised Domain Adaptation for Distance Metric Learning [[Sohn et al., ICLR 2019](https://www.nec-labs.com/uploads/Documents/Media-Analytics/research-papers/Unsupervised%20Domain%20Adaptation%20for%20Distance%20Metric%20Learning.pdf)] [[slides](https://drive.google.com/file/d/1JnTnxrG_r3Ox1IxZ_MEU1_1mvMrF04I5/view?usp=sharing)]   |
-| 10/08 |   Keon-Hee Park    |  Efficient Feature Transformations for Discriminative and Generative Continual Learning [[Verma, Vinay Kumar, et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Verma_Efficient_Feature_Transformations_for_Discriminative_and_Generative_Continual_Learning_CVPR_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1i0Pee33hofHoQT6iqwfayxCNF28ulQky/view?usp=sharing)]  |
-| 10/15 |   Ju-Hye Son      |  FastSpeech2 : Fast And High Quality End To End Text To Speech [[Ren, Yi, et al., ICLR 2021](https://openreview.net/pdf?id=piLPYqxtWuA)] [[slides](https://drive.google.com/file/d/1ZDI0sjf5jH6dWfJC2Ek7Cr3FOi5f1LeS/view?usp=sharing)]  |
-| 10/22  | Ah-Hyung Shin | Time Series Anomaly Detection with Multiresolution Ensemble Decoding [[Shen, Lifeng, et al, AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-5192.ShenL.pdf)] [[slides](https://drive.google.com/file/d/1u0KDBZLKRwpgWKhTNmhXYQ68vEH2QSQH/view?usp=sharing)] |
-| 10/29  |   -      |  No Meeting (Mid-Term Exam)  |
-| 11/05  |   -      |  No Meeting (Mid-Term Exam)  |
-| 11/12  | Dong-Ho Lee | FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence [[sohn et al., NeurIPS 2020](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)] [[slides](https://drive.google.com/file/d/1-BY3kttQm3PTYuV8IzkIx462LFD75xM0/view?usp=sharing)]|
-| 11/19  | Jae-Ho Lee | Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [[Yuan, Li, et al., ICCV2021](https://arxiv.org/pdf/2101.11986.pdf)] [[slides](https://drive.google.com/file/d/1FXbQZYeJf9XXZ52MJN0wYDpiNmcCfRKD/view?usp=sharing)]|
-| 11/26  | Min-Guk Kim | Video Object Segmentation using Space-Time Memory Networks [[Oh, Seoung Wug, et al., ICCV2019](https://arxiv.org/pdf/1904.00607.pdf)] [[slides](https://drive.google.com/file/d/1bIGot1_bSsVmbnmb1LMjPkgiTSyiV645/view?usp=sharing)]|
-| 12/03  | Sung-Hoon Lee | Adversarial Continual Learning [[Ebrahimiet, Sayna, et al., ECCV 2020](https://arxiv.org/pdf/2003.09553.pdf)] [[slides](https://drive.google.com/file/d/1qzcLx7qwN2MtURluiGY2gPF2WjO4zdVJ/view?usp=sharing)]|
-| 12/10  | En-Ki Cho | Video Object Segmentation with Episodic Graph Memory Networks [[Lu, Xiankai, et al., ECCV 2020](https://arxiv.org/pdf/2007.07020.pdf)] [[slides](https://drive.google.com/file/d/1o96vazavko664rWxP369mSjjftrrxktN/view?usp=sharing)]|
-| 12/17  | - |  No Meeting (Final Exam)  |
-| 12/24  | - |  No Meeting! Merry Christmas!  |
-| 12/31  | - |  No Meeting! Happy New Year!   |
+| 01/05 |   Jongmin/Paul Shin <br /> Jun-Yeong Park  |TBA |
+| 01/12 |   Gyeong-Ho Bae <br /> Hyo-Gun Lee  |TBA |
+| 01/19 |   Keon-Hee Park <br /> Jun-Sung Go  |TBA |
+| 01/26 |   Jun-Yeong Park <br /> Min-Guk Kim  |TBA |
+| 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
+| 02/09 |   Yong-Hyun Ahn <br /> Jae-Ho Lee  |TBA |
+| 02/16 |   Keon-Hee Park <br /> Gyeong-Ho Bae  |TBA |
+| 02/23 |   Hyo-Gun Lee <br /> Sung-Hoon Lee  |TBA |
+| 03/02 |   Dong-Ho Lee <br /> Ah-Hyung Shin  |TBA |
+| 03/09 |   Jongmin/Paul Shin <br /> En-Ki Cho  |TBA |
 
 
 
@@ -62,7 +48,8 @@ This semester we will have one presenter each week. Presentation duration is lef
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you are going to present and provide your summary by **Wednesday** before your presentation. Also, please send your slides or a link to them once you finish preparing them.
+Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, also, provide (name and year) of the conference the paper was accepted and summary by **Monday 3pm** before your presentation.
+Moreover, send the presentation slides or a link on  **Tuesday**.
  
 * Dong-Ho Lee
 * Jong-Min (Paul) Shin
@@ -75,13 +62,13 @@ Please let Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr)  know what paper you a
 * Jun-Yeong Park
 * Sung-Hoon Lee
 * Keon-Hee Park
-* Ju-Hye Son
+* Jun-Sung Go
+* Yong-Hyun Ahn
 * [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
 * [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
 * [Prof. Gyeong-Moon Park](http://agi.khu.ac.kr/)
 * others...
 
-Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be a presenter this semester (2021 Summer and Fall)!
 
 ## Related Links
 
@@ -112,11 +99,9 @@ Please contact Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) if you want to be 
 #### How is the presenters' order generated?
 The presenters' order is generated from the presenters' list in a FIFO manner (but the list is initially generated randomly).
 
-#### Who is responsible if I can not present at the scheduled time?
-Yourself.
 
 #### What should I do if I can not present at the scheduled time?
-As early as possible, let the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) know about your situation. Also contact other presenters to see if they are willing to swap dates with you.
+As early as possible, let the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) know about your situation. Also contact other presenters to see if they are willing to swap dates with you.
 
 #### I have a question not listed here...
 Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-reading-group-g-groups -at- khu -dot- ac -dot- kr).
@@ -126,7 +111,7 @@ Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-readi
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Ah-Hyung (dkgud111 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Wednesday** of that week.
+**NOTE:** Please tell the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
