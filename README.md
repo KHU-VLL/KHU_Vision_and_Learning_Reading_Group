@@ -31,8 +31,8 @@ This Winter Break we will have two presenters each week. Presentation duration i
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/05 |   Jongmin/Paul Shin <br /> Jun-Yeong Park  |TBA |
-| 01/12 |   Gyeong-Ho Bae <br /> Hyo-Gun Lee  |TBA |
+| 01/05 |   Jongmin/Paul Shin <br /> Gyeong-Ho Bae  |TBA |
+| 01/12 |   Jun-Yeong Park <br /> Hyo-Gun Lee  |TBA |
 | 01/19 |   Keon-Hee Park <br /> Min-Guk Kim  |TBA |
 | 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |TBA |
 | 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
