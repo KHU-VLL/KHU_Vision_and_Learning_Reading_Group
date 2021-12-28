@@ -13,6 +13,7 @@ Location
 - [Current Schedule (Winter Break 2022)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
+- [Previous Meetings](#previous-meetings)
 - [Related Links](#related-links)
 - [FAQ](#faq)
 - [About Us](#about-us)
@@ -32,14 +33,14 @@ This Winter Break we will have two presenters each week. Presentation duration i
 |-------------|--------|--------|
 | 01/05 |   Jongmin/Paul Shin <br /> Jun-Yeong Park  |TBA |
 | 01/12 |   Gyeong-Ho Bae <br /> Hyo-Gun Lee  |TBA |
-| 01/19 |   Keon-Hee Park <br /> Jun-Sung Go  |TBA |
-| 01/26 |   Jun-Yeong Park <br /> Min-Guk Kim  |TBA |
+| 01/19 |   Keon-Hee Park <br /> Min-Guk Kim  |TBA |
+| 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |TBA |
 | 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
-| 02/09 |   Yong-Hyun Ahn <br /> Jae-Ho Lee  |TBA |
-| 02/16 |   Keon-Hee Park <br /> Gyeong-Ho Bae  |TBA |
-| 02/23 |   Hyo-Gun Lee <br /> Sung-Hoon Lee  |TBA |
-| 03/02 |   Dong-Ho Lee <br /> Ah-Hyung Shin  |TBA |
-| 03/09 |   Jongmin/Paul Shin <br /> En-Ki Cho  |TBA |
+| 02/09 |   Gyeong-Ho Bae <br /> Jae-Ho Lee  |TBA |
+| 02/16 |   Keon-Hee Park <br /> Hyo-Gun Lee  |TBA |
+| 02/23 |   Dong-Ho Lee <br /> Sung-Hoon Lee  |TBA |
+| 03/02 |   Jongmin/Paul Shin <br /> Ah-Hyung Shin  |TBA |
+| 03/09 |   Min-Guk Kim <br /> En-Ki Cho  |TBA |
 
 
 
@@ -62,7 +63,6 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 * Jun-Yeong Park
 * Sung-Hoon Lee
 * Keon-Hee Park
-* Jun-Sung Go
 * Yong-Hyun Ahn
 * [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
 * [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
