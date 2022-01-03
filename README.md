@@ -31,7 +31,7 @@ This Winter Break we will have two presenters each week. Presentation duration i
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/05 |   Jongmin/Paul Shin <br /> Gyeong-Ho Bae  |TBA |
+| 01/05 |   Jongmin/Paul Shin <br /> Gyeong-Ho Bae  |Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition [[James Hong, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Hong_Video_Pose_Distillation_for_Few-Shot_Fine-Grained_Sports_Action_Recognition_ICCV_2021_paper.pdf)] [[slides]]<br /> Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers [[Mandela Patrick, et al., NeurIPS 2021](https://arxiv.org/pdf/2106.05392.pdf)] [[slides]] |
 | 01/12 |   Jun-Yeong Park <br /> Hyo-Gun Lee  |TBA |
 | 01/19 |   Keon-Hee Park <br /> Min-Guk Kim  |TBA |
 | 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |TBA |
