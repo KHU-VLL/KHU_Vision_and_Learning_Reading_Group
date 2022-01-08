@@ -33,14 +33,14 @@ This Winter Break we will have two presenters each week. Presentation duration i
 |-------------|--------|--------|
 | 01/05 |   Jongmin/Paul Shin <br /> Gyeong-Ho Bae  |Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition [[James Hong, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Hong_Video_Pose_Distillation_for_Few-Shot_Fine-Grained_Sports_Action_Recognition_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1zLaUxBzC0fsVCzqGXBvGpIoQolecsAZr3WoaTfVLoXo/edit?usp=sharing)]<br /> Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers [[Mandela Patrick, et al., NeurIPS 2021](https://arxiv.org/pdf/2106.05392.pdf)] [[slides](https://drive.google.com/file/d/11L77RC_G8rxS4CtkiG4qNUrehsVYB-xR/view?usp=sharing)] |
 | 01/12 |   Jun-Yeong Park <br /> Hyo-Gun Lee  |TBA |
-| 01/19 |   Keon-Hee Park <br /> Min-Guk Kim  |TBA |
+| 01/19 |   Keon-Hee Park <br /> Jae-Ho Lee  |TBA |
 | 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |TBA |
 | 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
-| 02/09 |   Gyeong-Ho Bae <br /> Jae-Ho Lee  |TBA |
-| 02/16 |   Keon-Hee Park <br /> Hyo-Gun Lee  |TBA |
-| 02/23 |   Dong-Ho Lee <br /> Sung-Hoon Lee  |TBA |
-| 03/02 |   Jongmin/Paul Shin <br /> Ah-Hyung Shin  |TBA |
-| 03/09 |   Min-Guk Kim <br /> En-Ki Cho  |TBA |
+| 02/09 |   Gyeong-Ho Bae <br /> Keon-Hee Park  |TBA |
+| 02/16 |   Hyo-Gun Lee <br /> Dong-Ho Lee  |TBA |
+| 02/23 |   Sung-Hoon Lee <br /> Ah-Hyung Shin  |TBA |
+| 03/02 |   Jongmin/Paul Shin <br /> En-Ki Cho  |TBA |
+
 
 
 
@@ -57,7 +57,6 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 * Gyeong-Ho Bae
 * Hyo-Gun Lee
 * En-Ki Cho
-* Min-Guk Kim 
 * Ah-Hyung Shin
 * Jae-Ho Lee
 * Jun-Yeong Park
