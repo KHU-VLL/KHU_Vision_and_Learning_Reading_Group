@@ -10,7 +10,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Winter Break 2022)](#current-schedule)
+- [Current Schedule (Winter~Spring 2022)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
