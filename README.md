@@ -70,7 +70,7 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 
 ## Previous Meetings
 
-- [Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md)
+- [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md)
 
 ## Related Links
 
