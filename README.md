@@ -63,9 +63,6 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 * Sung-Hoon Lee
 * Keon-Hee Park
 * Yong-Hyun Ahn
-* [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/) 
-* [Prof. Seong-Tae Kim](http://ailab.khu.ac.kr)
-* [Prof. Gyeong-Moon Park](http://agi.khu.ac.kr/)
 * others...
 
 ## Previous Meetings
