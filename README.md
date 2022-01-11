@@ -53,7 +53,7 @@ Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what p
 Moreover, send the presentation slides or a link on  **Tuesday**.
  
 * Dong-Ho Lee
-* Jong-Min (Paul) Shin
+* JongMin (Paul) Shin
 * Gyeong-Ho Bae
 * Hyo-Gun Lee
 * En-Ki Cho
