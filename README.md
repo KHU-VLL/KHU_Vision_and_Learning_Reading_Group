@@ -54,7 +54,7 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 * Dongho Lee
 * Jongmin (Paul) Shin
 * Kyungho Bae
-* Hyo-Gun Lee
+* Hyogun Lee
 * En-Ki Cho
 * Ah-Hyung Shin
 * Jae-Ho Lee
