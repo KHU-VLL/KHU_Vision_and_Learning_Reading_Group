@@ -51,15 +51,15 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, also, provide (name and year) of the conference the paper was accepted and summary by **Monday 3pm** before your presentation.
 Moreover, send the presentation slides or a link on  **Tuesday**.
  
-* Dong-Ho Lee
+* Dongho Lee
 * JongMin (Paul) Shin
 * Gyeong-Ho Bae
 * Hyo-Gun Lee
 * En-Ki Cho
 * Ah-Hyung Shin
 * Jae-Ho Lee
-* Jun-Yeong Park
-* Sung-Hoon Lee
+* Jun-Young Park
+* Sunghoon Lee
 * Keon-Hee Park
 * Yong-Hyun Ahn
 * others...
