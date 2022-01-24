@@ -62,6 +62,10 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 * Sunghoon Lee
 * Keon-Hee Park
 * Yong-Hyun Ahn
+* Jiwon Hwang
+* Ju-Won Seo 
+* Moon-Gi Cho
+* Seun-An Choe
 * others...
 
 ## Previous Meetings
