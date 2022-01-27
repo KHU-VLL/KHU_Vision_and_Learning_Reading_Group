@@ -35,10 +35,11 @@ This Winter Break we will have two presenters each week. Presentation duration i
 | 01/19 |   Keon-Hee Park <br /> Jae-Ho Lee  |Class-Incremental Learning via Dual Augmentation[[Fei Zhu, et al., NIPS 2021](https://proceedings.neurips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)][[slides](https://docs.google.com/presentation/d/138Pg6u_g81qRjpCgPz68R9riHf9tc0Q2/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] <br /> Focal Attention for Long-Range Interactions in Vision Transformers [[Jianwei Yang, et al., NIPS 2021](https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf)] [[slides](https://drive.google.com/file/d/1Wx-VskvXS5UmcE-3Vf3TKRax5-wMWl0-/view?usp=sharing)] |
 | 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |Dual Path Learning for Domain Adaptation of Semantic Segmentation [[Yiting Cheng, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheng_Dual_Path_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1UyhH2wfb3R4Jf8EA6Ldg2RU4sTeLowJQ/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]<br />  Natural Adversarial Examples  [[Dan Hendrycks, et al. CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Hendrycks_Natural_Adversarial_Examples_CVPR_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1aqh34y8wxiep3j5ElHRdRahJQMGBFzyG/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
 | 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
-| 02/09 |   Gyeong-Ho Bae <br /> Keon-Hee Park  |TBA |
-| 02/16 |   Hyo-Gun Lee <br /> Dong-Ho Lee  |TBA |
-| 02/23 |   Sung-Hoon Lee <br /> Ah-Hyung Shin  |TBA |
-| 03/02 |   Jongmin/Paul Shin <br /> En-Ki Cho  |TBA |
+| 02/09 |   Invited Talk <br /> Kihyuk Sohn |Semi-Supervised Learning & Unsupervised Domain Adaptation [[About](https://scholar.google.com/citations?user=VxpypngAAAAJ&hl=en)] |
+| 02/16 |   Gyeong-Ho Bae <br /> Keon-Hee Park  |TBA |
+| 02/23 |   Hyo-Gun Lee <br /> Dong-Ho Lee  |TBA |
+| 03/02 |   Sung-Hoon Lee <br /> Ah-Hyung Shin  |TBA |
+| 03/09 |   Jongmin/Paul Shin <br /> En-Ki Cho  |TBA |
 
 
 
