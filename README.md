@@ -26,7 +26,7 @@ Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what p
 
 Moreover, send the presentation slides or a link on  **Tuesday**.
 
-This Winter Break we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Spring we will have one presenter each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
