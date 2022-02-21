@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 10:30AM
+- Wednesday 10:30AM (Changed time will be anounce after rescheduling)
 
 Location
 - Zoom (link will be provided via email)
@@ -9,7 +9,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Winter~Spring 2022)](#current-schedule)
+- [Current Schedule (Spring 2022)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -30,14 +30,16 @@ This Winter Break we will have two presenters each week. Presentation duration i
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/05 |   Jongmin/Paul Shin <br /> Gyeong-Ho Bae  |Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition [[James Hong, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Hong_Video_Pose_Distillation_for_Few-Shot_Fine-Grained_Sports_Action_Recognition_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1zLaUxBzC0fsVCzqGXBvGpIoQolecsAZr3WoaTfVLoXo/edit?usp=sharing)]<br /> Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers [[Mandela Patrick, et al., NeurIPS 2021](https://arxiv.org/pdf/2106.05392.pdf)] [[slides](https://drive.google.com/file/d/11L77RC_G8rxS4CtkiG4qNUrehsVYB-xR/view?usp=sharing)] |
-| 01/12 |   Jun-Yeong Park <br /> Hyo-Gun Lee  |MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation[[Xiaoqing Guo, et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_MetaCorrection_Domain-Aware_Meta_Loss_Correction_for_Unsupervised_Domain_Adaptation_in_CVPR_2021_paper.pdf)][[slides](https://docs.google.com/presentation/d/1bRUiah0J3MlEQUMLnT441kwSfE3ZCt5p/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] <br /> Evidential Deep Learning for Open Set Action Recognition [[Wentao Baoz, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1DdP0UEfUFXzWTRU9Bi29IQvol1-3HvHo/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
-| 01/19 |   Keon-Hee Park <br /> Jae-Ho Lee  |Class-Incremental Learning via Dual Augmentation[[Fei Zhu, et al., NIPS 2021](https://proceedings.neurips.cc/paper/2021/file/77ee3bc58ce560b86c2b59363281e914-Paper.pdf)][[slides](https://docs.google.com/presentation/d/138Pg6u_g81qRjpCgPz68R9riHf9tc0Q2/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] <br /> Focal Attention for Long-Range Interactions in Vision Transformers [[Jianwei Yang, et al., NIPS 2021](https://proceedings.neurips.cc/paper/2021/file/fc1a36821b02abbd2503fd949bfc9131-Paper.pdf)] [[slides](https://drive.google.com/file/d/1Wx-VskvXS5UmcE-3Vf3TKRax5-wMWl0-/view?usp=sharing)] |
-| 01/26 |   Jun-Yeong Park <br /> Yong-Hyun Ahn  |Dual Path Learning for Domain Adaptation of Semantic Segmentation [[Yiting Cheng, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheng_Dual_Path_Learning_for_Domain_Adaptation_of_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1UyhH2wfb3R4Jf8EA6Ldg2RU4sTeLowJQ/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]<br />  Natural Adversarial Examples  [[Dan Hendrycks, et al. CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Hendrycks_Natural_Adversarial_Examples_CVPR_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1aqh34y8wxiep3j5ElHRdRahJQMGBFzyG/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
-| 02/02 |   **Lunar New Year** :confetti_ball: |TBA |
-| 02/09 |   Invited Talk <br /> [Dr. Kihyuk Sohn](https://sites.google.com/site/kihyuksml/home) | Label-Efficient Deep Learning [[talk recording](https://www.dropbox.com/s/ihgxzvlr9ssaolp/DataEfficientDeepLearning_Sohn_20220209.mp4?dl=0)] |
-| 02/16 |   Keon-Hee Park <br /> Gyeongho Bae  |Semantic Drift Compensation for Class-Incremental Learning [[Lu Yu, et al., CVPR 2020](https://arxiv.org/pdf/2004.00440.pdf)] [[slides](https://docs.google.com/presentation/d/1lX3YYveZ0ZMIMk7HbRaViUChTzxPsX_q/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]<br /> Open-Set Recognition: A Good Closed-Set Classifier is All You Need  [[Sagar Vaze, et al., ICLR 2022]](https://arxiv.org/pdf/2110.06207.pdf)] [[slides](https://drive.google.com/file/d/1g-e54FTCH7hNLgEu9rGxjEdBZZytXJ8V/view?usp=sharing)]|
 | 02/23 |   Hyogun Lee <br /> Dongho Lee  |TBA |
+| 03/02 |   No Reading Group  |TBA |
+| TBA |  Seun-An Choe  |TBA |
+| TBA |  Jiwon Hwang  |TBA |
+| TBA |  Moon-Gi Cho  |TBA |
+| TBA |  Ju-Won Seo  |TBA |
+| TBA |  Sunghoon Lee  |TBA |
+| TBA |  Jongmin Shin  |TBA |
+| TBA |  Ah-Hyung Shin  |TBA |
+| TBA |  En-Ki Cho  |TBA |
 
 
 
@@ -69,6 +71,7 @@ Moreover, send the presentation slides or a link on  **Tuesday**.
 ## Previous Meetings
 
 - [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md)
+- [Winter 2022](https://github.com/khuvll/reading_group/blob/main/2022_Winter_schedule.md)
 
 ## Related Links
 
