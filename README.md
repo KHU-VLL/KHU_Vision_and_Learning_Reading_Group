@@ -30,8 +30,9 @@ This Spring we will have one presenter each week. Presentation duration is up to
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 02/23 |   Hyogun Lee <br /> Dongho Lee  |TBA |
-| 03/02 |   No Reading Group  |TBA |
+| 02/23 |   Dongho Lee  |DATASET CONDENSATION WITH GRADIENT MATCHING [[Bo Zhao et al, ICML 2021](https://arxiv.org/pdf/2006.05929.pdf)][[slides]()] |
+| 03/02 |   No Reading Group  |
+| TBA |  Hyogun Lee  |MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection [[Jia-Chang Feng et al, CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_MIST_Multiple_Instance_Self-Training_Framework_for_Video_Anomaly_Detection_CVPR_2021_paper.pdf)][[slides]()]  |
 | TBA |  Seun-An Choe  |TBA |
 | TBA |  Jiwon Hwang  |TBA |
 | TBA |  Moon-Gi Cho  |TBA |
@@ -40,7 +41,6 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | TBA |  Jongmin Shin  |TBA |
 | TBA |  Ah-Hyung Shin  |TBA |
 | TBA |  En-Ki Cho  |TBA |
-
 
 
 ## Mailing List
