@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 10:30AM (Changed time will be anounce after rescheduling)
+- Wednesday 12:00PM 
 
 Location
 - Zoom (link will be provided via email)
