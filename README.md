@@ -22,25 +22,25 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, provide (name and year) of the conference the paper was accepted and summary by **Monday 3pm** before your presentation.
+Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
 
-Moreover, send the presentation slides or a link on  **Tuesday**.
+Moreover, send the presentation slides or a link on  **Wednesday 10:00AM**.
 
 This Spring we will have one presenter each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 02/23 |   Dongho Lee  |DATASET CONDENSATION WITH GRADIENT MATCHING [[Bo Zhao et al, ICML 2021](https://arxiv.org/pdf/2006.05929.pdf)][[slides](https://drive.google.com/file/d/1x45tqXYXN6IbYHjwdqiK1RfG3rDSFYht/view?usp=sharing)] |
-| 03/02 |   No Reading Group  |
-| TBA |  Hyogun Lee  |MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection [[Jia-Chang Feng et al, CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_MIST_Multiple_Instance_Self-Training_Framework_for_Video_Anomaly_Detection_CVPR_2021_paper.pdf)][[slides]()]  |
-| TBA |  Seun-An Choe  |TBA |
-| TBA |  Jiwon Hwang  |TBA |
-| TBA |  Moon-Gi Cho  |TBA |
-| TBA |  Ju-Won Seo  |TBA |
-| TBA |  Sunghoon Lee  |TBA |
-| TBA |  Jongmin Shin  |TBA |
-| TBA |  Ah-Hyung Shin  |TBA |
-| TBA |  En-Ki Cho  |TBA |
+| 3.02 |  Hyogun Lee  |MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection [[Jia-Chang Feng et al, CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_MIST_Multiple_Instance_Self-Training_Framework_for_Video_Anomaly_Detection_CVPR_2021_paper.pdf)][[slides]()]  |
+| 3/09 |  No Reading Group  | Presidential Election Day |
+| 3/16 |  Seun-An Choe  |TBA |
+| 3/23 |  Jiwon Hwang  |TBA |
+| 3/30 |  Moon-Gi Cho  |TBA |
+| 4/06 |  Ju-Won Seo  |TBA |
+| 4/13 |  Sunghoon Lee  |TBA |
+| 4/20 |  Jongmin Shin  |TBA |
+| 4/27 |  Ah-Hyung Shin  |TBA |
+| 5/04 |  En-Ki Cho  |TBA |
 
 
 ## Mailing List
@@ -48,8 +48,8 @@ This Spring we will have one presenter each week. Presentation duration is up to
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, also, provide (name and year) of the conference the paper was accepted and summary by **Monday 3pm** before your presentation.
-Moreover, send the presentation slides or a link on  **Tuesday**.
+Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
+Moreover, send the presentation slides or a link on  **Wednesday 10:00AM**.
  
 * Dongho Lee
 * Jongmin (Paul) Shin
@@ -104,10 +104,9 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-As early as possible, let the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) know about your situation. Also contact other presenters to see if they are willing to swap dates with you.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) know about your situation.
 
-#### I have a question not listed here...
-Then ask by sending an e-mail to the mailing list (khu-vision-and-learning-reading-group-g-groups -at- khu -dot- ac -dot- kr).
+
 
 ## About Us
 
