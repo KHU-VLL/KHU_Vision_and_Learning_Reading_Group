@@ -33,7 +33,7 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 02/23 |   Dongho Lee  |DATASET CONDENSATION WITH GRADIENT MATCHING [[Bo Zhao et al, ICML 2021](https://arxiv.org/pdf/2006.05929.pdf)][[slides](https://drive.google.com/file/d/1x45tqXYXN6IbYHjwdqiK1RfG3rDSFYht/view?usp=sharing)] |
 | 3.02 |  Hyogun Lee  |MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection [[Jia-Chang Feng et al, CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_MIST_Multiple_Instance_Self-Training_Framework_for_Video_Anomaly_Detection_CVPR_2021_paper.pdf)][[slides](https://docs.google.com/presentation/d/1qZn4hWVpg2viQxj-2m0Aj4qwnvP_B4On/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]  |
 | 3/09 |  No Reading Group  | Presidential Election Day |
-| 3/16 |  Seun-An Choe  |Differential Treatment for Stuff and Things:A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation [[Wang, Zhonghao, et al , CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Differential_Treatment_for_Stuff_and_Things_A_Simple_Unsupervised_Domain_CVPR_2020_paper.pdf)][[slides]()]|
+| 3/16 |  Seun-An Choe  |Differential Treatment for Stuff and Things:A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation [[Wang, Zhonghao, et al , CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Differential_Treatment_for_Stuff_and_Things_A_Simple_Unsupervised_Domain_CVPR_2020_paper.pdf)][[slides](https://docs.google.com/presentation/d/1MMdGBwGOTAi6pqJNzowxzjA5dUIEfGvDRnDE_bk1lh0/edit#slide=id.p1)]|
 | 3/23 |  Jiwon Hwang  |TBA |
 | 3/30 |  Moon-Gi Cho  |TBA |
 | 4/06 |  Ju-Won Seo  |TBA |
