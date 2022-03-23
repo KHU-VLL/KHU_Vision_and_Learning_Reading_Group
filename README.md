@@ -38,16 +38,17 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 3/30 |  Moon-Gi Cho  |TBA |
 | 4/06 |  Ju-Won Seo  |TBA |
 | 4/13 |  Sunghoon Lee  |TBA |
-| 4/20 |  Jongmin Shin  |TBA |
-| 4/27 |  Ah-Hyung Shin  |TBA |
-| 5/04 |  En-Ki Cho  |TBA |
-| 5/11 |  Jae-Ho Lee  |TBA |
-| 5/18 |  Jun-Yeong Park  |TBA |
-| 5/25 |  Yong-Hyun Ahn  |TBA |
-| 6/01 |  Keon-Hee Park  |TBA |
-| 6/08 |  Gyeongho Bae  |TBA |
-| 6/15 |  Hyogun Lee  |TBA |
-| 6/22 |  Dongho Lee  |TBA |
+| 4/20 |  Midterm  |No Reading Group:book: |
+| 4/27 |  Midterm  |No Reading Group:book:  |
+| 5/04  |  Jongmin Shin  |TBA |
+| 5/11 |  Ah-Hyung Shin  |TBA |
+| 5/18 |  En-Ki Cho  |TBA |
+| 5/25 |  Jae-Ho Lee  |TBA |
+| 6/01 |  Jun-Yeong Park  |TBA |
+| 6/08 |  Yong-Hyun Ahn  |TBA |
+| 6/15 |  Keon-Hee Park  |TBA |
+| 6/22 |  Gyeongho Bae  |TBA |
+
 
 
 
