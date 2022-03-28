@@ -35,7 +35,7 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 3/09 |  No Reading Group  | Presidential Election Day |
 | 3/16 |  Seun-An Choe  |Differential Treatment for Stuff and Things:A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation [[Wang, Zhonghao, et al , CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Differential_Treatment_for_Stuff_and_Things_A_Simple_Unsupervised_Domain_CVPR_2020_paper.pdf)][[slides](https://docs.google.com/presentation/d/1MMdGBwGOTAi6pqJNzowxzjA5dUIEfGvDRnDE_bk1lh0/edit#slide=id.p1)]|
 | 3/23 |  Jiwon Hwang  |Subspace Regularizers for Few-shot Class Incremental Learning [[Afra Feyza Aky¨urek, et al, ICLR 2022](https://openreview.net/pdf?id=boJy41J-tnQ)][[slides](https://docs.google.com/presentation/d/1hFqK3slsDTNX-NJWvWVdvgXFbA3zTS_M/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
-| 3/30 |  Moon-Gi Cho  |TBA |
+| 3/30 |  Moon-Gi Cho  | Continual Sequence Generation with Adaptive Compositional Modules  [[Zhang et al., ACL 2022](https://arxiv.org/pdf/2203.10652.pdf)][[slides]()] |
 | 4/06 |  Ju-Won Seo  |TBA |
 | 4/13 |  Sunghoon Lee  |TBA |
 | 4/20 |  Midterm  |No Reading Group:book: |
