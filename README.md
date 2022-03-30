@@ -38,16 +38,16 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 3/30 |  Moon-Gi Cho  | Continual Sequence Generation with Adaptive Compositional Modules  [[Zhang et al., ACL 2022](https://arxiv.org/pdf/2203.10652.pdf)][[slides](https://docs.google.com/presentation/d/1ex7NIPeRyu9mX-tt5GTtF97g4tznX4Uk/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
 | 4/06 |  Ju-Won Seo  |TBA |
 | 4/13 |  Sunghoon Lee  |TBA |
-| 4/20 |  Midterm  |No Reading Group:book: |
-| 4/27 |  Midterm  |No Reading Group:book:  |
+| 4/20 |  Midterm  | No Reading Group :book: |
+| 4/27 |  Midterm  | No Reading Group :book: |
 | 5/04  |  Jongmin Shin  |TBA |
 | 5/11 |  Ah-Hyung Shin  |TBA |
 | 5/18 |  En-Ki Cho  |TBA |
 | 5/25 |  Jae-Ho Lee  |TBA |
 | 6/01 |  Jun-Yeong Park  |TBA |
-| 6/08 |  Yong-Hyun Ahn  |TBA |
-| 6/15 |  Keon-Hee Park  |TBA |
-| 6/22 |  Gyeongho Bae  |TBA |
+| 6/08 | Final  | No Reading Group :book: |
+| 6/15 | Final  | No Reading Group :book: |
+| 6/22 |  Yong-Hyun Ahn  |TBA |
 
 
 
