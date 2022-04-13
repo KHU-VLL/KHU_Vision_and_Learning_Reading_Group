@@ -37,7 +37,7 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 3/23 |  Jiwon Hwang  |Subspace Regularizers for Few-shot Class Incremental Learning [[Afra Feyza Aky¨urek, et al, ICLR 2022](https://openreview.net/pdf?id=boJy41J-tnQ)][[slides](https://docs.google.com/presentation/d/1hFqK3slsDTNX-NJWvWVdvgXFbA3zTS_M/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
 | 3/30 |  Moon-Gi Cho  | Continual Sequence Generation with Adaptive Compositional Modules  [[Zhang et al., ACL 2022](https://arxiv.org/pdf/2203.10652.pdf)][[slides](https://docs.google.com/presentation/d/1ex7NIPeRyu9mX-tt5GTtF97g4tznX4Uk/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)] |
 | 4/06 |  Ju-Won Seo  |Few-shot Image Generation via Cross-domain Correspondence [[Utkarsh Ojha et al., CVPR 2021](https://arxiv.org/abs/2104.06820)][[slides](https://docs.google.com/presentation/d/1ahKJ1n-xJQGgIqL2a1euU4WBTq8J7AtvHJskohd5p_s/edit#slide=id.p1)]  |
-| 4/13 |  Sunghoon Lee  |Continual Contrastive Learning [[Hyuntak, Cha, et al., ICCV 2021](https://arxiv.org/abs/2106.14413)][[slides]()]  |
+| 4/13 |  Sunghoon Lee  |Continual Contrastive Learning [[Hyuntak, Cha, et al., ICCV 2021](https://arxiv.org/abs/2106.14413)][[slides](https://docs.google.com/presentation/d/1V-33g439CDFLK7QIjXsTox7qCVZ2s_CI/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]  |
 | 4/20 |  Midterm  | No Reading Group :book: |
 | 4/27 |  Midterm  | No Reading Group :book: |
 | 5/04  |  Jongmin Shin  |TBA |
