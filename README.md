@@ -48,6 +48,16 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 6/08 | Final  | No Reading Group :book: |
 | 6/15 | Final  | No Reading Group :book: |
 | 6/22 |  Yong-Hyun Ahn  |TBA |
+| 6/29 |  Keon-Hee Park  |TBA |
+| 7/06 |  Gyeongho Bae  |TBA |
+| 7/13 |  Hyogun Lee  |TBA |
+| 7/20 |  Dongho Lee  |TBA |
+| 7/27 |  Seun-An Choe  |TBA |
+| 8/03 |  Jiwon Hwang  |TBA |
+| 8/10 |  Moon-Gi Cho  |TBA |
+| 8/17 |  Ju-Won Seo  |TBA |
+
+
 
 
 
