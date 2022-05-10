@@ -41,7 +41,7 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 4/20 |  Midterm  | No Reading Group :book: |
 | 4/27 |  Midterm  | No Reading Group :book: |
 | 5/04  |  Jongmin Shin  |Zero Shot Domain Generalization [[Udit Maniyar et al., BMCV 2020](https://www.bmvc2020-conference.com/assets/papers/0673.pdf)][[slides](https://docs.google.com/presentation/d/1R3bLk6ftzx96K_zVupTpD7db9c_x3d08/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]|
-| 5/11  |  Jongmin Shin  |Zero Shot Domain Generalization [[Udit Maniyar et al., BMCV 2020](https://www.bmvc2020-conference.com/assets/papers/0673.pdf)][[slides](https://docs.google.com/presentation/d/1R3bLk6ftzx96K_zVupTpD7db9c_x3d08/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]|
+| 5/11  |  Jongmin Shin  |Zero Shot Domain Generalization [[Udit Maniyar et al., BMCV 2020](https://www.bmvc2020-conference.com/assets/papers/0673.pdf)][[slides](https://docs.google.com/presentation/d/1s1KbNonDeF15ANMC9GB5MgEojeA01L5SPMqiB21RLyE/edit?usp=sharing)]|
 | 5/18 |  En-Ki Cho  |TBA |
 | 5/25 |  Yong-Hyun Ahn  |TBA |
 | 6/01 |  Jun-Yeong Park  |TBA |
