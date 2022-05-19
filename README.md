@@ -77,6 +77,7 @@ Moreover, send the presentation slides or a link on  **Wednesday 10:00AM**.
 * Ju-Won Seo 
 * Moon-Gi Cho
 * Seun-An Choe
+* Junbeom Hong
 * others...
 
 ## Previous Meetings
