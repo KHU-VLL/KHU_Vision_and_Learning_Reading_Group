@@ -45,11 +45,10 @@ This Spring we will have one presenter each week. Presentation duration is up to
 | 5/18 |  No Reading Group (Univeristy Anniversary)  | Enjoy your NeurIPS deadline period! |
 | 5/25 |  En-Ki Cho  |Adaptive Selection of Reference Frames for Video Object Segmentation [[Lingyi Hong et al., TIP 2022](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665289)][[slides](https://docs.google.com/presentation/d/1oROZiWoY2TWW2L6sZEi6s9Vm-OhQsOpK/edit?usp=sharing&ouid=106002650761656716469&rtpof=true&sd=true)]|
 | 6/01 |  VOTE |No Reading Group :book: |
-| 6/08 |   Yong-Hyun Ahn  | Understanding the role of individual units in a deep neural network [[Bau, David et al., PNAS 2020]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665289](https://www.pnas.org/doi/pdf/10.1073/pnas.1907375117))][[slides]()]|
+| 6/08 |   Yong-Hyun Ahn  |Understanding the role of individual units in a deep neural network [[Bau, David et al., PNAS 2020](https://www.pnas.org/doi/pdf/10.1073/pnas.1907375117)][[slides]()]|
 | 6/15 | Final  | No Reading Group :book: |
 | 6/22 | Final  | No Reading Group :book: |
 | 6/29 | TBA  | TBA |
-
 
 
 
