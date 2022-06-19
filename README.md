@@ -23,7 +23,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let En-Ki Cho (*** -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
+Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
 
 Moreover, send the presentation slides or a link on  **Tuesday 10:00AM**.
 
@@ -53,7 +53,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Jongmin/Paul Shin (shinpaul14 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
+Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
 Moreover, send the presentation slides or a link on  **Wednesday 10:00AM**.
  
 * Dongho Lee
@@ -65,7 +65,6 @@ Moreover, send the presentation slides or a link on  **Wednesday 10:00AM**.
 * Jae-Ho Lee
 * Jun-Young Park
 * Sunghoon Lee
-* Keon-Hee Park
 * Yong-Hyun Ahn
 * Jiwon Hwang
 * Ju-Won Seo 
