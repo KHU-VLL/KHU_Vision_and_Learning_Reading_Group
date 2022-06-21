@@ -31,13 +31,13 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 6/28 |   presenter1  <br />   presenter2   |  paper name [[Author name, et al., Paper name year](PDF_link)] [[slides](Slide_link)] <br /> paper name [[Author name, et al., Paper name year]()] [[slides]()]|
-| 7/05 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 7/12 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 7/19 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 7/26 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 8/02 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 8/09 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 6/28 |   Jiwon Hwang  <br />   Ju-Won Seo   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 7/05 |  Jun-Yeong Park  <br />   Ah-Hyung Shin   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 7/12 |  Hyo-Gun Lee   <br />   Yong-Hyun Ahn   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 7/19 |  En-Ki Cho   <br />   Dongho Lee   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 7/26 |  Gyeong-Ho Bae   <br />   Seun-An Choi   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 8/02 |  Jongmin/Paul Shin   <br />   Sung-Hoon Lee   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 8/09 |  Jae-Ho Lee   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/16 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/23 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/30 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
