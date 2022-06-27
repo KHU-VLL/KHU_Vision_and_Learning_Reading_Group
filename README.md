@@ -5,7 +5,7 @@ Time
 
 Location
 - Zoom (link will be provided via email)
-- Room Number ()
+- Room Number (309)
 
 
 ## Table of Contents
