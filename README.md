@@ -31,7 +31,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 6/28 |   Ji-won Hwang  <br />   Ju-Won Seo   |  Looking Back on Learned Experiences For Class/task Incremental Learning [[Mozhgan PourKeshavarz et al, ICLR 2022](https://openreview.net/pdf?id=RxplU3vmBx)] [[slides]()] <br /> A Closer Look at Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2022](https://arxiv.org/pdf/2205.03805.pdf)] [[slides]()]|
+| 6/28 |   Ji-won Hwang  <br />   Ju-Won Seo   |  Looking Back on Learned Experiences For Class/task Incremental Learning [[Mozhgan PourKeshavarz et al, ICLR 2022](https://openreview.net/pdf?id=RxplU3vmBx)] [[slides](https://docs.google.com/presentation/d/1eo08INIcrVYrPXGKhjPxBQmmbtYgXZ2y/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] <br /> A Closer Look at Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2022](https://arxiv.org/pdf/2205.03805.pdf)] [[slides](https://docs.google.com/presentation/d/16aZlvVq2WWy3PAZsgKUwUqIZtaM4_ExjcZSpBZAnPQ0/edit?usp=sharing)]|
 | 7/05 |  Jun-Yeong Park  <br />   Ah-Hyung Shin   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 7/12 |  Hyo-Gun Lee   <br />   Yong-Hyun Ahn   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 7/19 |  En-Ki Cho   <br />   Dong-ho Lee   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
