@@ -4,7 +4,7 @@ Time
 - Tuesday 10:30AM 
 
 Location 
-- 309 Electronic Information College Building
+- 211-2 Electronic Information College Building
 - Or you can join via Zoom (link will be provided via email)
 
 
