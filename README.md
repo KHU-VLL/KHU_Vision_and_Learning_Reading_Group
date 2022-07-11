@@ -38,7 +38,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 7/26 |  Kyungho Bae   <br />   Seun-An Choi   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/02 |  Jongmin/Paul Shin   <br />   Sung-Hoon Lee   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/09 |  Jae-Ho Lee   <br />   So-yeon Won   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
-| 8/16 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
+| 8/16 |  Min-Kuk   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/23 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 | 8/30 |  TBA   <br />   TBA   |  TBA [[TBA, et al., TBA]()] [[slides]()] <br /> TBA [[TBA, et al., TBA]()] [[slides]()]|
 
