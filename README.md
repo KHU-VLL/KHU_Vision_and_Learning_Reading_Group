@@ -8,6 +8,11 @@ Location
 - Or you can join via Zoom (link will be provided via email)
 
 
+<p align="center">
+<img src="Trinity_Summer_2022.jpeg" width="800" align="center">
+</p>
+
+
 ## Table of Contents
 
 - [Current Schedule (Summer 2022)](#current-schedule)
