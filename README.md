@@ -62,20 +62,10 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 6pm** before your presentation.
 Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
  
-* Dongho Lee
-* Jongmin (Paul) Shin
-* Kyungho Bae
-* Hyogun Lee
-* En-Ki Cho
-* Ah-Hyung Shin
-* Jae-Ho Lee
-* Jun-Young Park
-* Sunghoon Lee
-* Yong-Hyun Ahn
-* Jiwon Hwang
-* Ju-Won Seo 
-* Seun-An Choe
-* others...
+* AUGI : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
+* VLL : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
+* AGI : Ah-Hyung Shin / Sung-Hoon Lee / Ji-won Hwang / Jun-Yeong Park / JaeHo Lee / Seunan Choe / Ju-Won Seo
+* MLVC : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin
 
 ## Previous Meetings
 
