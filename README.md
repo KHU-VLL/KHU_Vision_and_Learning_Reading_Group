@@ -61,18 +61,19 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 ## Presenters
 Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 6pm** before your presentation.
 Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
- 
-* AUGI
-  - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
-* VLL
-  - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
-  - UG student : Jongseo Lee, JunBeom Hong
-* AGI
+
+* [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Ah-Hyung Shin / Sung-Hoon Lee / Ji-won Hwang
   - UG student : Jun-Yeong Park / JaeHo Lee / Seunan Choe / Ju-Won Seo / Keon-Hee Park / Min-Yeong Park / Jun-Yeong Moon
-* MLVC
+* [AUGI](http://ailab.khu.ac.kr/)
+  - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
+* [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin
   - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee
+* [VLL](https://vll.khu.ac.kr/index.html)
+  - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
+  - UG student : Jongseo Lee, JunBeom Hong
+
 
 ## Previous Meetings
 
