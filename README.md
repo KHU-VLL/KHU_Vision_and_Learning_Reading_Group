@@ -68,8 +68,8 @@ Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin
-  - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee
+  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang
+  - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Hoeyeong Jin
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
   - UG student : Jongseo Lee / JunBeom Hong
