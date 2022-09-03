@@ -28,9 +28,9 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Monday 4pm** before your presentation.
+Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
-Moreover, send the presentation slides or a link on  **Tuesday 10:00AM**.
+Moreover, send the presentation slides or a link on  **Saturday 11:59pm**.
 
 This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
