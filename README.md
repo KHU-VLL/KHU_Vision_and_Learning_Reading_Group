@@ -64,7 +64,7 @@ Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Ah-Hyung Shin / Sung-Hoon Lee / Ji-won Hwang
-  - UG student : Jun-Yeong Park / JaeHo Lee / Seunan Choe / Ju-Won Seo / Keon-Hee Park / Min-Yeong Park / Jun-Yeong Moon
+  - UG student : JaeHo Lee / Seunan Choe / Ju-Won Seo / Keon-Hee Park / Min-Yeong Park / Jun-Yeong Moon
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
