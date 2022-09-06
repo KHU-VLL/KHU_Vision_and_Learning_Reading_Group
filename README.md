@@ -39,16 +39,30 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 6/28 |   Ji-won Hwang  <br />   Ju-Won Seo   |  Looking Back on Learned Experiences For Class/task Incremental Learning [[Mozhgan PourKeshavarz et al, ICLR 2022](https://openreview.net/pdf?id=RxplU3vmBx)] [[slides](https://docs.google.com/presentation/d/1eo08INIcrVYrPXGKhjPxBQmmbtYgXZ2y/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] <br /> A Closer Look at Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2022](https://arxiv.org/pdf/2205.03805.pdf)] [[slides](https://docs.google.com/presentation/d/16aZlvVq2WWy3PAZsgKUwUqIZtaM4_ExjcZSpBZAnPQ0/edit?usp=sharing)]|
-| 7/05 |  Jun-Yeong Park  <br />   Ah-Hyung Shin   |  The Norm Must Go On: Dynamic Unsupervised Domain Adaptation by Normalization [[M.Jehanzeb Mirza et al, CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Mirza_The_Norm_Must_Go_On_Dynamic_Unsupervised_Domain_Adaptation_by_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1IyuWVUPB6-XzQIcd_HV7WGDFjRH-0cfk/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] <br /> Fine-tuning Image Transformers using Learnable Memory [[Sandler, Mark, et al., CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Sandler_Fine-Tuning_Image_Transformers_Using_Learnable_Memory_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1lgyt75PupFG5d784mC4TNDjuQ_d-lB0S_ZS3zOFkIBI/edit?usp=sharing)]|
-| 7/12 |  Yong-Hyun Ahn   <br />   Hyogun Lee   |  HINT: Hierarchical Neuron Concept Explainer [[Wang, Andong, Wei-Ning Lee, and Xiaojuan Qi., CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_HINT_Hierarchical_Neuron_Concept_Explainer_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/18dAt-iyuDqdqJHHeQdNuMHScGba2Koc4/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] <br /> Learning Transferable Visual Models From Natural Language Supervision [[Alec, Jong-Wook Kim, et al., ICML 2021](https://arxiv.org/pdf/2103.00020.pdf)] [[slides]](https://docs.google.com/presentation/d/1NGz3EVMCj0B-j_wvN2GynwxWocnHK61g/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true])|
-| 7/19 |  En-Ki Cho   <br />   Dongho Lee   |  Video Object Segmentation with Adaptive Feature Bank and Uncertain-Region Refinement [[Yongqing Liang, Xin Li, et al., NeurIPS 2020](https://arxiv.org/pdf/2010.07958.pdf)] [[slides](https://drive.google.com/file/d/1xy6brjZ1tSsh7_-JawOm1spphyltVVMJ/view?usp=sharing)] <br /> Moving Window Regression: A Novel Approach to Ordinal Regression [[Nyeong-Ho Shin, Seon-Ho Lee, Chang-Su Kim, et al., CVPR 2022](https://arxiv.org/pdf/2203.13122.pdf)] [[slides](https://drive.google.com/file/d/18A8OnLvfbXESBMDzd-NLVg4WzUeeinN4/view?usp=sharing)]|
-| 7/26 |  Kyungho Bae   <br />   Seunan Choe   |  How Does SimSiam Avoid Collapse Without Negative Samples? A Unified Understanding with Self-supervised Contrastive Learning [[Zhang, Pham, et al., ICLR2022](https://arxiv.org/pdf/2203.16262.pdf)] [[slides](https://drive.google.com/file/d/1kE9JO8I36waMUNL8IyfYPMWWMAVPmE3f/view?usp=sharing)] <br /> Self-supervised Augmentation Consistency for Adapting Semantic Segmentation [[Nikita Araslanov, Stefan Roth, CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Araslanov_Self-Supervised_Augmentation_Consistency_for_Adapting_Semantic_Segmentation_CVPR_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1ma415oMUkFChD4fXA2jZwusBIaubcgDExn1uKltytWU/edit?usp=sharing)]|
-| 8/02 | Gyeong-Moon Park   |  IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion [[Seung-Jun Moon, Gyeong-Moon Park., ECCV 2022]()] [[slides](https://drive.google.com/file/d/1yhe5t9qRSEqS1k7-tWGFM-LwjMlRZlZQ/view?usp=sharing)]|
-| 8/09 | Sung-Hoon Lee  |   Representational Continuity for Unsupervised Continual Learning  [[Madaan, Yoon, et al., ICLR(Oral) 2022](https://arxiv.org/pdf/2110.06976.pdf)] [[slides](https://docs.google.com/presentation/d/1l-Hb9R9_zc3462N3b-9AkTpzIOHabZYV/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)]|
-| 8/16 |  Jongmin/Paul Shin   <br />   Min-Kuk   |   Domain Generalization through Audio-Visual Relative Norm Alignment in First Person Action Recognition [[Mirco Planamente, et al., WACV 2022](https://openaccess.thecvf.com/content/WACV2022/papers/Planamente_Domain_Generalization_Through_Audio-Visual_Relative_Norm_Alignment_in_First_Person_WACV_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1WWF5J1qlm4J51qwdRca8L6YRmQ5ga6oWeQoPkc2AQfw/edit?usp=sharing)] <br /> Triggering Failures: Out-Of-Distribution detection by learning from local adversarial attacks in Semantic Segmentation  [[Victor, Andrei, et al., CVPR 2021](https://arxiv.org/pdf/2108.01634.pdf)] [[slides](https://docs.google.com/presentation/d/16u6szvTwrdSDF87mpNlpZt-sM3yUTd3bmODL2TR2wLI/edit?usp=sharing)]|
-| 8/23 |  So-yeon Won   <br />   JaeHo Lee  |  Towards Better Understanding Attribution Methods [[Rao, Böhle, Schiele, et al., CVPR 2022](https://arxiv.org/pdf/2205.10435.pdf)] [[slides](https://drive.google.com/file/d/17i7j9OXMornfXnBCtrjBff6VT8sWftQB/view?usp=sharing)] <br /> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning [[Wang, Zhang, et al., ECCV 2022](https://arxiv.org/pdf/2204.04799.pdf)] [[slides](https://docs.google.com/presentation/d/1k-hHbTDHqu7C-AxEHW5e7mLuVr2MRDBH/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)]|
-| 8/30 |  No Meeting   | See you next semester! |
+| 9/12 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 9/19 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 9/26 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 10/3 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 10/10 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 10/17 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 10/24 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 10/31 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 11/7 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 11/14 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 11/21 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 11/28 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 12/5 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 12/12 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 12/19 |   TBA   |  TBA [[et al]()] [[slides]()]
+| 12/26 |   TBA   |  TBA [[et al]()] [[slides]()] 
+
+
+
+
+
+
+
+
 
 
 
