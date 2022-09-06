@@ -97,6 +97,7 @@ Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
 - [Summer~Fall 2021](https://github.com/khuvll/reading_group/blob/main/2021_Summer_Fall_schedule.md)
 - [Winter 2022](https://github.com/khuvll/reading_group/blob/main/2022_Winter_schedule.md)
 - [Spring 2022](https://github.com/khuvll/reading_group/blob/main/2022_Spring_schedule.md)
+- [Summer 2022](https://github.com/khuvll/reading_group/blob/main/2022_Summer_schedule.md)
 
 ## Related Links
 
