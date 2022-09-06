@@ -39,22 +39,22 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 9/12 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 9/19 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 9/26 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 10/3 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 10/10 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 10/17 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 10/24 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 10/31 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 11/7 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 11/14 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 11/21 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 11/28 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 12/5 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 12/12 |   TBA   |  TBA [[et al]()] [[slides]()] 
-| 12/19 |   TBA   |  TBA [[et al]()] [[slides]()]
-| 12/26 |   TBA   |  TBA [[et al]()] [[slides]()] 
+| 9/12 |   Happy Chuseok! |  No Reading Group :book: 
+| 9/19 |   Subin Yang   |  TBA [[et al]()] [[slides]()]
+| 9/26 |   Invited Talk   |  TBA [[et al]()] [[slides]()]
+| 10/3 |   National Holiay   |  No Reading Group :book:
+| 10/10 |   Substitute Holiday   |  No Reading Group :book: 
+| 10/17 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
+| 10/24 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
+| 10/31 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
+| 11/7 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
+| 11/14 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
+| 11/21 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
+| 11/28 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
+| 12/5 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
+| 12/12 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
+| 12/19 |   Ah-Hyung Shin   |  TBA [[et al]()] [[slides]()]
+| 12/26 |   Yong-Hyun Ahn   |  TBA [[et al]()] [[slides]()] 
 
 
 
