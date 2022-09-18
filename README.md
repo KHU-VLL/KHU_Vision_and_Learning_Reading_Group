@@ -41,20 +41,21 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 |-------------|--------|--------|
 | 9/12 |   Happy Chuseok! |  No Reading Group :book: 
 | 9/19 |   Joonseok Lee   |  Towards Detailed Understanding of Visual Data [[slides](https://drive.google.com/file/d/1c_qJrk6TYiHJvvz5RJA3R9ayTssSmDVH/view?usp=sharing)(Full slides will be updated soon.)]
-| 9/26 |   Subin Yang   |  TBA [[et al]()] [[slides]()]
+| 9/26 |   Invited Talk   |  TBA [[et al]()] [[slides]()]
 | 10/3 |   National Holiay   |  No Reading Group :book:
 | 10/10 |   Substitute Holiday   |  No Reading Group :book: 
-| 10/17 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
-| 10/24 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
-| 10/31 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
-| 11/7 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
-| 11/14 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
-| 11/21 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
-| 11/28 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
-| 12/5 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
-| 12/12 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
-| 12/19 |   Ah-Hyung Shin   |  TBA [[et al]()] [[slides]()]
-| 12/26 |   Yong-Hyun Ahn   |  TBA [[et al]()] [[slides]()] 
+| 10/17 |   Subin Yang   |  TBA [[et al]()] [[slides]()] 
+| 10/24 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
+| 10/31 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
+| 11/7 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
+| 11/14 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
+| 11/21 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
+| 11/28 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
+| 12/5 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
+| 12/12 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
+| 12/19 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
+| 12/26 |   Ah-Hyung Shin   |  TBA [[et al]()] [[slides]()]
+
 
 
 
