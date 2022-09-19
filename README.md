@@ -4,7 +4,7 @@ Kyung Hee University Vision and Learning Reading Group
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Monday 7:00PM(19:00) 
+- Monday 7:00PM
 
 Location 
 - 211-2 Electronic Information College Building
@@ -40,7 +40,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 9/12 |   Happy Chuseok! |  No Reading Group :book: 
-| 9/19 |   Joonseok Lee   |  Towards Detailed Understanding of Visual Data [[slides](https://drive.google.com/file/d/1c_qJrk6TYiHJvvz5RJA3R9ayTssSmDVH/view?usp=sharing)(Full slides will be updated soon.)]
+| 9/19 |   [Joonseok Lee](http://www.joonseok.net/home.html) (Google Research/SNU Graduate School of Data Science)   |  Towards Detailed Understanding of Visual Data [[slides](https://drive.google.com/file/d/1c_qJrk6TYiHJvvz5RJA3R9ayTssSmDVH/view?usp=sharing)(Full slides will be updated soon.)]
 | 9/26 |   Invited Talk   |  TBA [[et al]()] [[slides]()]
 | 10/3 |   National Holiay   |  No Reading Group :book:
 | 10/10 |   Substitute Holiday   |  No Reading Group :book: 
