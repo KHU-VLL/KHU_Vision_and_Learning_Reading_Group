@@ -40,8 +40,8 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 9/12 |   Happy Chuseok! |  No Reading Group :book: 
-| 9/19 |   Invited Talk: [Joonseok Lee](http://www.joonseok.net/home.html) (Google Research/SNU Graduate School of Data Science)   |  Towards Detailed Understanding of Visual Data [[slides](https://drive.google.com/file/d/1c_qJrk6TYiHJvvz5RJA3R9ayTssSmDVH/view?usp=sharing)(Full slides will be updated soon.)]
-| 9/26 |   Invited Talk: [Jung Uk Kim](https://visualai.khu.ac.kr/)   |  Towards Robust Object Detection with Human Brain-Mimicking Approaches 
+| 9/19 |   Invited Talk  <br /> [Joonseok Lee](http://www.joonseok.net/home.html) (Google Research/SNU Graduate School of Data Science)   |  Towards Detailed Understanding of Visual Data [[slides](https://drive.google.com/file/d/1c_qJrk6TYiHJvvz5RJA3R9ayTssSmDVH/view?usp=sharing)(Full slides will be updated soon.)]
+| 9/26 |   Invited Talk  <br /> [Jung Uk Kim](https://visualai.khu.ac.kr/)   |  Towards Robust Object Detection with Human Brain-Mimicking Approaches 
 | 10/3 |   National Holiay   |  No Reading Group :book:
 | 10/10 |   Substitute Holiday   |  No Reading Group :book: 
 | 10/17 |   Subin Yang   |  TBA [[et al]()] [[slides]()] 
