@@ -1,6 +1,3 @@
-# reading_group
-Kyung Hee University Vision and Learning Reading Group
-
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
