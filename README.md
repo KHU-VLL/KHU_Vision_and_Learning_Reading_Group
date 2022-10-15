@@ -41,7 +41,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 9/26 |   Invited Talk  <br /> [Jung Uk Kim](https://visualai.khu.ac.kr/)   |  Towards Robust Object Detection with Human Brain-Mimicking Approaches 
 | 10/3 |   National Holiay   |  No Reading Group :book:
 | 10/10 |   Substitute Holiday   |  No Reading Group :book: 
-| 10/17 |   Subin Yang   |  TBA [[et al]()] [[slides]()] 
+| 10/17 |   Subin Yang   |  A New Journey from SDRTV to HDRTV [[Chen, Zhang et al, ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1IEq5Q09s1iVVviz0zaPSmRaKrg1cf1wg/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] 
 | 10/24 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
 | 10/31 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
 | 11/7 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
