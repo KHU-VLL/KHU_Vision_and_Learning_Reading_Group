@@ -42,16 +42,17 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 10/3 |   National Holiay   |  No Reading Group :book:
 | 10/10 |   Substitute Holiday   |  No Reading Group :book: 
 | 10/17 |   Subin Yang   |  A New Journey from SDRTV to HDRTV [[Xiangyu Chen, et al.,  ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1IEq5Q09s1iVVviz0zaPSmRaKrg1cf1wg/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] 
-| 10/24 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
-| 10/31 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
-| 11/7 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
-| 11/14 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
-| 11/21 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
-| 11/28 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
-| 12/5 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
-| 12/12 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
-| 12/19 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
-| 12/26 |   Ah-Hyung Shin   |  TBA [[et al]()] [[slides]()]
+| 10/24 |   Midterm   |  No Reading Group :book:
+| 10/31 |   Jongmin Shin   |  TBA [[et al]()] [[slides]()] 
+| 11/7 |   Keon-Hee Park   |  TBA [[et al]()] [[slides]()] 
+| 11/14 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
+| 11/21 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
+| 11/28 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
+| 12/5 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
+| 12/12 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
+| 12/19 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
+| 12/26 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
+
 
 
 
