@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Monday 7:00PM
+- Monday 6:00PM
 
 Location 
 - 211-2 Electronic Information College Building
