@@ -44,7 +44,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 10/17 |   Subin Yang   |  A New Journey from SDRTV to HDRTV [[Xiangyu Chen, et al.,  ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_A_New_Journey_From_SDRTV_to_HDRTV_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1IEq5Q09s1iVVviz0zaPSmRaKrg1cf1wg/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] 
 | 10/24 |   Midterm   |  No Reading Group :book:
 | 10/31 |   Jongmin Shin   |  WHAT SHOULD NOT BE CONTRASTIVE IN CONTRASTIVE LEARNING [[Tete Xiao, et al.,  ICLR 2021](https://arxiv.org/pdf/2008.05659.pdf)] [[slides](https://docs.google.com/presentation/d/1uqxiDH4UnpVyiNX0iY0Lpov3O0C2F_BVXI9Re52cGy0/edit)] 
-| 11/7 |   Keon-Hee Park   |  FOSTER: Feature Boosting and Compression for Class-Incremental Learning [[Wang, Fu-Yun, et al., ECCV 2022](https://arxiv.org/pdf/2204.04662.pdf)] [[slides](https://docs.google.com/presentation/d/13GMmoyW3GDGWdT_xV9rciWOeLPrFoIun/edit?usp=share_link&ouid=116993380765386390052&rtpof=true&sd=true)] 
+| 11/7 |   Keon-Hee Park   |  FOSTER: Feature Boosting and Compression for Class-Incremental Learning [[Wang, Fu-Yun, et al., ECCV 2022](https://arxiv.org/pdf/2204.04662.pdf)] [[slides](https://drive.google.com/file/d/1ajJ3srcnukvxwc3G5vCPbCvcokOIh_98/view?usp=share_link)] 
 | 11/14 |   So-yeon Won   |  TBA [[et al]()] [[slides]()]
 | 11/21 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
 | 11/28 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
