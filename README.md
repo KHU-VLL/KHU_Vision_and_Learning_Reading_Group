@@ -45,7 +45,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 10/24 |   Midterm   |  No Reading Group :book:
 | 10/31 |   Jongmin Shin   |  WHAT SHOULD NOT BE CONTRASTIVE IN CONTRASTIVE LEARNING [[Tete Xiao, et al.,  ICLR 2021](https://arxiv.org/pdf/2008.05659.pdf)] [[slides](https://docs.google.com/presentation/d/1uqxiDH4UnpVyiNX0iY0Lpov3O0C2F_BVXI9Re52cGy0/edit)] 
 | 11/7 |   Keon-Hee Park   |  FOSTER: Feature Boosting and Compression for Class-Incremental Learning [[Wang, Fu-Yun, et al., ECCV 2022](https://arxiv.org/pdf/2204.04662.pdf)] [[slides](https://drive.google.com/file/d/1ajJ3srcnukvxwc3G5vCPbCvcokOIh_98/view?usp=share_link)] 
-| 11/14 |   So-yeon Won   |  New Definitions and Evaluations for Saliency Methods: Staying Intrinsic, Complete and Sound [[Gupta, Saunshi,  et al ., NeurIPS 2022](https://arxiv.org/pdf/2211.02912.pdf)] [[slides]()]
+| 11/14 |   So-yeon Won   |  New Definitions and Evaluations for Saliency Methods: Staying Intrinsic, Complete and Sound [[Gupta, Saunshi,  et al ., NeurIPS 2022](https://arxiv.org/pdf/2211.02912.pdf)] [[slides](https://drive.google.com/file/d/1ROTCjLoXYD3QiW15G1mu6x6z0ColcLQN/view?usp=share_link)]
 | 11/21 |   Jongkyung Im   |  TBA [[et al]()] [[slides]()]
 | 11/28 |   Dongho Lee   |  TBA [[et al]()] [[slides]()]
 | 12/5 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
