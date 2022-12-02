@@ -48,10 +48,10 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 11/14 |   So-yeon Won   |  New Definitions and Evaluations for Saliency Methods: Staying Intrinsic, Complete and Sound [[Gupta, Saunshi,  et al ., NeurIPS 2022](https://arxiv.org/pdf/2211.02912.pdf)] [[slides](https://drive.google.com/file/d/1ROTCjLoXYD3QiW15G1mu6x6z0ColcLQN/view?usp=share_link)]
 | 11/21 |   Dongho Lee   |  VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training  [[Tong, Song,  et al .,  NeurIPS 2022](https://arxiv.org/pdf/2203.12602.pdf)] [[slides](https://drive.google.com/file/d/1zqIlQC-MYs2nNpl4Vq5etwks8-ocpxH-/view?usp=share_link)]
 | 11/28 |   Jongkyung Im   |  Structural Knowledge Distillation for Object Detection  [[Philip de Rijk et el., NeurIPS 2022](https://arxiv.org/pdf/2211.13133.pdf)] [[slides](https://docs.google.com/presentation/d/1bpo3_QF_aBCV3vN2bZ3F27TIZ3p1XMZ7/edit?usp=share_link&ouid=116993380765386390052&rtpof=true&sd=true)]
-| 12/5 |   Jun-Yeong Moon   |  TBA [[et al]()] [[slides]()] 
-| 12/12 |   Min-Kuk Kim   |  TBA [[et al]()] [[slides]()] 
-| 12/19 |   Junghun Cha   |  TBA [[et al]()] [[slides]()]
-| 12/26 |   Hyogun Lee   |  TBA [[et al]()] [[slides]()] 
+| 12/5 |   Capstone Presentation   |  No Reading Group :book:
+| 12/12 |   Final Exams   |  No Reading Group :book: 
+| 12/19 |   Final Exams   |  No Reading Group :book:
+| 12/26 |   -   |  TBA [[et al]()] [[slides]()] 
 
 
 
