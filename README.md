@@ -51,7 +51,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 12/5 |   Capstone Presentation   |  No Reading Group :book:
 | 12/12 |   Final Exams   |  No Reading Group :book: 
 | 12/19 |   Final Exams   |  No Reading Group :book:
-| 12/26 |   -   |  TBA [[et al]()] [[slides]()] 
+| 12/26 |   -   |  No Reading Group :book: 
 
 
 
