@@ -4,7 +4,7 @@ Time
 - Tuesday 11:00AM
 
 Location 
-- TBD
+- 211-2 Electronic Information College Building
 
 
 <p align="center">
@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
 Moreover, send the presentation slides or a link on  **Saturday 11:59pm**.
 
@@ -74,13 +74,13 @@ Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are
 Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Ah-Hyung Shin / Sung-Hoon Lee / Ji-won Hwang
-  - UG student : JaeHo Lee / Seunan Choe / Ju-Won Seo / Keon-Hee Park / Min-Yeong Park / Jun-Yeong Moon
+  - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Seunan Choe / Ju-Won Seo / Jun-Yeong Moon
+  - UG student :  Keon-Hee Park / Min-Yeong Park / Do-Hyeong Kim / Minki Kim
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang
-  - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Hoeyeong Jin / Hyeonjun Choi / Minseo Kim
+  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Hyeonjun Choi
+  - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Minseo Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
   - UG student : Jongseo Lee / JunBeom Hong
@@ -92,6 +92,7 @@ Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
 - [Winter 2022](https://github.com/khuvll/reading_group/blob/main/2022_Winter_schedule.md)
 - [Spring 2022](https://github.com/khuvll/reading_group/blob/main/2022_Spring_schedule.md)
 - [Summer 2022](https://github.com/khuvll/reading_group/blob/main/2022_Summer_schedule.md)
+- [Fall 2022](https://github.com/khuvll/reading_group/blob/main/2022_Fall_Winter_schedule.md)
 
 ## Related Links
 
