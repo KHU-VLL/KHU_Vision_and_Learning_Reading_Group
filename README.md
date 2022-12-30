@@ -31,22 +31,20 @@ Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper y
 
 Moreover, send the presentation slides or a link on  **Saturday 11:59pm**.
 
-This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
 | 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[PYabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides]] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., arXiv 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides]]|
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
-|     | TBA  | TBA |
+| 01/10 | TBA  | TBA |
+| 01/17 | TBA  | TBA |
+| 01/24 | Happy New Year!  | - |
+| 01/31 | TBA  | TBA |
+| 02/07 | TBA  | TBA |
+| 02/14 | TBA  | TBA |
+| 02/21 | TBA  | TBA |
+| 02/28 | TBA  | TBA |
+| 02/14 | TBA  | TBA |
 
 
 
