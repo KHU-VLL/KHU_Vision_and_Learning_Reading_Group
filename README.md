@@ -67,8 +67,8 @@ Moreover, send the presentation slides or a link on  **Saturday 11:59pm**.
   - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Hyeonjun Choi
   - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Minseo Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
-  - UG student : Jongseo Lee / JunBeom Hong
+  - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / JunBeom Hong
+  - UG student : 
 
 
 ## Previous Meetings
