@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[PYabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides]] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., arXiv 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides]]|
+| 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[Yabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides]] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., arXiv 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides]]|
 | 01/10 | TBA  | TBA |
 | 01/17 | TBA  | TBA |
 | 01/24 | - | No Meeting. Happy New Year! |
