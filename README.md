@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Summer 2022)](#current-schedule)
+- [Current Schedule (Winter 2023)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
