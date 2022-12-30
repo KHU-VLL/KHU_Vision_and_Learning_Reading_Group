@@ -50,26 +50,13 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Mailing List
 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let En-Ki Cho (cekkec -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 6pm** before your presentation.
-Moreover, send the presentation slides or a link on  **Monday 11:59PM**.
+Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+Moreover, send the presentation slides or a link on  **Saturday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Seunan Choe / Ju-Won Seo / Jun-Yeong Moon
