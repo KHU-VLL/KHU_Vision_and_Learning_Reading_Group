@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[Yabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides](https://docs.google.com/presentation/d/1MqIohxEKlqSFGuXT1g3DAgvPd8hZLSIlrIYzeZQC3rk/edit?usp=sharing)] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., arXiv 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides](https://docs.google.com/presentation/d/1Xa-bdXIsO04oOG3oorhZZGr9WcA5nmKx/edit?usp=sharing&ouid=108538125952274207926&rtpof=true&sd=true)]|
+| 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[Yabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides](https://docs.google.com/presentation/d/1MqIohxEKlqSFGuXT1g3DAgvPd8hZLSIlrIYzeZQC3rk/edit?usp=sharing)] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., ICCVW 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides](https://docs.google.com/presentation/d/1Xa-bdXIsO04oOG3oorhZZGr9WcA5nmKx/edit?usp=sharing&ouid=108538125952274207926&rtpof=true&sd=true)]|
 | 01/10 |     Kyungho Bae     <br />     Hoeyeong Jin     | TBA |
 | 01/17 |     Enki Cho     <br />     Jiwon Hwang     | TBA |
 | 01/24 | - | No Meeting. Happy New Year! |
