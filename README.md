@@ -29,7 +29,7 @@ Location
 ### Reading Group: 
 Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
-Moreover, send the presentation slides or a link on  **Monday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
