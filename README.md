@@ -39,7 +39,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 01/10 | - | No Reading Group. |
 | 01/17 |     Kyungho Bae     <br />     Hoeyeong Jin     |   Understanding the Behaviour of Contrastive Loss  [[Feng Wang, Huaping Liu, CVPR 2021](https://arxiv.org/pdf/2012.09740.pdf)] [[slides](https://docs.google.com/presentation/d/1hRzW6MKSf0JSQS7YDNPtMYlbuP2oYBiHl6K6mP_ehKc/edit?usp=sharing)] <br />  Softmax Splatting for Video Frame Interpolation   [[Simon Niklaus, Feng Liu, CVPR 2020](https://arxiv.org/pdf/2003.05534.pdf)] [[slides](https://docs.google.com/presentation/d/1voYWzLVRUJ33bLsLvA0xqNu9gjfcKyNF/edit#slide=id.p1)] |
 | 01/24 | - | No Reading Group. Happy New Year! |
-| 01/31 |     Enki Cho     <br />     Jiwon Hwang     | TBA |
+| 01/31 |     Enki Cho     <br />     Jiwon Hwang     |    XMem: Long-Term Video Object Segmentationwith an Atkinson-Shiffrin Memory Model  [[Ho Kei Cheng, Alexander G. Schwing , ECCV 2022](https://arxiv.org/pdf/2207.07115.pdf)] [[slides]] <br />  Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer  [[Sen Lin et al, NeurIPS 2022](https://openreview.net/pdf?id=diV1PpaP33)] [[slides]]  |
 | 02/07 |     Sung Oh     <br />     Ju-Won Seo     | TBA |
 | 02/14 |     Jongseo Lee     <br />     Seunan Choe     | TBA |
 | 02/21 |     Taegoo Kang     <br />     Minkuk Kim     | TBA |
@@ -60,7 +60,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Seunan Choe / Ju-Won Seo / Jun-Yeong Moon
   - UG student :  Keon-Hee Park / Min-Yeong Park / Do-Hyeong Kim / Minki Kim
 * [AUGI](http://ailab.khu.ac.kr/)
-  - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won
+  - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Hyeonjun Choi
   - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Minseo Kim
