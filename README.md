@@ -61,6 +61,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student :  Keon-Hee Park / Min-Yeong Park / Do-Hyeong Kim / Minki Kim
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
+  - UG student : Oh Sung Choo
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Hyeonjun Choi
   - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Minseo Kim
