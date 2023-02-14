@@ -67,7 +67,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Yuje Lee / Jeeon Bae / EuiJune Lee / Minseo Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
-  - UG student : Jongseo Lee / JunBeom Hong / Junghyun Lee
+  - UG student : Jongseo Lee / Junghyun Lee
 
 
 ## Previous Meetings
