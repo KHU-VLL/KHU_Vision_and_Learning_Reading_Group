@@ -58,8 +58,8 @@ Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper y
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Seunan Choe / Ju-Won Seo / Jun-Yeong Moon
-  - UG student :  Keon-Hee Park / Min-Yeong Park / Do-Hyeong Kim / Minki Kim
+  - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Ju-Won Seo / Jun-Yeong Moon
+  - UG student : Keon-Hee Park /  Seunan Choe / Min-Yeong Park / Minki Kim / Min-Jae Kim / Tae-Young Lee
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
   - UG student : Oh Sung Choo
