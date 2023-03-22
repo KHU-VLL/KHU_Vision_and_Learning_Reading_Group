@@ -38,27 +38,27 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[Yabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides](https://docs.google.com/presentation/d/1MqIohxEKlqSFGuXT1g3DAgvPd8hZLSIlrIYzeZQC3rk/edit?usp=sharing)] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., ICCVW 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides](https://docs.google.com/presentation/d/1Xa-bdXIsO04oOG3oorhZZGr9WcA5nmKx/edit?usp=sharing&ouid=108538125952274207926&rtpof=true&sd=true)]|
 | 01/10 | - | No Reading Group. :book:  |
 | 01/17 |     Kyungho Bae     <br />     Hoeyeong Jin     |   Understanding the Behaviour of Contrastive Loss  [[Feng Wang, Huaping Liu, CVPR 2021](https://arxiv.org/pdf/2012.09740.pdf)] [[slides](https://docs.google.com/presentation/d/1hRzW6MKSf0JSQS7YDNPtMYlbuP2oYBiHl6K6mP_ehKc/edit?usp=sharing)] <br />  Softmax Splatting for Video Frame Interpolation   [[Simon Niklaus, Feng Liu, CVPR 2020](https://arxiv.org/pdf/2003.05534.pdf)] [[slides](https://docs.google.com/presentation/d/1voYWzLVRUJ33bLsLvA0xqNu9gjfcKyNF/edit#slide=id.p1)] |
-| 01/24 | - | No Reading Group.:book:  Happy New Year! |
+| 01/24 | - | No Reading Group. :book:  Happy New Year! |
 | 01/31 |     Enki Cho     <br />     Jiwon Hwang     |    XMem: Long-Term Video Object Segmentationwith an Atkinson-Shiffrin Memory Model  [[Ho Kei Cheng, Alexander G. Schwing , ECCV 2022](https://arxiv.org/pdf/2207.07115.pdf)] [[slides](https://docs.google.com/presentation/d/1eOEH8wfAuXOZ4YYoLG0T_bDXSeo7mbyG/edit?usp=share_link&ouid=116993380765386390052&rtpof=true&sd=true)] <br />  Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer  [[Sen Lin et al, NeurIPS 2022](https://openreview.net/pdf?id=diV1PpaP33)] [[slides](https://drive.google.com/file/d/1id_cCrojCPftbWT89MjDfWGm-NSh2aml/view?usp=sharing)]  |
 | 02/07 |     Sung Oh     <br />     Ju-Won Seo     | CAFE: Learning to Condense Dataset by Aligning Features [[Kai Wang et al, CVPR 2022](https://arxiv.org/abs/2203.01531)] [[slides](https://docs.google.com/presentation/d/12JKptWKv66aBYfDWbXAE5W1qkouXdC03/edit?usp=share_link&ouid=116464895643735501334&rtpof=true&sd=true)] <br /> Few-Shot Image Generation via Adaptation-Aware Kernel Modulation [[Zhao et al., NeurIPS 2022](https://arxiv.org/abs/2210.16559.pdf)][[slides](https://docs.google.com/presentation/d/1wFgGCYNBQYwXIR_BgfnFuSkzIIZt7uM_0j2nNbSyQLY/edit?usp=sharing)] |
 | 02/14 |     Jongseo Lee     <br />     Seunan Choe     | Stand-Alone Inter-Frame Attention in Video Models [[Fuchen Long et al, CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1twBDnXP1eeOVTy536-iZxzttxQ6RFljS/edit?usp=share_link&ouid=101023465243762517212&rtpof=true&sd=true)] <br /> OVANet: One-vs-All Network for Universal Domain Adaptation[[Kuniaki Saito, Kate Saenko, ICCV 2021](https://arxiv.org/pdf/2104.03344.pdf)][[slides](https://docs.google.com/presentation/d/10tjdhMzx-yL8NnJqLDzG8PKzy-9TF1PZmArj_JK2-34/edit?usp=sharing)]  |
 | 02/21 |     Taegoo Kang     <br />     Minkuk Kim     |  Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation [[Yichen Zhu et al., NeurIPS 2022](https://openreview.net/forum?id=q6bZruC3dWJ)][[slides](https://docs.google.com/presentation/d/13N6FIFpxzUK4jwJ4tg4kfCwVL9P1W3ZZ/edit?usp=share_link&ouid=115888645095600326996&rtpof=true&sd=true)] <br /> Addressing failure prediction by learning model confidence. [[Corbière, Charles, et al, NeurIPS 2019](https://arxiv.org/pdf/1910.04851.pdf)][[slides](https://docs.google.com/presentation/d/1tNAoq6HgisMPZAfGpHVO8fz1aZfDHI4GI0cINWG3KP4/edit?usp=sharing)] |
 | 02/28 |     Hyogun Lee     <br />     Sunghoon Lee     | Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck [[Junho Kim, Byung-Kwan Lee, Yong Man Ro, NeurIPS 2021](https://arxiv.org/abs/2204.02735)][[slides](https://docs.google.com/presentation/d/1qnaOsxIUhwS8f4JcWpofMkUuPxijKaN5/edit?usp=sharing&ouid=116348548565230043793&rtpof=true&sd=true)] <br /> Memory-Efficient Continual Learning with Transformers [[Beyza, Ermis, et al, NeurIPS 2022](https://arxiv.org/abs/2203.04640)][[slides](https://drive.google.com/file/d/12VsTRnupLvuCfDq8H7VEKpLiDNYjzMwO/view?usp=share_link)] |
-| 03/08 | ICCV 2023 Deadline | No Reading Group.:book:  |
+| 03/08 | ICCV 2023 Deadline | No Reading Group. :book:  |
 | 03/15 |     Yuna Jung      | Bag of Instances Aggregation boosts self-supervised distillation [[Haohang Xu, Jiemin Fang, et al., ICLR 2022](https://arxiv.org/abs/2107.01691)][[slides](https://docs.google.com/presentation/d/1DmRg_7SGPiu24GTosDdsdddzLY_Rf9Wc/edit#slide=id.p29)] |
 | 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
 | 03/29 |     Yong Hyun Ahn      | - |
-| 04/05 | Seminar | No Reading Group.:book: |
+| 04/05 | Seminar | No Reading Group. :book: |
 | 04/12 | Seoyun Yang | - |
-| 04/19 | Midterm | No Reading Group.:book:  |
-| 04/26 | Midterm | No Reading Group.:book:  |
+| 04/19 | Midterm | No Reading Group. :book:  |
+| 04/26 | Midterm | No Reading Group. :book:  |
 | 05/03 | Minki Kim | - |
 | 05/10 | Hyeonbae Kim | - |
 | 05/17 | Soyeon Hong | - |
 | 05/24 | Min-Yeong Park | - |
 | 05/31 | So Yeon One | - |
-| 06/07 | Final | No Reading Group.:book:  |
-| 06/14 | Final | No Reading Group.:book:  |
+| 06/07 | Final | No Reading Group. :book:  |
+| 06/14 | Final | No Reading Group. :book:  |
 
 ## Mailing List
 
