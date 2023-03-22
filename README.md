@@ -56,7 +56,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 05/10 | Hyeonbae Kim | - |
 | 05/17 | Soyeon Hong | - |
 | 05/24 | Min-Yeong Park | - |
-| 05/31 | So Yeon One | - |
+| 05/31 | So Yeon Won | - |
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
 
