@@ -46,7 +46,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 02/28 |     Hyogun Lee     <br />     Sunghoon Lee     | Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck [[Junho Kim, Byung-Kwan Lee, Yong Man Ro, NeurIPS 2021](https://arxiv.org/abs/2204.02735)][[slides](https://docs.google.com/presentation/d/1qnaOsxIUhwS8f4JcWpofMkUuPxijKaN5/edit?usp=sharing&ouid=116348548565230043793&rtpof=true&sd=true)] <br /> Memory-Efficient Continual Learning with Transformers [[Beyza, Ermis, et al, NeurIPS 2022](https://arxiv.org/abs/2203.04640)][[slides](https://drive.google.com/file/d/12VsTRnupLvuCfDq8H7VEKpLiDNYjzMwO/view?usp=share_link)] |
 | 03/08 | ICCV 2023 Deadline | No Reading Group. |
 | 03/15 |     Yuna Jung      | Bag of Instances Aggregation boosts self-supervised distillation [[Haohang Xu, Jiemin Fang, et al., ICLR 2022](https://arxiv.org/abs/2107.01691)][[slides](https://docs.google.com/presentation/d/1DmRg_7SGPiu24GTosDdsdddzLY_Rf9Wc/edit#slide=id.p29)] |
-| 03/22 |      Jaeho Lee     | TBA |
+| 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
 
 
 ## Mailing List
