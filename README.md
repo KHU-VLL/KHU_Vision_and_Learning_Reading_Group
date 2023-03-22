@@ -50,15 +50,15 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 03/29 |     Yong Hyun Ahn      | - |
 | 04/05 | Seminar | - |
 | 04/12 | Seoyun Yang | - |
-| 04/19 | Midterm | - |
-| 04/26 | Midterm | - |
+| 04/19 | Midterm | No Reading Group. |
+| 04/26 | Midterm | No Reading Group. |
 | 05/03 | Minki Kim | - |
 | 05/10 | Hyeonbae Kim | - |
 | 05/17 | Soyeon Hong | - |
 | 05/24 | Min-Yeong Park | - |
 | 05/31 | So Yeon One | - |
-| 06/07 | Final | - |
-| 06/14 | Final | - |
+| 06/07 | Final | No Reading Group. |
+| 06/14 | Final | No Reading Group. |
 
 ## Mailing List
 
