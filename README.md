@@ -49,10 +49,10 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
 | 03/29 |     Yong Hyun Ahn      | - |
 | 04/05 | Seminar | No Reading Group. :book: |
-| 04/12 | Seoyun Yang | - |
+| 04/12 | Minki Kim | - |
 | 04/19 | Midterm | No Reading Group. :book:  |
 | 04/26 | Midterm | No Reading Group. :book:  |
-| 05/03 | Minki Kim | - |
+| 05/03 | Seoyun Yang | - |
 | 05/10 | Hyeonbae Kim | - |
 | 05/17 | Soyeon Hong | - |
 | 05/24 | Min-Yeong Park | - |
