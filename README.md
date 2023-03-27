@@ -47,7 +47,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 03/08 | ICCV 2023 Deadline | No Reading Group. :book:  |
 | 03/15 |     Yuna Jung      | Bag of Instances Aggregation boosts self-supervised distillation [[Haohang Xu, Jiemin Fang, et al., ICLR 2022](https://arxiv.org/abs/2107.01691)][[slides](https://docs.google.com/presentation/d/1DmRg_7SGPiu24GTosDdsdddzLY_Rf9Wc/edit#slide=id.p29)] |
 | 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
-| 03/29 |     Yong Hyun Ahn      | - |
+| 03/29 |     Yong Hyun Ahn      | LINe: Out-of-Distribution Detection by Leveraging Important Neurons[Yong Hyun Ahn, Gyeong-Moon Park, Seong Tae Kim CVPR 2023] |
 | 04/05 | Seminar | No Reading Group. :book: |
 | 04/12 | Minki Kim | - |
 | 04/19 | Midterm | No Reading Group. :book:  |
