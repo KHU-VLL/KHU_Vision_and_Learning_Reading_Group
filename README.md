@@ -49,7 +49,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
 | 03/29 |     Yong Hyun Ahn      | LINe: Out-of-Distribution Detection by Leveraging Important Neurons [[Yong Hyun Ahn, Gyeong-Moon Park, Seong Tae Kim, CVPR 2023](https://arxiv.org/abs/2303.13995)][[slides](https://docs.google.com/presentation/d/13BP1bSnKWJ4kG8BAStLmCG_gEAxTmEfD/edit?usp=share_link&ouid=112768466893930797839&rtpof=true&sd=true)] |
 | 04/05 | Seminar | No Reading Group. :book: |
-| 04/12 | Minki Kim | - |
+| 04/12 | Minki Kim |  BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning[[Jin Yea Jang, San Kim, et al., EMNLP 2021](https://aclanthology.org/2021.emnlp-main.277.pdf)] |
 | 04/19 | Midterm | No Reading Group. :book:  |
 | 04/26 | Midterm | No Reading Group. :book:  |
 | 05/03 | Seoyun Yang | - |
