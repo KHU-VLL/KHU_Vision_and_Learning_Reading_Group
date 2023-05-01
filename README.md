@@ -52,7 +52,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 04/12 | Minki Kim |  BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning[[Jin Yea Jang, San Kim, et al., EMNLP 2021](https://aclanthology.org/2021.emnlp-main.277.pdf)][[slides](https://docs.google.com/presentation/d/1A8lxOJMtG-15fSSBI_l1QzfHjyMlnNSr81aMuEm6xr8/edit)] |
 | 04/19 | Midterm | No Reading Group. :book:  |
 | 04/26 | Midterm | No Reading Group. :book:  |
-| 05/03 | Seoyun Yang | - |
+| 05/03 | Seoyun Yang | VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution [[Zeyuan Chen, et al, CVPR 2022](https://arxiv.org/abs/2206.04647)][[slides]] |
 | 05/10 | Hyeonbae Kim | - |
 | 05/17 | Soyeon Hong | - |
 | 05/24 | Min-Yeong Park | - |
