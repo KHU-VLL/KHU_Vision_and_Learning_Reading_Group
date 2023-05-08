@@ -53,12 +53,14 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 04/19 | Midterm | No Reading Group. :book:  |
 | 04/26 | Midterm | No Reading Group. :book:  |
 | 05/03 | Seoyun Yang | VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution [[Zeyuan Chen, et al, CVPR 2022](https://arxiv.org/abs/2206.04647)][[slides](https://docs.google.com/presentation/d/1A09M3QXV99DyJGuEVm1vKNsWacHR1ZyU/edit?usp=sharing&ouid=115205302128224419123&rtpof=true&sd=true)] |
-| 05/10 | Hyeonbae Kim | - |
-| 05/17 | Soyeon Hong | - |
-| 05/24 | Min-Yeong Park | - |
-| 05/31 | So Yeon Won | - |
+| 05/10 | NeurIPS Deadline |  No Reading Group. :book: |
+| 05/17 | NeurIPS Deadline |  No Reading Group. :book: |
+| 05/24 | Hyeonbae Kim | - |
+| 05/31 | Soyeon Hong | - |
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
+| 06/21 | Min-Yeong Park | -  |
+| 06/28 | So Yeon Won | -  |
 
 ## Mailing List
 
