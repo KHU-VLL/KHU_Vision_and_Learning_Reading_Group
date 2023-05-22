@@ -55,7 +55,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 05/03 | Seoyun Yang | VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution [[Zeyuan Chen, et al, CVPR 2022](https://arxiv.org/abs/2206.04647)][[slides](https://docs.google.com/presentation/d/1A09M3QXV99DyJGuEVm1vKNsWacHR1ZyU/edit?usp=sharing&ouid=115205302128224419123&rtpof=true&sd=true)] |
 | 05/10 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
 | 05/17 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
-| 05/24 | Hyeonbae Kim | - |
+| 05/24 | Hyeonbae Kim |  Vid2Seq: Large-scale pretraining of a visual language model for dense video captioning. [[Yang, Antoine, et al.,CVPR 2023](https://arxiv.org/abs/2302.14115)] [[slides]] |
 | 05/31 | Soyeon Hong | - |
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
