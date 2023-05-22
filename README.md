@@ -27,9 +27,9 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
@@ -67,8 +67,8 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Ju-Won Seo / Jun-Yeong Moon
