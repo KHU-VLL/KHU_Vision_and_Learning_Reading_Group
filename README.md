@@ -56,7 +56,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 05/10 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
 | 05/17 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
 | 05/24 | Hyeonbae Kim |  Vid2Seq: Large-scale pretraining of a visual language model for dense video captioning. [[Yang, Antoine, et al.,CVPR 2023](https://arxiv.org/abs/2302.14115)] [[slides](https://docs.google.com/presentation/d/1tgVmUuWYh9TYFIxDI8QKiCCiTphb0z1E/edit?usp=share_link&ouid=115797261789728292501&rtpof=true&sd=true)] |
-| 05/31 | Soyeon Hong | - |
+| 05/31 | Soyeon Hong | TamingTransformers for High-Resolution Image Synthesis [[Patric Esser, Robin Rombach, et al.,CVPR 2021](https://arxiv.org/abs/2012.09841)][[slides]] |
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
 | 06/21 | Min-Yeong Park | -  |
