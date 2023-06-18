@@ -59,8 +59,9 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 05/31 | Soyeon Hong | Taming Transformers for High-Resolution Image Synthesis [[Patric Esser, Robin Rombach, et al.,CVPR 2021](https://arxiv.org/abs/2012.09841)][[slides](https://docs.google.com/presentation/d/11z-jvYXg4cFBXxA_mfujU_mMT1E1ORxu/edit?usp=sharing&ouid=102058709278137773171&rtpof=true&sd=true)] |
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
-| 06/21 | Min-Yeong Park | -  |
-| 06/28 | So Yeon Won | -  |
+| 06/21 | CVPR Conference | No Reading Group. :book:  |
+| 06/28 | Min-Yeong Park | -  |
+| 07/05 | So Yeon Won | -  |
 
 ## Mailing List
 
