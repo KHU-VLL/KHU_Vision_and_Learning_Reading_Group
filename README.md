@@ -60,7 +60,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 06/07 | Final | No Reading Group. :book:  |
 | 06/14 | Final | No Reading Group. :book:  |
 | 06/21 | CVPR 2023 Conference | No Reading Group. :book:  |
-| 06/28 | Min-Yeong Park | -  |
+| 06/28 | Min-Yeong Park |  DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning [[ Hyounguk Shon, et al. , ECCV 2022 ](https://arxiv.org/abs/2208.08112)][[slides]] |
 | 07/05 | So Yeon Won | -  |
 
 ## Mailing List
