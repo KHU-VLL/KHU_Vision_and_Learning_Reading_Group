@@ -78,8 +78,8 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
   - UG student : Oh Sung Choo
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Hyeonjun Choi / Donghoon Kim
-  - UG student : Yuje Lee / EuiJune Lee / Minseo Kim / Sohyeon Kim
+  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Donghoon Kim
+  - UG student : EuiJune Lee / Minseo Kim / Sohyeon Kim / Myeongjun Oh / Habin Lim  
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
   - UG student : Jongseo Lee / Geo An / Soyeon Hong / Joohyun Chang 
