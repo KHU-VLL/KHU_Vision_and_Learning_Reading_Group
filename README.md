@@ -61,7 +61,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 06/14 | Final | No Reading Group. :book:  |
 | 06/21 | CVPR 2023 Conference | No Reading Group. :book:  |
 | 06/28 | Min-Yeong Park |  DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning [[ Hyounguk Shon, et al. , ECCV 2022 ](https://arxiv.org/abs/2208.08112)][[slides](https://docs.google.com/presentation/d/1PZ_PpwYfqRvfbzvnXIpmJ49sWfE70O8fK6rvr9oITwI/edit?usp=sharing)] |
-| 07/05 | So Yeon Won | -  |
+| 07/05 | So Yeon Won |  The effectiveness of feature attribution methods and its correlation with automatic evaluation scores [[Giang Nguyen, et al., NeurIPS 2021](https://arxiv.org/abs/2105.14944)][[slides]]  |
 
 ## Mailing List
 
