@@ -1,10 +1,10 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 19:00
+- Wednesday 11:00
 
 Location 
-- 211-2 Electronic Information College Building
+- 211-1 Electronic Information College Building
 
 
 <p align="center">
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Winter 2023)](#current-schedule)
+- [Current Schedule (Summer 2023)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,53 +27,33 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 01/03 |     Jun-Yeong Moon     <br />     Junghun Cha     |  S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning  [[Yabin Wang et el., NeurIPS 2022](https://arxiv.org/abs/2207.12819.pdf)] [[slides](https://docs.google.com/presentation/d/1MqIohxEKlqSFGuXT1g3DAgvPd8hZLSIlrIYzeZQC3rk/edit?usp=sharing)] <br />  SwinIR: Image Restoration Using Swin Transformer [[Jingyun Liang et el., ICCVW 2021](https://arxiv.org/pdf/2108.10257.pdf)] [[slides](https://docs.google.com/presentation/d/1Xa-bdXIsO04oOG3oorhZZGr9WcA5nmKx/edit?usp=sharing&ouid=108538125952274207926&rtpof=true&sd=true)]|
-| 01/10 | - | No Reading Group. :book:  |
-| 01/17 |     Kyungho Bae     <br />     Hoeyeong Jin     |   Understanding the Behaviour of Contrastive Loss  [[Feng Wang, Huaping Liu, CVPR 2021](https://arxiv.org/pdf/2012.09740.pdf)] [[slides](https://docs.google.com/presentation/d/1hRzW6MKSf0JSQS7YDNPtMYlbuP2oYBiHl6K6mP_ehKc/edit?usp=sharing)] <br />  Softmax Splatting for Video Frame Interpolation   [[Simon Niklaus, Feng Liu, CVPR 2020](https://arxiv.org/pdf/2003.05534.pdf)] [[slides](https://docs.google.com/presentation/d/1voYWzLVRUJ33bLsLvA0xqNu9gjfcKyNF/edit#slide=id.p1)] |
-| 01/24 | - | No Reading Group. :book:  Happy New Year! |
-| 01/31 |     Enki Cho     <br />     Jiwon Hwang     |    XMem: Long-Term Video Object Segmentationwith an Atkinson-Shiffrin Memory Model  [[Ho Kei Cheng, Alexander G. Schwing , ECCV 2022](https://arxiv.org/pdf/2207.07115.pdf)] [[slides](https://docs.google.com/presentation/d/1eOEH8wfAuXOZ4YYoLG0T_bDXSeo7mbyG/edit?usp=share_link&ouid=116993380765386390052&rtpof=true&sd=true)] <br />  Beyond Not-Forgetting: Continual Learning with Backward Knowledge Transfer  [[Sen Lin et al, NeurIPS 2022](https://openreview.net/pdf?id=diV1PpaP33)] [[slides](https://drive.google.com/file/d/1id_cCrojCPftbWT89MjDfWGm-NSh2aml/view?usp=sharing)]  |
-| 02/07 |     Sung Oh     <br />     Ju-Won Seo     | CAFE: Learning to Condense Dataset by Aligning Features [[Kai Wang et al, CVPR 2022](https://arxiv.org/abs/2203.01531)] [[slides](https://docs.google.com/presentation/d/12JKptWKv66aBYfDWbXAE5W1qkouXdC03/edit?usp=share_link&ouid=116464895643735501334&rtpof=true&sd=true)] <br /> Few-Shot Image Generation via Adaptation-Aware Kernel Modulation [[Zhao et al., NeurIPS 2022](https://arxiv.org/abs/2210.16559.pdf)][[slides](https://docs.google.com/presentation/d/1wFgGCYNBQYwXIR_BgfnFuSkzIIZt7uM_0j2nNbSyQLY/edit?usp=sharing)] |
-| 02/14 |     Jongseo Lee     <br />     Seunan Choe     | Stand-Alone Inter-Frame Attention in Video Models [[Fuchen Long et al, CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Long_Stand-Alone_Inter-Frame_Attention_in_Video_Models_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1twBDnXP1eeOVTy536-iZxzttxQ6RFljS/edit?usp=share_link&ouid=101023465243762517212&rtpof=true&sd=true)] <br /> OVANet: One-vs-All Network for Universal Domain Adaptation[[Kuniaki Saito, Kate Saenko, ICCV 2021](https://arxiv.org/pdf/2104.03344.pdf)][[slides](https://docs.google.com/presentation/d/10tjdhMzx-yL8NnJqLDzG8PKzy-9TF1PZmArj_JK2-34/edit?usp=sharing)]  |
-| 02/21 |     Taegoo Kang     <br />     Minkuk Kim     |  Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation [[Yichen Zhu et al., NeurIPS 2022](https://openreview.net/forum?id=q6bZruC3dWJ)][[slides](https://docs.google.com/presentation/d/13N6FIFpxzUK4jwJ4tg4kfCwVL9P1W3ZZ/edit?usp=share_link&ouid=115888645095600326996&rtpof=true&sd=true)] <br /> Addressing failure prediction by learning model confidence. [[Corbière, Charles, et al, NeurIPS 2019](https://arxiv.org/pdf/1910.04851.pdf)][[slides](https://docs.google.com/presentation/d/1tNAoq6HgisMPZAfGpHVO8fz1aZfDHI4GI0cINWG3KP4/edit?usp=sharing)] |
-| 02/28 |     Hyogun Lee     <br />     Sunghoon Lee     | Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck [[Junho Kim, Byung-Kwan Lee, Yong Man Ro, NeurIPS 2021](https://arxiv.org/abs/2204.02735)][[slides](https://docs.google.com/presentation/d/1qnaOsxIUhwS8f4JcWpofMkUuPxijKaN5/edit?usp=sharing&ouid=116348548565230043793&rtpof=true&sd=true)] <br /> Memory-Efficient Continual Learning with Transformers [[Beyza, Ermis, et al, NeurIPS 2022](https://arxiv.org/abs/2203.04640)][[slides](https://drive.google.com/file/d/12VsTRnupLvuCfDq8H7VEKpLiDNYjzMwO/view?usp=share_link)] |
-| 03/08 | ICCV 2023 Deadline | No Reading Group. :book:  |
-| 03/15 |     Yuna Jung      | Bag of Instances Aggregation boosts self-supervised distillation [[Haohang Xu, Jiemin Fang, et al., ICLR 2022](https://arxiv.org/abs/2107.01691)][[slides](https://docs.google.com/presentation/d/1DmRg_7SGPiu24GTosDdsdddzLY_Rf9Wc/edit#slide=id.p29)] |
-| 03/22 |      Jaeho Lee     | GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis [[Zhenhui Ye, Ziyue Jiang, et al. , ICLR 2023](https://openreview.net/pdf?id=YfwMIDhPccD)][[slides](https://docs.google.com/presentation/d/1OI_bTW8LDiVBGRzlLCSCsak-mVlR3xcN/edit?usp=share_link&ouid=100835262862596044579&rtpof=true&sd=true)]|
-| 03/29 |     Yong Hyun Ahn      | LINe: Out-of-Distribution Detection by Leveraging Important Neurons [[Yong Hyun Ahn, Gyeong-Moon Park, Seong Tae Kim, CVPR 2023](https://arxiv.org/abs/2303.13995)][[slides](https://docs.google.com/presentation/d/13BP1bSnKWJ4kG8BAStLmCG_gEAxTmEfD/edit?usp=share_link&ouid=112768466893930797839&rtpof=true&sd=true)] |
-| 04/05 | Seminar | No Reading Group. :book: |
-| 04/12 | Minki Kim |  BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning[[Jin Yea Jang, San Kim, et al., EMNLP 2021](https://aclanthology.org/2021.emnlp-main.277.pdf)][[slides](https://docs.google.com/presentation/d/1A8lxOJMtG-15fSSBI_l1QzfHjyMlnNSr81aMuEm6xr8/edit)] |
-| 04/19 | Midterm | No Reading Group. :book:  |
-| 04/26 | Midterm | No Reading Group. :book:  |
-| 05/03 | Seoyun Yang | VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution [[Zeyuan Chen, et al, CVPR 2022](https://arxiv.org/abs/2206.04647)][[slides](https://docs.google.com/presentation/d/1A09M3QXV99DyJGuEVm1vKNsWacHR1ZyU/edit?usp=sharing&ouid=115205302128224419123&rtpof=true&sd=true)] |
-| 05/10 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
-| 05/17 | NeurIPS 2023 Deadline |  No Reading Group. :book: |
-| 05/24 | Hyeonbae Kim |  Vid2Seq: Large-scale pretraining of a visual language model for dense video captioning. [[Yang, Antoine, et al.,CVPR 2023](https://arxiv.org/abs/2302.14115)] [[slides](https://docs.google.com/presentation/d/1tgVmUuWYh9TYFIxDI8QKiCCiTphb0z1E/edit?usp=share_link&ouid=115797261789728292501&rtpof=true&sd=true)] |
-| 05/31 | Soyeon Hong | Taming Transformers for High-Resolution Image Synthesis [[Patric Esser, Robin Rombach, et al.,CVPR 2021](https://arxiv.org/abs/2012.09841)][[slides](https://docs.google.com/presentation/d/11z-jvYXg4cFBXxA_mfujU_mMT1E1ORxu/edit?usp=sharing&ouid=102058709278137773171&rtpof=true&sd=true)] |
-| 06/07 | Final | No Reading Group. :book:  |
-| 06/14 | Final | No Reading Group. :book:  |
-| 06/21 | CVPR 2023 Conference | No Reading Group. :book:  |
-| 06/28 | Min-Yeong Park |  DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning [[ Hyounguk Shon, et al. , ECCV 2022 ](https://arxiv.org/abs/2208.08112)][[slides](https://docs.google.com/presentation/d/1PZ_PpwYfqRvfbzvnXIpmJ49sWfE70O8fK6rvr9oITwI/edit?usp=sharing)] |
-| 07/05 | So Yeon Won |  The effectiveness of feature attribution methods and its correlation with automatic evaluation scores [[Giang Nguyen, et al., NeurIPS 2021](https://arxiv.org/abs/2105.14944)][[slides](https://docs.google.com/presentation/d/15MJ1ZE_yVoyBKZt2GzNH14RymkWGRk4yU_WNH7V5oBw/edit?usp=sharing)]  |
+| 07/12 |     Geo-An        <br />     Min-Jae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/19 |     Yebin Ji      <br />     Donghoon Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/26 |     Tae-Young Lee <br />     Min-Kuk Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/02 |     Subin Yang    <br />     Ju-Won Seo   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/09 |     Yong-Hyun Ahn <br />     Jongkyung Im |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/16 |     Taegoo Kang   <br />     Hyeonbae Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/23 |     Sung Oh       <br />     Seunan Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 
 ## Mailing List
 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Hoeyeong Jin (wlsghldud -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Ju-Won Seo / Jun-Yeong Moon
-  - UG student : Keon-Hee Park /  Seunan Choe / Min-Yeong Park / Minki Kim / Min-Jae Kim / Tae-Young Lee
+  - UG student : Keon-Hee Park /  Seunan Choe / Min-Yeong Park / Min-Jae Kim / Tae-Young Lee
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
   - UG student : Oh Sung Choo
@@ -82,7 +62,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - UG student : EuiJune Lee / Minseo Kim / Sohyeon Kim / Myeongjun Oh / Habin Lim  
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
-  - UG student : Jongseo Lee / Geo An / Soyeon Hong / Joohyun Chang 
+  - UG student : Jongseo Lee / Geo An / Soyeon Hong / Joohyun Chang / Junghyun Lee
 
 
 ## Previous Meetings
@@ -92,6 +72,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 - [Spring 2022](https://github.com/khuvll/reading_group/blob/main/2022_Spring_schedule.md)
 - [Summer 2022](https://github.com/khuvll/reading_group/blob/main/2022_Summer_schedule.md)
 - [Fall 2022](https://github.com/khuvll/reading_group/blob/main/2022_Fall_Winter_schedule.md)
+- [Winter~Spring 2023](https://github.com/khuvll/reading_group/blob/main/2023_Winter_Spring_schedule.md)
 
 ## Related Links
 
@@ -124,7 +105,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
@@ -133,7 +114,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Jongmin/Paul (shinpaul14 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
+**NOTE:** Please tell the group organizer Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
