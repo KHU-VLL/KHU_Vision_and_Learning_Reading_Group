@@ -35,14 +35,14 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 07/12 |     Geo-An         <br />     Min-Jae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 07/19 |     Yebin Ji       <br />     Donghoon Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 07/26 |     Tae-Young Lee  <br />     Min-Kuk Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/02 |     Subin Yang     <br />     Ju-Won Seo   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/09 |     Yong-Hyun Ahn  <br />     Jongkyung Im |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/16 |     Taegoo Kang    <br />     Hyeonbae Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/23 |     Sung Oh        <br />     Seunan Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/30 |     Jun-Yeong Moon <br />     Hyogun Lee   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/12 |     Geo Ahn        <br />     Min-Jae Kim   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/19 |     Yebin Ji       <br />     DongHoon Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/26 |     Taeyoung Lee   <br />     Minkuk Kim    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/02 |     Subin Yang     <br />     Juwon Seo     |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/09 |     Yong Hyun Ahn  <br />     Jongkyung Lim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/16 |     Taegoo Kang    <br />     Hyeonbae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/23 |     Sung Oh        <br />     Seun-An Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/30 |     Jun-Yeong Moon <br />     Hyogun Lee    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 
 ## Mailing List
 
@@ -53,17 +53,15 @@ Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Ah-Hyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Ju-Won Seo / Jun-Yeong Moon
-  - UG student : Keon-Hee Park /  Seunan Choe / Min-Yeong Park / Min-Jae Kim / Tae-Young Lee
+  - M.S. student : Ahyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon
+  - UG student : Keonhee Park /  Seun-An Choe / Min-Yeong Park / Min-Jae Kim / Taeyoung Lee
 * [AUGI](http://ailab.khu.ac.kr/)
-  - M.S. student : En-Ki Cho / Yong-Hyun Ahn / Min-Kuk Kim / So-yeon Won / Hyeonbae Kim / Yebin Ji
-  - UG student : Oh Sung Choo
+  - M.S. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Im / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / Donghoon Kim
-  - UG student : EuiJune Lee / Minseo Kim / Sohyeon Kim / Myeongjun Oh / Habin Lim  
+  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
-  - UG student : Jongseo Lee / Geo An / Soyeon Hong / Joohyun Chang / Junghyun Lee
+  - UG student : Jongseo Lee / Geo Ahn / Soyeon Hong
 
 
 ## Previous Meetings
