@@ -35,13 +35,14 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 07/12 |     Geo-An        <br />     Min-Jae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 07/19 |     Yebin Ji      <br />     Donghoon Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 07/26 |     Tae-Young Lee <br />     Min-Kuk Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/02 |     Subin Yang    <br />     Ju-Won Seo   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/09 |     Yong-Hyun Ahn <br />     Jongkyung Im |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/16 |     Taegoo Kang   <br />     Hyeonbae Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/23 |     Sung Oh       <br />     Seunan Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/12 |     Geo-An         <br />     Min-Jae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/19 |     Yebin Ji       <br />     Donghoon Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/26 |     Tae-Young Lee  <br />     Min-Kuk Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/02 |     Subin Yang     <br />     Ju-Won Seo   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/09 |     Yong-Hyun Ahn  <br />     Jongkyung Im |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/16 |     Taegoo Kang    <br />     Hyeonbae Kim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/23 |     Sung Oh        <br />     Seunan Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/30 |     Jun-Yeong Moon <br />     Hyogun Lee   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 
 ## Mailing List
 
