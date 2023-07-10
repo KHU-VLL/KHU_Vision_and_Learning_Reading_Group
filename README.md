@@ -35,7 +35,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date       |       Presenters     |  Topic     |
 |-------------|------------|--------|
-| 07/12 |     Geo Ahn        <br />     Min-Jae Kim   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/12 |     Geo Ahn        <br />     Min-Jae Kim   |    Siamese Image Modeling for Self-Supervised Vision Representation Learning  [[Chenxin Tao et al., CVPR 2023](https://arxiv.org/pdf/2206.01204.pdf)] [[slides](#)] <br />     PMR: Prototypical Modal Rebalance for Multimodal Learning  [[Yunfeng Fan, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.pdf)] [[slides](#)] |
 | 07/19 |     Yebin Ji       <br />     DongHoon Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 | 07/26 |     Taeyoung Lee   <br />     Minkuk Kim    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 | 08/02 |     Subin Yang     <br />     Juwon Seo     |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
