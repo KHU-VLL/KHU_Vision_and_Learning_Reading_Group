@@ -37,12 +37,12 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 |-------------|------------|--------|
 | 07/12 |     Geo Ahn        <br />     Min-Jae Kim   |    Siamese Image Modeling for Self-Supervised Vision Representation Learning  [[Chenxin Tao et al., CVPR 2023](https://arxiv.org/pdf/2206.01204.pdf)] [[slides](https://docs.google.com/presentation/d/1RqMaxB6N5vsaYF-MJ2w7eZFp2PX2nlTuRpTIyFlTZ9I/edit?usp=sharing)] <br />     PMR: Prototypical Modal Rebalance for Multimodal Learning  [[Yunfeng Fan, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15o37J8EkskQGUVj0xUoDdFte_KYvzzNX/edit?usp=sharing&ouid=113052434164729101340&rtpof=true&sd=true)] |
 | 07/19 |     Minkuk Kim     <br />     DongHoon Kim  |    SmallCap: Lightweight Image Captioning Prompted with Retrieval Augmentation  [[Rita Ramos, et al., CVPR 2023](https://arxiv.org/pdf/2209.15323.pdf)] [[slides](https://docs.google.com/presentation/d/15J7PpVUBmRhZELCdPKeflkyqjkWfF-K9ksRBkQsVxyQ/edit?usp=sharing)] <br />     Generalizing Dataset Distillation via Deep Generative Prior  [[George Cazenavette et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Cazenavette_Generalizing_Dataset_Distillation_via_Deep_Generative_Prior_CVPR_2023_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/donghoon1st_office_khu_ac_kr/EQHbGKdEI1RElgsk98Tf8LoBSOjWcnEeXFeahkn1FtXpDQ?e=frWna7)] |
-| 07/26 |     Taeyoung Lee   <br />     Yebin Ji      |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/02 |     Subin Yang     <br />     Juwon Seo     |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/09 |     Yong Hyun Ahn  <br />     Jongkyung Lim |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/16 |     Taegoo Kang    <br />     Hyeonbae Kim  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/23 |     Sung Oh        <br />     Seun-An Choe  |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
-| 08/30 |     Jun-Yeong Moon <br />     Hyogun Lee    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 07/26 |     Jun-Yeong Moon, Keonhee Park <br />     Juwon Seo     |    *TBA: ICCV 2023 accepted paper*  [[link](#)] [[slides](#)] <br />     *TBA: ICCV 2023 accepted paper*  [[link](#)] [[slides](#)] |
+| 08/02 |     Yebin Ji       <br />     Subin Yang    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/09 |     Taeyoung Lee   <br />     Yong Hyun Ahn |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/16 |     Jongkyung Lim  <br />     Taegoo Kang   |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/23 |     Hyeonbae Kim   <br />     Sung Oh       |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
+| 08/30 |     Seun-An Choe   <br />     Hyogun Lee    |    *TBA*  [[link](#)] [[slides](#)] <br />     *TBA*  [[link](#)] [[slides](#)] |
 
 ## Mailing List
 
