@@ -47,7 +47,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 11/15 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
 | 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
 | 11/29 | Soyoun Won         | *TBA*  [[link](#)] [[slides](#)] |
-| 12/06 | Yuna Jung          | *TBA*  [[link](#)] [[slides](#)] |
+| 12/06 | Euijune Lee        | *TBA*  [[link](#)] [[slides](#)] |
 | 12/13 | Final              | No Reading Group. :book:         |
 | 12/20 | Final              | No Reading Group. :book:         |
 | 12/27 | Min-Yeong Park     | *TBA*  [[link](#)] [[slides](#)] |
@@ -67,7 +67,8 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
+  - M.S. student : Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
+  - UG student :  Euijune Lee
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Hyogun Lee / Kyungho Bae / Jongseo Lee
   - UG student : Geo Ahn / Soyeon Hong
