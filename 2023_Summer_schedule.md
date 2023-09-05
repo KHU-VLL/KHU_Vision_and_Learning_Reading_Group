@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 19:00
+- Wednesday 11:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Fall 2023)](#current-schedule)
+- [Current Schedule (Summer 2023)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -31,26 +31,18 @@ Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Fall we will have one presenter each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
-| Date  | Presenters         | Topic                            |
-|-------|--------------------|----------------------------------|
-| 09/13 | Seun-An Choe       | *TBA*  [[link](#)] [[slides](#)] |
-| 09/20 | Hyogun Lee         | *TBA*  [[link](#)] [[slides](#)] |
-| 09/27 | Soyeon Hong        | *TBA*  [[link](#)] [[slides](#)] |
-| 10/04 | Jongseo Lee        | *TBA*  [[link](#)] [[slides](#)] |
-| 10/11 | Enki Cho           | *TBA*  [[link](#)] [[slides](#)] |
-| 10/18 | Midterm            | No Reading Group. :book:         |
-| 10/25 | Midterm            | No Reading Group. :book:         |
-| 11/01 | Hoeyeong Jin       | *TBA*  [[link](#)] [[slides](#)] |
-| 11/08 | CVPR 2024 Deadline | No Reading Group. :book:         |
-| 11/15 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
-| 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
-| 11/29 | Soyoun Won         | *TBA*  [[link](#)] [[slides](#)] |
-| 12/06 | Yuna Jung          | *TBA*  [[link](#)] [[slides](#)] |
-| 12/13 | Final              | No Reading Group. :book:         |
-| 12/20 | Final              | No Reading Group. :book:         |
-| 12/27 | Min-Yeong Park     | *TBA*  [[link](#)] [[slides](#)] |
+| Date       |       Presenters     |  Topic     |
+|-------------|------------|--------|
+| 07/12 |     Geo Ahn        <br />     Min-Jae Kim   |    Siamese Image Modeling for Self-Supervised Vision Representation Learning  [[Chenxin Tao et al., CVPR 2023](https://arxiv.org/pdf/2206.01204.pdf)] [[slides](https://docs.google.com/presentation/d/1RqMaxB6N5vsaYF-MJ2w7eZFp2PX2nlTuRpTIyFlTZ9I/edit?usp=sharing)] <br />     PMR: Prototypical Modal Rebalance for Multimodal Learning  [[Yunfeng Fan, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Fan_PMR_Prototypical_Modal_Rebalance_for_Multimodal_Learning_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15o37J8EkskQGUVj0xUoDdFte_KYvzzNX/edit?usp=sharing&ouid=113052434164729101340&rtpof=true&sd=true)] |
+| 07/19 |     Minkuk Kim     <br />     DongHoon Kim  |    SmallCap: Lightweight Image Captioning Prompted with Retrieval Augmentation  [[Rita Ramos, et al., CVPR 2023](https://arxiv.org/pdf/2209.15323.pdf)] [[slides](https://docs.google.com/presentation/d/15J7PpVUBmRhZELCdPKeflkyqjkWfF-K9ksRBkQsVxyQ/edit?usp=sharing)] <br />     Generalizing Dataset Distillation via Deep Generative Prior  [[George Cazenavette et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Cazenavette_Generalizing_Dataset_Distillation_via_Deep_Generative_Prior_CVPR_2023_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/donghoon1st_office_khu_ac_kr/EQHbGKdEI1RElgsk98Tf8LoBSOjWcnEeXFeahkn1FtXpDQ?e=frWna7)] |
+| 07/26 |     Jun-Yeong Moon, Keonhee Park <br />     Juwon Seo     |    Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning  [[Jun Yeong Moon, Keon Hee Park, Jung Uk Kim, and Gyeong-Moon Park, ICCV 2023](#)] [[slides](https://drive.google.com/file/d/1LcwL8Z9Lj93xKFfJr7eTp7cJUpkU-sC1/view?usp=sharing)] <br />     LFS-GAN: Lifelong Few-Shot Image Generation  [[Juwon Seo, Ji-Su Kang, and Gyeong-Moon Park, ICCV 2023](#)] [[slides](https://drive.google.com/file/d/1ylt4Vn34Y31tu1bMvlMlbbwG55aWv_pn/view?usp=sharing)] |
+| 08/02 |     Yebin Ji       <br />     Subin Yang    |    Initialization Noise in Image Gradients and Saliency Maps  [[Ann-Christin Woerl, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Woerl_Initialization_Noise_in_Image_Gradients_and_Saliency_Maps_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1-JAOsGoWI3w3FAXkRWftdhH1nS367upoiLsOV6eB9Ds/edit#slide=id.g25db7285311_0_30)] <br />     A ConvNet for 2020s  [[Zhuang Liu, et al., CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_A_ConvNet_for_the_2020s_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1e4jrj3Bl5ZrJLAuoI2Exc1hP4Qe3zuQF/edit?usp=sharing&ouid=113052434164729101340&rtpof=true&sd=true)] |
+| 08/09 |     KCCV 2023                               |    No Reading Group. :book:    |
+| 08/16 |     Taeyoung Lee   <br />     Yong Hyun Ahn |    Point-NeRF: Point-based Neural Radiance Fields  [[Qiangeng Xu, et al., CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Point-NeRF_Point-Based_Neural_Radiance_Fields_CVPR_2022_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1rSg_oz6iejQMNBv1GSeML_N7i3_TC69l/edit?usp=sharing&ouid=113052434164729101340&rtpof=true&sd=true)] <br />     Craft: Concept recursive activation factorization for explainability  [[Thomas Fel, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Fel_CRAFT_Concept_Recursive_Activation_FacTorization_for_Explainability_CVPR_2023_paper.pdf)] [[slides](https://drive.google.com/file/d/1zGtxewDczSGYF1TnAM_SVGjTtOiN_x0D/view?usp=sharing)] |
+| 08/23 |     Sung Oh        <br />     Taegoo Kang   |    DREAM: Efficient Dataset Distillation by Representative Matching  [[Yanqing Liu, et al., ICCV 2023](https://arxiv.org/pdf/2302.14416.pdf)] [[slides](https://docs.google.com/presentation/d/1Bd6-4Pf53h18f-VbnZwIjD71qgJwBUjF/edit?usp=drive_link&ouid=116464895643735501334&rtpof=true&sd=true)] <br />     What Do Self-Supervised Vision Transformers Learn?  [[Namuk Park, et al., ICLR 2023](https://openreview.net/pdf?id=azCKuYyS74)] [[slides](https://docs.google.com/presentation/d/1fETycJzWfUSQ0LDFbKwN7Xbe5W4mfSIM/edit?usp=sharing&ouid=113052434164729101340&rtpof=true&sd=true)] |
+| 08/30 |     Hyeonbae Kim   <br />     Jongkyung Lim |    Recurrent Memory Transformer  [[Aydar Bulatov, et al., NeurIPS 2022](https://arxiv.org/pdf/2207.06881.pdf)] [[slides](https://docs.google.com/presentation/d/1XDEIj73_gMpZeUUjvn7cM4YsG1arKCzr/edit?usp=drive_link&ouid=115797261789728292501&rtpof=true&sd=true)] <br />     Dataset Condensation via Efficient Synthetic-Data Parameterization  [[Jang-Hyun Kim, et al., ICML 2022](https://arxiv.org/pdf/2205.14959.pdf)] [[slides](https://drive.google.com/file/d/18_fE_NXEpNqcuvVdQSlv2qjohJFcqz8-/view?usp=sharing)] |
 
 
 ## Mailing List
@@ -62,19 +54,15 @@ Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee
-  - UG student : Min-Jae Kim
+  - M.S. student : Ahyung Shin / Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon
+  - UG student : Keonhee Park /  Seun-An Choe / Min-Yeong Park / Min-Jae Kim / Taeyoung Lee
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
+  - M.S. student : Junghun Cha / Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Yuna Jung / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Hyogun Lee / Kyungho Bae / Jongseo Lee
-  - UG student : Geo Ahn / Soyeon Hong
-* Alumni
-  - \[AGI] M.S. : Ahyung Shin
-  - \[MLVC] M.S. : Junghun Cha
-  - \[VLL] M.S. : Dongho Lee / Jongmin Shin
+  - M.S. student : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
+  - UG student : Jongseo Lee / Geo Ahn / Soyeon Hong
 
 
 ## Previous Meetings
@@ -85,7 +73,6 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 - [Summer 2022](https://github.com/khuvll/reading_group/blob/main/2022_Summer_schedule.md)
 - [Fall 2022](https://github.com/khuvll/reading_group/blob/main/2022_Fall_Winter_schedule.md)
 - [Winter~Spring 2023](https://github.com/khuvll/reading_group/blob/main/2023_Winter_Spring_schedule.md)
-- [Summer 2023](https://github.com/khuvll/reading_group/blob/main/2023_Summer_schedule.md)
 
 ## Related Links
 
