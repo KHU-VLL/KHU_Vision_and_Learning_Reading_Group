@@ -35,7 +35,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/13 | Seun-An Choe       | Adjustment and Alignment for Unbiased Open Set Domain Adaptation  [[Wuyang Li, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.pdf)] [[slides](#)] |
+| 09/13 | Seun-An Choe       | Adjustment and Alignment for Unbiased Open Set Domain Adaptation  [[Wuyang Li, et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adjustment_and_Alignment_for_Unbiased_Open_Set_Domain_Adaptation_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1cYzcom1aFIIADhK9cj9zKtMMDkOQGxOirCTq9Y3zqCU/edit?usp=sharing)] |
 | 09/20 | Hyogun Lee         | *TBA*  [[link](#)] [[slides](#)] |
 | 09/27 | Soyeon Hong        | *TBA*  [[link](#)] [[slides](#)] |
 | 10/04 | Jongseo Lee        | *TBA*  [[link](#)] [[slides](#)] |
