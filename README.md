@@ -36,7 +36,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
 | 09/13 | Seun-An Choe       | BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-domain Semantic Segmentation  [[Yahao Liu, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_BAPA-Net_Boundary_Adaptation_and_Prototype_Alignment_for_Cross-Domain_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1cYzcom1aFIIADhK9cj9zKtMMDkOQGxOirCTq9Y3zqCU/edit?usp=sharing)] |
-| 09/20 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/abs/2111.00396)] [[slides](#)] |
+| 09/20 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/pdf/2111.00396.pdf)] [[slides](#)] |
 | 09/27 | Soyeon Hong        | *TBA*  [[link](#)] [[slides](#)] |
 | 10/04 | Jongseo Lee        | *TBA*  [[link](#)] [[slides](#)] |
 | 10/11 | Enki Cho           | *TBA*  [[link](#)] [[slides](#)] |
