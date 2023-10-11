@@ -39,7 +39,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 09/20 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/pdf/2111.00396.pdf)] [[slides](https://docs.google.com/presentation/d/1TKeWxHiiQoptgS7R-7BsoVWHbl6tnmuzN34WkYzkhD0)] |
 | 09/27 | Soyeon Hong        | Egocentric Video-Language Pretraining  [[Kevin Qinghong Lin et al., NeurIPS 2022](https://arxiv.org/pdf/2206.01670.pdf)] [[slides](https://docs.google.com/presentation/d/1O7SEUYQkcNLK6kSeYvciNAuCRyx8Ri-F)] |
 | 10/04 | Jongseo Lee        | SketchXAI: A First Look at Explainability for Human Sketches  [[Zhiyu Qu et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15cpQkSLe64AprzrM0a063n7XRS1EB8tg)] |
-| 10/11 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](#)] |
+| 10/11 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](https://docs.google.com/presentation/d/1RbvkOW1DP-1YTNN6ujShAdg5G1fXnTEq/)] |
 | 10/18 | Midterm            | No Reading Group. :book:         |
 | 10/25 | Midterm            | No Reading Group. :book:         |
 | 11/01 | Hoeyeong Jin       | *TBA*  [[link](#)] [[slides](#)] |
