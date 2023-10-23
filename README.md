@@ -43,8 +43,8 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 10/18 | Midterm            | No Reading Group. :book:         |
 | 10/25 | Midterm            | No Reading Group. :book:         |
 | 11/01 | Hoeyeong Jin       | *TBA*  [[link](#)] [[slides](#)] |
-| 11/08 | CVPR 2024 Deadline | No Reading Group. :book:         |
-| 11/15 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
+| 11/08 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
+| 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
 | 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
 | 11/29 | Soyoun Won         | *TBA*  [[link](#)] [[slides](#)] |
 | 12/06 | Euijune Lee        | *TBA*  [[link](#)] [[slides](#)] |
