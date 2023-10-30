@@ -42,7 +42,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 10/11 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](https://docs.google.com/presentation/d/1RbvkOW1DP-1YTNN6ujShAdg5G1fXnTEq/)] |
 | 10/18 | Midterm            | No Reading Group. :book:         |
 | 10/25 | Midterm            | No Reading Group. :book:         |
-| 11/01 | Hoeyeong Jin       | *TBA*  [[link](#)] [[slides](#)] |
+| 11/01 | Hoeyeong Jin       | Consistency Models  [[Yang Song, et al., ICML 2023](https://arxiv.org/pdf/2303.01469.pdf)] [[slides](#)] |
 | 11/08 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
 | 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
 | 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
