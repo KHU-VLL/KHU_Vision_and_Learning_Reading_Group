@@ -43,7 +43,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 10/18 | Midterm            | No Reading Group. :book:         |
 | 10/25 | Midterm            | No Reading Group. :book:         |
 | 11/01 | Hoeyeong Jin       | Consistency Models  [[Yang Song, et al., ICML 2023](https://arxiv.org/pdf/2303.01469.pdf)] [[slides](https://docs.google.com/presentation/d/1rh1q7urRs8OOWt4svfgNZECHOFNm48OL)] |
-| 11/08 | Seoyun Yang        | *TBA*  [[link](#)] [[slides](#)] |
+| 11/08 | Seoyun Yang        | IBRNet: Learning Multi-View Image-Based Rendering  [[Qianqian Wang et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IBRNet_Learning_Multi-View_Image-Based_Rendering_CVPR_2021_paper.pdf)] [[slides](#)] |
 | 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
 | 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
 | 11/29 | Jongseo Lee        | CAST: Cross-Attention in Space and Time for Video Action Recognition  [[Dongho Lee, Jongseo Lee, and Jinwoo Choi](#)] [[slides](#)] |
