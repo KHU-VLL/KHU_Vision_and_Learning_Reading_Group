@@ -46,7 +46,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 11/08 | Seoyun Yang        | IBRNet: Learning Multi-View Image-Based Rendering  [[Qianqian Wang et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IBRNet_Learning_Multi-View_Image-Based_Rendering_CVPR_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1BNFfue895NBKi-0hS628gbtDZUVbPjWx)] |
 | 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
 | 11/22 | Jaeho Lee          | *TBA*  [[link](#)] [[slides](#)] |
-| 11/29 | Jongseo Lee        | CAST: Cross-Attention in Space and Time for Video Action Recognition  [[Dongho Lee, Jongseo Lee, and Jinwoo Choi, NeurIPS 2023](#)] [[slides](#)] |
+| 11/29 | Jongseo Lee        | CAST: Cross-Attention in Space and Time for Video Action Recognition  [[Dongho Lee, Jongseo Lee, and Jinwoo Choi, NeurIPS 2023](https://openreview.net/pdf?id=iATY9W5Xw7)] [[slides](#)] |
 | 12/06 | Soyoun Won         | *TBA*  [[link](#)] [[slides](#)] |
 | 12/13 | Final              | No Reading Group. :book:         |
 | 12/20 | Final              | No Reading Group. :book:         |
