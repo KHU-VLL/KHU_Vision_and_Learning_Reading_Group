@@ -47,7 +47,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
 | 11/22 | Jaeho Lee          | Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors  [[Thomas Hartvigsen et al., NeurIPS 2023](https://openreview.net/pdf?id=Oc1SIKxwdV)] [[slides](https://docs.google.com/presentation/d/1gcGImzowYaeQ2GFFDVuYOhcq6bC5vquB)] |
 | 11/29 | Jongseo Lee        | CAST: Cross-Attention in Space and Time for Video Action Recognition  [[Dongho Lee, Jongseo Lee, and Jinwoo Choi, NeurIPS 2023](https://openreview.net/pdf?id=iATY9W5Xw7)] [[slides](https://1drv.ms/p/s!AqsQKNxrFUaJiXrVnEZcYPJQo5sr)] |
-| 12/06 | Soyoun Won         | *TBA*  [[link](#)] [[slides](#)] |
+| 12/06 | Soyoun Won         | On the Relationship Between Explanation and Prediction: A Causal View  [[Amir-Hossein Karimi, et al., ICML 2023](https://openreview.net/pdf?id=EUQsBO975P)] [[slides](#)] |
 | 12/13 | Final              | No Reading Group. :book:         |
 | 12/20 | Final              | No Reading Group. :book:         |
 | 12/27 | Euijune Lee        | *TBA*  [[link](#)] [[slides](#)] |
