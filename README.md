@@ -50,7 +50,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 | 12/06 | Soyoun Won         | On the Relationship Between Explanation and Prediction: A Causal View  [[Amir-Hossein Karimi, et al., ICML 2023](https://openreview.net/pdf?id=EUQsBO975P)] [[slides](https://docs.google.com/presentation/d/1ybF4AlGb5rJBSwzJv9XRk9-ouCnxrogKbUSfoAmAuI8)] |
 | 12/13 | Final              | No Reading Group. :book:         |
 | 12/20 | Final              | No Reading Group. :book:         |
-| 12/27 | Euijune Lee        | Instant Neural Graphics Primitives with a Multiresolution Hash Encoding  [[Thomas Müller, et al., ACM ToG](https://dl.acm.org/doi/pdf/10.1145/3528223.3530127)] [[slides](#)] |
+| 12/27 | Euijune Lee        | Instant Neural Graphics Primitives with a Multiresolution Hash Encoding  [[Thomas Müller, et al., ACM ToG](https://dl.acm.org/doi/pdf/10.1145/3528223.3530127)] [[slides](https://docs.google.com/presentation/d/1Mk8aHudxn6-atmH6EVCMgWO9etlugv0v/)] |
 
 
 ## Mailing List
