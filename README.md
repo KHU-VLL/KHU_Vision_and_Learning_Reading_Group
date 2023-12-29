@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday 19:00
+- Wednesday 11:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Fall 2023)](#current-schedule)
+- [Current Schedule (Winter 2024)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,30 +27,22 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Fall we will have one presenter each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Winter we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/13 | Seun-An Choe       | BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-domain Semantic Segmentation  [[Yahao Liu, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_BAPA-Net_Boundary_Adaptation_and_Prototype_Alignment_for_Cross-Domain_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1cYzcom1aFIIADhK9cj9zKtMMDkOQGxOirCTq9Y3zqCU/edit?usp=sharing)] |
-| 09/20 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/pdf/2111.00396.pdf)] [[slides](https://docs.google.com/presentation/d/1TKeWxHiiQoptgS7R-7BsoVWHbl6tnmuzN34WkYzkhD0)] |
-| 09/27 | Soyeon Hong        | Egocentric Video-Language Pretraining  [[Kevin Qinghong Lin et al., NeurIPS 2022](https://arxiv.org/pdf/2206.01670.pdf)] [[slides](https://docs.google.com/presentation/d/1O7SEUYQkcNLK6kSeYvciNAuCRyx8Ri-F)] |
-| 10/04 | Jongseo Lee        | SketchXAI: A First Look at Explainability for Human Sketches  [[Zhiyu Qu et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15cpQkSLe64AprzrM0a063n7XRS1EB8tg)] |
-| 10/11 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](https://docs.google.com/presentation/d/1RbvkOW1DP-1YTNN6ujShAdg5G1fXnTEq/)] |
-| 10/18 | Midterm            | No Reading Group. :book:         |
-| 10/25 | Midterm            | No Reading Group. :book:         |
-| 11/01 | Hoeyeong Jin       | Consistency Models  [[Yang Song, et al., ICML 2023](https://arxiv.org/pdf/2303.01469.pdf)] [[slides](https://docs.google.com/presentation/d/1rh1q7urRs8OOWt4svfgNZECHOFNm48OL)] |
-| 11/08 | Seoyun Yang        | IBRNet: Learning Multi-View Image-Based Rendering  [[Qianqian Wang et al., CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_IBRNet_Learning_Multi-View_Image-Based_Rendering_CVPR_2021_paper.pdf)] [[slides](https://drive.google.com/file/d/1BNFfue895NBKi-0hS628gbtDZUVbPjWx)] |
-| 11/15 | CVPR 2024 Deadline | No Reading Group. :book:         |
-| 11/22 | Jaeho Lee          | Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors  [[Thomas Hartvigsen et al., NeurIPS 2023](https://openreview.net/pdf?id=Oc1SIKxwdV)] [[slides](https://docs.google.com/presentation/d/1gcGImzowYaeQ2GFFDVuYOhcq6bC5vquB)] |
-| 11/29 | Jongseo Lee        | CAST: Cross-Attention in Space and Time for Video Action Recognition  [[Dongho Lee, Jongseo Lee, and Jinwoo Choi, NeurIPS 2023](https://openreview.net/pdf?id=iATY9W5Xw7)] [[slides](https://1drv.ms/p/s!AqsQKNxrFUaJiXrVnEZcYPJQo5sr)] |
-| 12/06 | Soyoun Won         | On the Relationship Between Explanation and Prediction: A Causal View  [[Amir-Hossein Karimi, et al., ICML 2023](https://openreview.net/pdf?id=EUQsBO975P)] [[slides](https://docs.google.com/presentation/d/1ybF4AlGb5rJBSwzJv9XRk9-ouCnxrogKbUSfoAmAuI8)] |
-| 12/13 | Final              | No Reading Group. :book:         |
-| 12/20 | Final              | No Reading Group. :book:         |
-| 12/27 | Euijune Lee        | Instant Neural Graphics Primitives with a Multiresolution Hash Encoding  [[Thomas Müller, et al., ACM ToG](https://dl.acm.org/doi/pdf/10.1145/3528223.3530127)] [[slides](https://docs.google.com/presentation/d/1Mk8aHudxn6-atmH6EVCMgWO9etlugv0v/)] |
+| 01/03 | Seun-An Choe       | BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-domain Semantic Segmentation  [[Yahao Liu, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_BAPA-Net_Boundary_Adaptation_and_Prototype_Alignment_for_Cross-Domain_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1cYzcom1aFIIADhK9cj9zKtMMDkOQGxOirCTq9Y3zqCU/edit?usp=sharing)] |
+| 01/10 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/pdf/2111.00396.pdf)] [[slides](https://docs.google.com/presentation/d/1TKeWxHiiQoptgS7R-7BsoVWHbl6tnmuzN34WkYzkhD0)] |
+| 01/17 | Soyeon Hong        | Egocentric Video-Language Pretraining  [[Kevin Qinghong Lin et al., NeurIPS 2022](https://arxiv.org/pdf/2206.01670.pdf)] [[slides](https://docs.google.com/presentation/d/1O7SEUYQkcNLK6kSeYvciNAuCRyx8Ri-F)] |
+| 01/24 | Jongseo Lee        | SketchXAI: A First Look at Explainability for Human Sketches  [[Zhiyu Qu et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15cpQkSLe64AprzrM0a063n7XRS1EB8tg)] |
+| 01/31 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](https://docs.google.com/presentation/d/1RbvkOW1DP-1YTNN6ujShAdg5G1fXnTEq/)] |
+| 02/07 | Midterm            | No Reading Group. :book:         |
+| 02/14 | Midterm            | No Reading Group. :book:         |
+| 02/21 | Hoeyeong Jin       | Consistency Models  [[Yang Song, et al., ICML 2023](https://arxiv.org/pdf/2303.01469.pdf)] [[slides](https://docs.google.com/presentation/d/1rh1q7urRs8OOWt4svfgNZECHOFNm48OL)] |
 
 
 ## Mailing List
@@ -58,7 +50,7 @@ This Fall we will have one presenter each week. Presentation duration is up to t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
@@ -66,12 +58,12 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - UG student : Min-Jae Kim
 * [AUGI](http://ailab.khu.ac.kr/)
   - M.S. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji
+  - UG student : Ohsung Choo
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - M.S. student : Subin Yang / Sung Oh / Jongkyung Lim / Taegoo Kang / Seoyun Yang / Hoeyeong Jin / DongHoon Kim
-  - UG student :  Euijune Lee
+  - UG student :  Euijune Lee / Myeongjun Oh
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Hyogun Lee / Kyungho Bae / Jongseo Lee
-  - UG student : Geo Ahn / Soyeon Hong
+  - UG student : Geo Ahn / Soyeon Hong / Joohyun Chang
 * Alumni
   - \[AGI] M.S. : Ahyung Shin
   - \[MLVC] M.S. : Junghun Cha
