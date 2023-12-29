@@ -113,7 +113,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
