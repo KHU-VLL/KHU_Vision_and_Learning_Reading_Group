@@ -31,18 +31,19 @@ Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper y
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Winter we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
-| Date  | Presenters         | Topic                            |
-|-------|--------------------|----------------------------------|
-| 01/03 | Seun-An Choe       | BAPA-Net: Boundary Adaptation and Prototype Alignment for Cross-domain Semantic Segmentation  [[Yahao Liu, et al., ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_BAPA-Net_Boundary_Adaptation_and_Prototype_Alignment_for_Cross-Domain_Semantic_Segmentation_ICCV_2021_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1cYzcom1aFIIADhK9cj9zKtMMDkOQGxOirCTq9Y3zqCU/edit?usp=sharing)] |
-| 01/10 | Hyogun Lee         | Efficiently Modeling Long Sequences with Structured State Spaces  [[Albert Gu, et al., ICLR 2022](https://arxiv.org/pdf/2111.00396.pdf)] [[slides](https://docs.google.com/presentation/d/1TKeWxHiiQoptgS7R-7BsoVWHbl6tnmuzN34WkYzkhD0)] |
-| 01/17 | Soyeon Hong        | Egocentric Video-Language Pretraining  [[Kevin Qinghong Lin et al., NeurIPS 2022](https://arxiv.org/pdf/2206.01670.pdf)] [[slides](https://docs.google.com/presentation/d/1O7SEUYQkcNLK6kSeYvciNAuCRyx8Ri-F)] |
-| 01/24 | Jongseo Lee        | SketchXAI: A First Look at Explainability for Human Sketches  [[Zhiyu Qu et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15cpQkSLe64AprzrM0a063n7XRS1EB8tg)] |
-| 01/31 | Enki Cho           | Associating Objects with Transformers for Video Object Segmentation  [[Zongxin Yang et al., NeurIPS 2021](https://arxiv.org/pdf/2106.02638.pdf)] [[slides](https://docs.google.com/presentation/d/1RbvkOW1DP-1YTNN6ujShAdg5G1fXnTEq/)] |
-| 02/07 | Midterm            | No Reading Group. :book:         |
-| 02/14 | Midterm            | No Reading Group. :book:         |
-| 02/21 | Hoeyeong Jin       | Consistency Models  [[Yang Song, et al., ICML 2023](https://arxiv.org/pdf/2303.01469.pdf)] [[slides](https://docs.google.com/presentation/d/1rh1q7urRs8OOWt4svfgNZECHOFNm48OL)] |
+| Date       | Presenters     |  Topic     |
+|-------------|--------|--------|
+| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   |[paper] [slides] <br />  [paper] [slides]|
+| 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |[paper] [slides] <br />  [paper] [slides]|
+| 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |[paper] [slides] <br />  [paper] [slides]|
+| 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |[paper] [slides] <br />  [paper] [slides]|
+| 01/31 |  Keonhee Park   <br />   Minkuk Kim   |[paper] [slides] <br />  [paper] [slides]|
+| 02/07 | Juwon Seo   <br />   Taeyoung Lee   |[paper] [slides] <br />  [paper] [slides]|
+| 02/14 | Yebin Ji   <br />   Seun-An Choe  |[paper] [slides] <br />  [paper] [slides]|
+| 02/21 |  2023 Early Graduation Ceremony   |No Reading Group. Congratulations on your graduation! 🎓|
+| 02/28 |  Yong Hyun Ahn   <br />   Euijune Lee  |[paper] [slides] <br />  [paper] [slides]|
 
 
 ## Mailing List
@@ -79,6 +80,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 - [Fall 2022](https://github.com/khuvll/reading_group/blob/main/2022_Fall_Winter_schedule.md)
 - [Winter~Spring 2023](https://github.com/khuvll/reading_group/blob/main/2023_Winter_Spring_schedule.md)
 - [Summer 2023](https://github.com/khuvll/reading_group/blob/main/2023_Summer_schedule.md)
+- [Fall 2023](https://github.com/khuvll/reading_group/blob/main/2023_Fall_schedule.md)
 
 ## Related Links
 
@@ -120,7 +122,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Jiwon Hwang (tdj03204 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
+**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
