@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   |[paper] [slides] <br />  [paper] [slides]|
+| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [slides] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [slides]|
 | 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |[paper] [slides] <br />  [paper] [slides]|
 | 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |[paper] [slides] <br />  [paper] [slides]|
 | 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |[paper] [slides] <br />  [paper] [slides]|
@@ -51,7 +51,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
@@ -122,7 +122,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Monday** of that week.
+**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Thursday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
