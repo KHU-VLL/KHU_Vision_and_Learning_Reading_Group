@@ -29,13 +29,13 @@ Location
 ### Reading Group: 
 Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59am**.
 
 This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [slides] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [slides]|
+| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [[slides](https://docs.google.com/presentation/d/1bXYhglxaWhPvVTdmd68FD2KO_ewn1ij9k8qrCUYgmjw/edit?usp=sharing)] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [slides]|
 | 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |[paper] [slides] <br />  [paper] [slides]|
 | 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |[paper] [slides] <br />  [paper] [slides]|
 | 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |[paper] [slides] <br />  [paper] [slides]|
@@ -52,7 +52,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
-Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59am**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee
