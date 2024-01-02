@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [[slides](https://docs.google.com/presentation/d/1bXYhglxaWhPvVTdmd68FD2KO_ewn1ij9k8qrCUYgmjw/edit?usp=sharing)] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [[slides](https://docs.google.com/presentation/d/1WhaASVDE10fKNUHfFqobsEvA7mGsXgFnbeSq2LqJa2A/edit#slide=id.p)]|
+| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [[slides](https://docs.google.com/presentation/d/15BfoJx0TjiSPdUOOsy92gKzMBFre9_CAVwp5CxUKs34/edit#slide=id.g2ab63a65308_1_40)] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [[slides](https://docs.google.com/presentation/d/1WhaASVDE10fKNUHfFqobsEvA7mGsXgFnbeSq2LqJa2A/edit#slide=id.p)]|
 | 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |[paper] [slides] <br />  [paper] [slides]|
 | 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |[paper] [slides] <br />  [paper] [slides]|
 | 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |[paper] [slides] <br />  [paper] [slides]|
