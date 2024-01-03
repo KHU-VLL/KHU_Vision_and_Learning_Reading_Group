@@ -39,11 +39,11 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |[paper] [slides] <br />  [paper] [slides]|
 | 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |[paper] [slides] <br />  [paper] [slides]|
 | 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |[paper] [slides] <br />  [paper] [slides]|
-| 01/31 |  Keonhee Park   <br />   Minkuk Kim   |[paper] [slides] <br />  [paper] [slides]|
-| 02/07 | Juwon Seo   <br />   Taeyoung Lee   |[paper] [slides] <br />  [paper] [slides]|
-| 02/14 | Yebin Ji   <br />   Seun-An Choe  |[paper] [slides] <br />  [paper] [slides]|
+| 01/31 |  CVPR Rebuttal   |No Reading Group. 📖|
+| 02/07 | Keonhee Park   <br />   Minkuk Kim   |[paper] [slides] <br />  [paper] [slides]|
+| 02/14 | Juwon Seo   <br />   Taeyoung Lee  |[paper] [slides] <br />  [paper] [slides]|
 | 02/21 |  2023 Early Graduation Ceremony   |No Reading Group. Congratulations on your graduation! 🎓|
-| 02/28 |  Yong Hyun Ahn   <br />   Euijune Lee  |[paper] [slides] <br />  [paper] [slides]|
+| 02/28 |  Yebin Ji   <br />   Seun-An Choe  |[paper] [slides] <br />  [paper] [slides]|
 
 
 ## Mailing List
