@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
 
 Time
-- Wednesday AM 11:00
+- Thursday PM 19:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Winter 2024)](#current-schedule)
+- [Current Schedule (Spring 2024)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,23 +27,29 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Tuesday 11:59am**.
+Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
 
 This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
 
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
-| 01/03 |   Min-Yeong Park  <br />   Geo Ahn   | Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality [[Liyuan Wang, et al., NeurIPS 2023](https://arxiv.org/pdf/2310.07234.pdf)] [[slides](https://docs.google.com/presentation/d/15BfoJx0TjiSPdUOOsy92gKzMBFre9_CAVwp5CxUKs34/edit#slide=id.g2ab63a65308_1_40)] <br />  QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries [[Jie Lei, et al., NeurIPS 2021](https://arxiv.org/pdf/2107.09609.pdf)] [[slides](https://docs.google.com/presentation/d/1WhaASVDE10fKNUHfFqobsEvA7mGsXgFnbeSq2LqJa2A/edit#slide=id.p)]|
-| 01/10 |  Ohsung Choo  <br />   Min-Jae Kim   |Proposal-based Multiple Instance Learning for Weakly-supervised Temporal Action Localization [[Huan Ren, et al., CVPR 2023](https://arxiv.org/pdf/2305.17861.pdf)] [[slides](https://docs.google.com/presentation/d/1bZsOTwlCpcKcLYetT8rerxXSr5wU4v8H/edit#slide=id.p1)] <br />  Calibrating Multimodal Learning [[Huan Ma, et al., ICML 2023](https://arxiv.org/pdf/2306.01265.pdf)] [[slides](https://docs.google.com/presentation/d/16Q_WTcMOe9fokbGVlOa1Ad1m46WrOR5s/edit#slide=id.p1)]|
-| 01/17 |  Jun-Yeong Moon   <br />   Kyungho Bae   |Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective [[Zeyuan Yin et. al., NeurIPS 2023](https://arxiv.org/pdf/2306.13092.pdf)] [[slides](https://docs.google.com/presentation/d/18XlUaj8tTDjA2fkPY2byOnDjhzyTMm7O7usB6tBdOKc/edit?usp=sharing)] <br />  Masked Autoencoding Does Not Help Natural Language Supervision at Scale [[Floris Weers et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Weers_Masked_Autoencoding_Does_Not_Help_Natural_Language_Supervision_at_Scale_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/15rof145mJe6BYa5bE4LGegtnNs8JiQ9oHxAVIjysqIs/edit?usp=sharing)]|
-| 01/24 |  Joohyun Chang   <br />   Myeongjun Oh   |Revealing Single Frame Bias for Video-and-Language Learning [[Jie Lei et al., ACL 2023](https://arxiv.org/pdf/2206.03428v1.pdf)] [[slides](https://docs.google.com/presentation/d/1LQwDJxdBZxfBdbAxPZZQZXt42MZLpqch/edit#slide=id.p1)] <br />  NeRFLight: Fast and Light Neural Radiance Fields Using a Shared Feature Grid [[Fernando Rivas- Manzaneque et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Rivas-Manzaneque_NeRFLight_Fast_and_Light_Neural_Radiance_Fields_Using_a_Shared_CVPR_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1fiiv3QalQ2HBhuNb-avPwNb1dM9W6dDl/edit#slide=id.p1)]|
-| 01/31 |  CVPR Rebuttal   |No Reading Group. 📖|
-| 02/07 | Keonhee Park   <br />   Minkuk Kim   |Proxy Anchor-based Unsupervised Learning for Continuous Generalized Category Discovery [[Hyungmin Kim et al., ICCV 2023](https://arxiv.org/pdf/2307.10943.pdf)]  [[slides](https://docs.google.com/presentation/d/1fo-A5Tkgsp7et_gHsj8yYGrmxKihi5fzpork4KHgAVk/edit#slide=id.p1)] <br />  AutoAD: Movie Description in Context [[Tengda Han et al., CVPR 2023](https://arxiv.org/pdf/2303.16899.pdf)] [[slides](https://docs.google.com/presentation/d/1zX11FxXaRvDOTLg7VO83vuyyuei7sKahdbKOQdkFoDw/edit#slide=id.p1)]|
-| 02/14 | Juwon Seo   <br /> Seun-An Choe    |Your Diffusion Model is Secretly a Zero-Shot Classifier [[Alexander C. Li et al., ICCV 2023](https://arxiv.org/abs/2303.16203)] [[slides](https://docs.google.com/presentation/d/1J7QaUQNwzYCk8vQqP6u_AYkS610uHpiAOXx8el_9V7s/edit#slide=id.p)] <br />  Towards Open-Set Test-Time Adaptation Utilizing the Wisdom of Crowds in Entropy Minimization [[Jungsoo Lee et al., ICCV 2023](https://arxiv.org/pdf/2308.06879.pdf)] [[slides](https://docs.google.com/presentation/d/1GMLCPEQAHnOwfPMkkbwkj5GWW1atguOdR5vpEfgLVaM/edit#slide=id.g2b89b229458_0_296)]|
-| 02/21 |  2023 Early Graduation Ceremony   |No Reading Group. Congratulations on your graduation! 🎓|
-| 02/28 |  Yebin Ji   <br />   YongHyun Ahn  |What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [slides] <br />  WWW: A Unified Framework for Explaining What, Where and Why of Neural Networks by Interpretation of Neuron Concept [[Yong Hyun Ahn et al., CVPR 2024](https://arxiv.org/pdf/2402.18956.pdf)] [[slides](https://drive.google.com/file/d/1gAQ8E3eTQifbgol_8BIlQtk_im3Cl2Z0/view?usp=sharing)]|
+| 03/14 |   Yebin Ji   | What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [slides]|
+| 03/21 |   Soyeon Hong   |[paper] [slides]|
+| 03/28 |   Euijune Lee   |[paper] [slides]|
+| 04/04 |   Juwon Seo   <br>   Taeyoung Lee|[paper] [slides]|
+| 04/11 |   Minkuk Kim   |[paper] [slides]|
+| 04/18 |Midterm|No Reading Group. :book:|
+| 04/25 |Midterm|No Reading Group. :book:|
+| 05/02 |   Seun-An Choe   |[paper] [slides]|
+| 05/09 |   Keonhee Park   |[paper] [slides]|
+| 05/16 |   Myeongjun Oh   |[paper] [slides]|
+| 05/23 |   NeurIPS Deadline   |No Reading Group. :book:|
+| 05/30 |   Jongseo Lee   |[paper] [slides]|
+| 06/06 |   Memorial Day   |No Reading Group. :book:|
+| 06/13 |   Final Exam   |No Reading Group. :book:|
+| 06/20 |   Final Exam   |No Reading Group. :book:|
 
 
 ## Mailing List
@@ -51,24 +57,25 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59pm** before your presentation.
-Moreover, send the **presentation slides link** on  **Tuesday 11:59am**.
+Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Sunghoon Lee / Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee
-  - UG student : Min-Jae Kim
+  - M.S. student : Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
+  - UG student : Won-Jeong Lee / Young-Seob Won
 * [AUGI](http://ailab.khu.ac.kr/)
-  - M.S. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji
-  - UG student : Ohsung Choo
+  - Ph.D. student: Enki Cho / Yong Hyun Ahn
+  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Ka Young Kim
+  - UG student : Soo Hyun Im / Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - UG student :  Euijune Lee / Myeongjun Oh
 * [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Hyogun Lee / Kyungho Bae / Jongseo Lee
-  - UG student : Geo Ahn / Soyeon Hong / Joohyun Chang
+  - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
+  - UG student : Joohyun Chang / Soohyun Park / Yuri Kim
 * Alumni
-  - \[AGI] M.S. : Ahyung Shin
-  - \[MLVC] M.S. : Junghun Cha
-  - \[VLL] M.S. : Dongho Lee / Jongmin Shin
+  - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee
+  - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang
+  - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
 
 
 ## Previous Meetings
@@ -81,6 +88,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59am**.
 - [Winter~Spring 2023](https://github.com/khuvll/reading_group/blob/main/2023_Winter_Spring_schedule.md)
 - [Summer 2023](https://github.com/khuvll/reading_group/blob/main/2023_Summer_schedule.md)
 - [Fall 2023](https://github.com/khuvll/reading_group/blob/main/2023_Fall_schedule.md)
+- [Winter 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Winter_schedule.md)
 
 ## Related Links
 
@@ -122,7 +130,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Thursday** of that week.
+**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
