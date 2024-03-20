@@ -36,7 +36,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | Date       | Presenters     |  Topic     |
 |-------------|--------|--------|
 | 03/14 |   Yebin Ji   | What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [[slides](https://docs.google.com/presentation/d/1TEFSEwQdkKNokM0VZeM27aRIXleU8yj18zqLchW7-S8/edit#slide=id.p)]|
-| 03/21 |   Soyeon Hong   |EgoEnv: Human-centric environment representations from egocentric video [[paper](https://arxiv.org/pdf/2207.11365.pdf)] [slides]|
+| 03/21 |   Soyeon Hong   |EgoEnv: Human-centric environment representations from egocentric video [[paper](https://arxiv.org/pdf/2207.11365.pdf)] [[slides](https://docs.google.com/presentation/d/1DJqLS8au2o5yY1dq96U6kPSFAqVU-ufM/edit?usp=sharing&ouid=114116171789453773583&rtpof=true&sd=true)]|
 | 03/28 |   Euijune Lee   |[paper] [slides]|
 | 04/04 |   Juwon Seo   <br>   Taeyoung Lee|[paper] [slides]|
 | 04/11 |   Minkuk Kim   |[paper] [slides]|
