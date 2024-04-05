@@ -39,7 +39,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 03/21 |   Soyeon Hong   |EgoEnv: Human-centric environment representations from egocentric video [[Tushar Nagarajan et al., NeurIPS 2023](https://arxiv.org/pdf/2207.11365.pdf)] [[slides](https://docs.google.com/presentation/d/1DJqLS8au2o5yY1dq96U6kPSFAqVU-ufM/edit?usp=sharing&ouid=114116171789453773583&rtpof=true&sd=true)]|
 | 03/28 |   Euijune Lee   |WIRE: Wavelet Implicit Neural Representations [[Vishwanath Saragadam et al., CVPR 2023](https://arxiv.org/pdf/2301.05187.pdf)] [[slides](https://docs.google.com/presentation/d/1mbqCG6sh7lBD9qflyhISlfAFPykJJtmk/edit#slide=id.p1)]|
 | 04/04 |   Yebin Ji   |What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [[slides](https://docs.google.com/presentation/d/1K6pNv6VJnNH1lXbYlMat_3EGm1l18SC5kYMK-Q-PL2I/edit#slide=id.p)]|
-| 04/11 |   Juwon Seo   <br>   Taeyoung Lee   |[paper] [slides]|
+| 04/11 |   Juwon Seo   <br>   Taeyoung Lee   |Generative Unlearning for Any Identity [Juwon Seo et al., CVPR 2024] [slides]|
 | 04/18 |Midterm|No Reading Group. :book:|
 | 04/25 |Midterm|No Reading Group. :book:|
 | 05/02 |   Minkuk Kim   |[paper] [slides]|
