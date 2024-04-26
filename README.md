@@ -42,7 +42,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 04/11 |   Juwon Seo   <br>   Taeyoung Lee   |Generative Unlearning for Any Identity [Juwon Seo et al., CVPR 2024] [slides]|
 | 04/18 |Midterm|No Reading Group. :book:|
 | 04/25 |Midterm|No Reading Group. :book:|
-| 05/02 |   Minkuk Kim   |[paper] [slides]|
+| 05/02 |   Minkuk Kim   |Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval [[Minkuk Kim et al., CVPR 2024](https://arxiv.org/pdf/2404.07610)] [slides]|
 | 05/09 |   Seun-An Choe   |[paper] [slides]|
 | 05/16 |   Keonhee Park   |[paper] [slides]|
 | 05/23 |   NeurIPS Deadline   |No Reading Group. :book:|
