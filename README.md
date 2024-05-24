@@ -46,7 +46,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 05/09 |   Seun-An Choe   |Open-Set Domain Adaptation for Semantic Segmentation [Seun-An Choe et al., CVPR 2024] [[slides](https://docs.google.com/presentation/d/19hnbCxCnYaIgSsjwMu8ubTlgHWMpU1amtjKhsrR0QGU/edit#slide=id.g2709c2c6b0f_1_85)]|
 | 05/16 |   ECCV Rebuttal   |No Reading Group. :book:|
 | 05/23 |   NeurIPS Deadline   |No Reading Group. :book:|
-| 05/30 |   Keonhee Park   |[paper] [slides]|
+| 05/30 |   Keonhee Park   |[[Keon-Hee Park et al., CVPR 2024](https://arxiv.org/abs/2404.02117)] [slides]|
 | 06/06 |   Memorial Day   |No Reading Group. :book:|
 | 06/13 |   Final Exam   |No Reading Group. :book:|
 | 06/20 |   Final Exam   |No Reading Group. :book:|
