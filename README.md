@@ -50,7 +50,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 06/06 |   Memorial Day   |No Reading Group. :book:|
 | 06/13 |   Final Exam   |No Reading Group. :book:|
 | 06/20 |   Final Exam   |No Reading Group. :book:|
-| 06/27 |   Myeongjun Oh   |[paper] [slides]|
+| 06/27 |   -   |No Reading Group. :book:|
 
 
 ## Mailing List
