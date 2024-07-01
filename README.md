@@ -1,7 +1,7 @@
-# KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="240" align="right">
+# KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Thursday PM 19:00
+- Wednesday AM 10:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2024)](#current-schedule)
+- [Current Schedule (Summer 2024)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,30 +27,22 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour:hourglass:).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
-| Date       | Presenters     |  Topic     |
-|-------------|--------|--------|
-| 03/14 |   Yebin Ji   | What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [[slides](https://docs.google.com/presentation/d/1TEFSEwQdkKNokM0VZeM27aRIXleU8yj18zqLchW7-S8/edit#slide=id.p)]|
-| 03/21 |   Soyeon Hong   |EgoEnv: Human-centric environment representations from egocentric video [[Tushar Nagarajan et al., NeurIPS 2023](https://arxiv.org/pdf/2207.11365.pdf)] [[slides](https://docs.google.com/presentation/d/1DJqLS8au2o5yY1dq96U6kPSFAqVU-ufM/edit?usp=sharing&ouid=114116171789453773583&rtpof=true&sd=true)]|
-| 03/28 |   Euijune Lee   |WIRE: Wavelet Implicit Neural Representations [[Vishwanath Saragadam et al., CVPR 2023](https://arxiv.org/pdf/2301.05187.pdf)] [[slides](https://docs.google.com/presentation/d/1mbqCG6sh7lBD9qflyhISlfAFPykJJtmk/edit#slide=id.p1)]|
-| 04/04 |   Yebin Ji   |What Do Deep Saliency Models Learn about Visual Attention? [[Shi Chen et al., NeurIPS 2023](https://arxiv.org/pdf/2310.09679.pdf)] [[slides](https://docs.google.com/presentation/d/1K6pNv6VJnNH1lXbYlMat_3EGm1l18SC5kYMK-Q-PL2I/edit#slide=id.p)]|
-| 04/11 |   Juwon Seo   <br>   Taeyoung Lee   |Generative Unlearning for Any Identity [Juwon Seo et al., CVPR 2024] [slides]|
-| 04/18 |Midterm|No Reading Group. :book:|
-| 04/25 |Midterm|No Reading Group. :book:|
-| 05/02 |   Minkuk Kim   |Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval [[Minkuk Kim et al., CVPR 2024](https://arxiv.org/pdf/2404.07610)] [[slides](https://docs.google.com/presentation/d/1cf20jbtIUKD-TpHZdsdtmMYcFdD7VrukgI3AI7tPO5M/edit#slide=id.p1)]|
-| 05/09 |   Seun-An Choe   |Open-Set Domain Adaptation for Semantic Segmentation [Seun-An Choe et al., CVPR 2024] [[slides](https://docs.google.com/presentation/d/19hnbCxCnYaIgSsjwMu8ubTlgHWMpU1amtjKhsrR0QGU/edit#slide=id.g2709c2c6b0f_1_85)]|
-| 05/16 |   ECCV Rebuttal   |No Reading Group. :book:|
-| 05/23 |   NeurIPS Deadline   |No Reading Group. :book:|
-| 05/30 |   Keonhee Park   |[[Keon-Hee Park et al., CVPR 2024](https://arxiv.org/pdf/2404.02117)] [[slides](https://docs.google.com/presentation/d/1u8F-FRzR1YtHbJRwqzbgau433-uBqB2s/edit#slide=id.p1)]|
-| 06/06 |   Memorial Day   |No Reading Group. :book:|
-| 06/13 |   Final Exam   |No Reading Group. :book:|
-| 06/20 |   Final Exam   |No Reading Group. :book:|
-| 06/27 |   -   |No Reading Group. :book:|
+| Date | Presenters | Topic |
+|-------------|------------|--------|
+| 07/10 | Myeongjun Oh <br /> Jongseo Lee |[paper] [slides] <br /> [paper] [slides]|
+| 07/17 | Young-Seob Won <br /> Ka Young Kim |[paper] [slides] <br /> [paper] [slides]|
+| 07/24 | Joohyun Chang <br /> Jun-Yeong Moon |[paper] [slides] <br /> [paper] [slides]|
+| 07/31 | Ohsung Choo <br /> Min-Yeong Park |[paper] [slides] <br /> [paper] [slides]|
+| 08/07 | Hyeonbae Kim <br /> Min-Jae Kim |[paper] [slides] <br /> [paper] [slides]|
+| 08/14 | KCCV 2023 | No Reading Group |
+| 08/21 | Soyoun Won <br /> Euijune Lee |[paper] [slides] <br /> [paper] [slides]|
+| 08/28 | Geo Ahn <br /> Won-Jeong Lee |[paper] [slides] <br /> [paper] [slides]|
 
 
 ## Mailing List
@@ -58,8 +50,8 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
+Please let Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
@@ -90,6 +82,7 @@ Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
 - [Summer 2023](https://github.com/khuvll/reading_group/blob/main/2023_Summer_schedule.md)
 - [Fall 2023](https://github.com/khuvll/reading_group/blob/main/2023_Fall_schedule.md)
 - [Winter 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Winter_schedule.md)
+- [Spring 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Spring_schedule.md)
 
 ## Related Links
 
@@ -122,7 +115,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
@@ -131,7 +124,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Soyeon Hong (soyeonhong -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
