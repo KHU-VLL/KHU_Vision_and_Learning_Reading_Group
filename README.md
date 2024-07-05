@@ -35,7 +35,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 
 | Date | Presenters | Topic |
 |-------------|------------|--------|
-| 07/10 | Myeongjun Oh <br /> Jongseo Lee |[paper] [slides] <br /> [paper] [slides]|
+| 07/10 | Myeongjun Oh <br /> Jongseo Lee |Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?[[Hanxin Zhu, Tianyu He, Xin Li, Bingchen Li, Zhibo Chen; CVPR 2024](https://arxiv.org/pdf/2403.06092)] [slides] <br />   [paper] [slides]|
 | 07/17 | Young-Seob Won <br /> Ka Young Kim |[paper] [slides] <br /> [paper] [slides]|
 | 07/24 | Joohyun Chang <br /> Jun-Yeong Moon |[paper] [slides] <br /> [paper] [slides]|
 | 07/31 | Ohsung Choo <br /> Min-Yeong Park |[paper] [slides] <br /> [paper] [slides]|
