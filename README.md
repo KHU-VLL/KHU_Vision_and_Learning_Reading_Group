@@ -61,7 +61,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Ka Young Kim
   - UG student : Soo Hyun Im / Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - UG student :  Euijune Lee / Myeongjun Oh
+  - M.S. student :  Euijune Lee / Myeongjun Oh
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
   - UG student : Joohyun Chang / Soohyun Park / Yuri Kim
