@@ -41,7 +41,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 07/31 | Ohsung Choo <br /> Min-Yeong Park |[paper] [slides] <br /> [paper] [slides]|
 | 08/07 | Hyeonbae Kim <br /> Min-Jae Kim |[paper] [slides] <br /> [paper] [slides]|
 | 08/14 | KCCV 2023 | No Reading Group |
-| 08/21 | Soyoun Won <br /> Euijune Lee |[paper] [slides] <br /> [paper] [slides]|
+| 08/21 | Jehyun Park <br /> Euijune Lee |[paper] [slides] <br /> [paper] [slides]|
 | 08/28 | Geo Ahn <br /> Won-Jeong Lee |[paper] [slides] <br /> [paper] [slides]|
 
 
