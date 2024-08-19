@@ -41,7 +41,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 07/31 | - | No Reading Group 📖|
 | 08/07 | Ohsung Choo <br /> Min-Yeong Park |Poda: Prompt-driven zero-shot domain adaptation [[Fahes, Mohammad, et al, ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1I0AnEbdzOeelpYNHbBhuXbR_Hr_MyLCh87GgA-8_3EA/edit?usp=sharing)] <br /> Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning [Min-Yeong Park, Jae-Ho Lee, and Gyeong-Moon Park, ECCV 2024] [[slides](https://docs.google.com/presentation/d/1wZT5QKxnuFWsBifh4tt7YWnkzxJbxouxrkFT3GhpmCc/edit?usp=sharing)]|
 | 08/14 | KCCV 2023 | No Reading Group 📖|
-| 08/21 | Hyeonbae Kim <br /> Min-Jae Kim |[paper] [slides] <br /> [paper] [slides]|
+| 08/21 | Hyeonbae Kim <br /> Min-Jae Kim | Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain [[H.B. Kim, Y.H. Ahn, S.T. Kim, MICCAI2024](https://www.arxiv.org/pdf/2407.11375)] [slides] <br />  InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation [[X. Liu, et al., ICLR 2024](https://openreview.net/pdf?id=1k4yZbbDqX)] [slides]|
 | 08/28 | Jehyun Park <br /> Euijune Lee |[paper] [slides] <br /> [paper] [slides]|
 
 
