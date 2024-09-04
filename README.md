@@ -51,6 +51,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
 | 12/23 | Jongkyung Lim      | [paper] [slides]|
+| 12/30 | Jehyun Park        | [paper] [slides]|
 
 
 ## Mailing List
