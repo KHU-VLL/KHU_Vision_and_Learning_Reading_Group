@@ -66,7 +66,7 @@ Moreover, send the **presentation slides link** on  **Wednesday 11:59pm**.
   - UG student : Won-Jeong Lee / Young-Seob Won
 * [AUGI](http://ailab.khu.ac.kr/)
   - Ph.D. student: Enki Cho / Yong Hyun Ahn
-  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Ka Young Kim
+  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Kayoung Kim
   - UG student : Soo Hyun Im / Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - UG student :  Euijune Lee / Myeongjun Oh

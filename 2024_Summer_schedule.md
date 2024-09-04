@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
@@ -36,7 +36,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | Date | Presenters | Topic |
 |-------------|------------|--------|
 | 07/10 | Myeongjun Oh <br /> Jongseo Lee |Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis? [[Zhu, Hanxin, et al., CVPR 2024](https://arxiv.org/pdf/2403.06092)] [[slides](https://docs.google.com/presentation/d/1MzDo-ZbETzDHxTJh084cba1tUzWObk1NAbGe8TYclJw/edit)] <br /> Label-free concept bottleneck models [[Oikarinen, Tuomas, et al., ICLR 2023](https://arxiv.org/pdf/2304.06129)] [[slides](https://khuackr-my.sharepoint.com/:p:/g/personal/jong980812_khu_ac_kr/EW90O-74PBZLhaYRGSqAI68B8VZePvQSXQJ6zvCPCTCSxA?rtime=qlx6S3ug3Eg)]|
-| 07/17 | Young-Seob Won <br /> Ka Young Kim |Exploring Incompatible Knowledge Transfer in Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2023](https://arxiv.org/pdf/2304.07574)] [[slides](https://github.com/user-attachments/files/16246335/20240717_readingGroup_RICK_yswon.pptx)] <br /> FreeU: Free Lunch in Diffusion U-Net [[Si, Chenyang, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/Eb-7x1KOlwpFieRJtwo8wjMBzrSrF4FjP85_X-ESwdjEqg?e=J1IOVM)]|
+| 07/17 | Young-Seob Won <br /> Kayoung Kim |Exploring Incompatible Knowledge Transfer in Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2023](https://arxiv.org/pdf/2304.07574)] [[slides](https://github.com/user-attachments/files/16246335/20240717_readingGroup_RICK_yswon.pptx)] <br /> FreeU: Free Lunch in Diffusion U-Net [[Si, Chenyang, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/Eb-7x1KOlwpFieRJtwo8wjMBzrSrF4FjP85_X-ESwdjEqg?e=J1IOVM)]|
 | 07/24 | Joohyun Chang <br /> Jun-Yeong Moon |Single-Stage Visual Query Localization in Egocentric Videos [[Jiang, Hanwen, et al., NeurIPS 2023](https://arxiv.org/pdf/2306.09324)] [[slides](https://docs.google.com/presentation/d/195xfmHAmkweGLlLy-FMUWfszE_5trEIJ/edit?usp=sharing&ouid=114628959552383124490&rtpof=true&sd=true)] <br /> Towards Model-Agnostic Dataset Condensation by Heterogeneous Models [J.-Y. Moon, et al., ECCV 2024] [[slides](https://docs.google.com/presentation/d/1fgtvl6Jk0xNfsVaXZGjkna4LF4BMV4QMaIOdtQ19tYs/edit?usp=sharing)]|
 | 07/31 | - | No Reading Group 📖|
 | 08/07 | Ohsung Choo <br /> Min-Yeong Park |Poda: Prompt-driven zero-shot domain adaptation [[Fahes, Mohammad, et al, ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1I0AnEbdzOeelpYNHbBhuXbR_Hr_MyLCh87GgA-8_3EA/edit?usp=sharing)] <br /> Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning [Min-Yeong Park, Jae-Ho Lee, and Gyeong-Moon Park, ECCV 2024] [[slides](https://docs.google.com/presentation/d/1wZT5QKxnuFWsBifh4tt7YWnkzxJbxouxrkFT3GhpmCc/edit?usp=sharing)]|
@@ -50,7 +50,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
@@ -58,7 +58,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - UG student : Won-Jeong Lee / Young-Seob Won
 * [AUGI](http://ailab.khu.ac.kr/)
   - Ph.D. student: Enki Cho / Yong Hyun Ahn
-  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Ka Young Kim
+  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Kayoung Kim
   - UG student : Soo Hyun Im / Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - M.S. student : Myeongjun Oh
@@ -116,7 +116,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
@@ -125,7 +125,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
