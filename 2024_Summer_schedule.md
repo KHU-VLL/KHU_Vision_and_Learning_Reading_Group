@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Monday 19:00
+- Wednesday AM 10:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Fall 2024)](#current-schedule)
+- [Current Schedule (Summer 2024)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -29,28 +29,20 @@ Location
 ### Reading Group: 
 Please let  Ka Young Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Saturday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Fall we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
-| Date  | Presenters         | Topic                            |
-|-------|--------------------|----------------------------------|
-| 09/09 | Geo Ahn            | [paper] [slides]|
-| 09/16 | Chuseok Holiday    | No Reading Group :book:          |
-| 09/23 | ICLR 2025 Deadline | No Reading Group :book:          |
-| 09/30 | Keonhee Park       | [paper] [slides]|
-| 10/07 | Soyeon Hong        | [paper] [slides]|
-| 10/14 | Midterm            | No Reading Group. :book:         |
-| 10/21 | Midterm            | No Reading Group. :book:         |
-| 10/28 | Heedong Kim        | [paper] [slides]|
-| 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/18 | Sung Oh            | [paper] [slides]|
-| 11/25 | Kayoung Kim        | [paper] [slides]|
-| 12/02 | Won-Jeong Lee      | [paper] [slides]|
-| 12/09 | Final              | No Reading Group. :book:         |
-| 12/16 | Final              | No Reading Group. :book:         |
-| 12/23 | Jongkyung Lim      | [paper] [slides]|
+| Date | Presenters | Topic |
+|-------------|------------|--------|
+| 07/10 | Myeongjun Oh <br /> Jongseo Lee |Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis? [[Zhu, Hanxin, et al., CVPR 2024](https://arxiv.org/pdf/2403.06092)] [[slides](https://docs.google.com/presentation/d/1MzDo-ZbETzDHxTJh084cba1tUzWObk1NAbGe8TYclJw/edit)] <br /> Label-free concept bottleneck models [[Oikarinen, Tuomas, et al., ICLR 2023](https://arxiv.org/pdf/2304.06129)] [[slides](https://khuackr-my.sharepoint.com/:p:/g/personal/jong980812_khu_ac_kr/EW90O-74PBZLhaYRGSqAI68B8VZePvQSXQJ6zvCPCTCSxA?rtime=qlx6S3ug3Eg)]|
+| 07/17 | Young-Seob Won <br /> Ka Young Kim |Exploring Incompatible Knowledge Transfer in Few-shot Image Generation [[Yunqing Zhao et al., CVPR 2023](https://arxiv.org/pdf/2304.07574)] [[slides](https://github.com/user-attachments/files/16246335/20240717_readingGroup_RICK_yswon.pptx)] <br /> FreeU: Free Lunch in Diffusion U-Net [[Si, Chenyang, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Si_FreeU_Free_Lunch_in_Diffusion_U-Net_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/Eb-7x1KOlwpFieRJtwo8wjMBzrSrF4FjP85_X-ESwdjEqg?e=J1IOVM)]|
+| 07/24 | Joohyun Chang <br /> Jun-Yeong Moon |Single-Stage Visual Query Localization in Egocentric Videos [[Jiang, Hanwen, et al., NeurIPS 2023](https://arxiv.org/pdf/2306.09324)] [[slides](https://docs.google.com/presentation/d/195xfmHAmkweGLlLy-FMUWfszE_5trEIJ/edit?usp=sharing&ouid=114628959552383124490&rtpof=true&sd=true)] <br /> Towards Model-Agnostic Dataset Condensation by Heterogeneous Models [J.-Y. Moon, et al., ECCV 2024] [[slides](https://docs.google.com/presentation/d/1fgtvl6Jk0xNfsVaXZGjkna4LF4BMV4QMaIOdtQ19tYs/edit?usp=sharing)]|
+| 07/31 | - | No Reading Group 📖|
+| 08/07 | Ohsung Choo <br /> Min-Yeong Park |Poda: Prompt-driven zero-shot domain adaptation [[Fahes, Mohammad, et al, ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Fahes_PODA_Prompt-driven_Zero-shot_Domain_Adaptation_ICCV_2023_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1I0AnEbdzOeelpYNHbBhuXbR_Hr_MyLCh87GgA-8_3EA/edit?usp=sharing)] <br /> Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning [Min-Yeong Park, Jae-Ho Lee, and Gyeong-Moon Park, ECCV 2024] [[slides](https://docs.google.com/presentation/d/1wZT5QKxnuFWsBifh4tt7YWnkzxJbxouxrkFT3GhpmCc/edit?usp=sharing)]|
+| 08/14 | KCCV 2023 | No Reading Group 📖|
+| 08/21 | Hyeonbae Kim <br /> Min-Jae Kim | Mask-Free Neuron Concept Annotation for Interpreting Neural Networks in Medical Domain [[H.B. Kim, Y.H. Ahn, S.T. Kim, MICCAI 2024](https://www.arxiv.org/pdf/2407.11375)] [[slides](https://docs.google.com/presentation/d/1pU11dQvWKAwoLS3if5gvoBxm1wZG5uhg/edit?usp=sharing&ouid=115797261789728292501&rtpof=true&sd=true)] <br />  InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation [[X. Liu, et al., ICLR 2024](https://openreview.net/pdf?id=1k4yZbbDqX)] [[slides](https://docs.google.com/presentation/d/1gEWUkj8bWxg44fTLeJgV9__fX6627ilx/edit?usp=sharing&ouid=116591346679315800758&rtpof=true&sd=true)]|
+| 08/28 | Jehyun Park <br /> Euijune Lee |Identifying interpretable subspaces in image representations [[Kalibhat, Neha, et al., ICML 2023](https://proceedings.mlr.press/v202/kalibhat23a/kalibhat23a.pdf)] [[slides](https://onedrive.live.com/edit?id=BFCC8C98ECD9F082!330&resid=BFCC8C98ECD9F082!330&ithint=file%2cpptx&authkey=!AFVMeRHXvd9jc54&wdo=2&cid=bfcc8c98ecd9f082)] <br /> SketchINR: A First Look into Sketches as Implicit Neural Representations [[Bandyopadhyay, Hmrishav, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Bandyopadhyay_SketchINR_A_First_Look_into_Sketches_as_Implicit_Neural_Representations_CVPR_2024_paper.pdf)] [[slides](https://docs.google.com/presentation/d/1p3nL-lLEFltdwFaSIJOLC_m8Y99GKByW/edit?usp=sharing&ouid=107682108873812041381&rtpof=true&sd=true)]|
 
 
 ## Mailing List
@@ -65,15 +57,15 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
   - M.S. student : Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
   - UG student : Won-Jeong Lee / Young-Seob Won
 * [AUGI](http://ailab.khu.ac.kr/)
-  - Ph.D. student: Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won
-  - M.S. student : Hyeonbae Kim / Yebin Ji / Ohsung Choo / Kayoung Kim
-  - UG student : Heedong Kim / Jehyun Park
+  - Ph.D. student: Enki Cho / Yong Hyun Ahn
+  - M.S. student : Minkuk Kim / Soyoun Won / Hyeonbae Kim / Yebin Ji / Ohsung Choo / Ka Young Kim
+  - UG student : Soo Hyun Im / Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - M.S. student : Myeongjun Oh
   - UG student : Euijune Lee
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
-  - UG student : Joohyun Chang / Soohyun Park / Yuri Kim / Wooil Lee
+  - UG student : Joohyun Chang / Soohyun Park / Yuri Kim
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee
   - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang
@@ -92,7 +84,6 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 - [Fall 2023](https://github.com/khuvll/reading_group/blob/main/2023_Fall_schedule.md)
 - [Winter 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Winter_schedule.md)
 - [Spring 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Spring_schedule.md)
-- [Summer 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Summer_schedule.md)
 
 ## Related Links
 
