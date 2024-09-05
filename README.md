@@ -37,7 +37,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 |-------|--------------------|----------------------------------|
 | 09/09 | -                  | No Reading Group :book:          |
 | 09/16 | Chuseok Holiday    | No Reading Group :book:          |
-| 09/23 | Geo Ahn            | No Reading Group :book:          |
+| 09/23 | Geo Ahn            | [paper] [slides]         |
 | 09/30 | Keonhee Park       | [paper] [slides]|
 | 10/07 | Soyeon Hong        | [paper] [slides]|
 | 10/14 | Midterm            | No Reading Group. :book:         |
