@@ -38,7 +38,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 09/09 | -                  | No Reading Group :book:          |
 | 09/16 | Chuseok Holiday    | No Reading Group :book:          |
 | 09/23 | Geo Ahn            | DEVIAS: Learning Disentangled Video Representations of Action and Scene [[Kyungho Bae, Geo Ahn, Youngrae Kim, Jinwoo Choi, ECCV 2024 Oral](https://arxiv.org/pdf/2312.00826)] [[slides](https://1drv.ms/p/c/7ac7c52c56e694e2/ET8n22q8LaFGpVWGKGrkyvoBy4YTW_oKX8vuxSMuWhn5Uw?e=yNohW8)]         |
-| 09/30 | Keonhee Park       | [paper] [slides]|
+| 09/30 | ECCV 2024          | No Reading Group :book:          |
 | 10/07 | Soyeon Hong        | [paper] [slides]|
 | 10/14 | Midterm            | No Reading Group. :book:         |
 | 10/21 | Midterm            | No Reading Group. :book:         |
