@@ -42,16 +42,16 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 10/07 | Soyeon Hong        | [paper] [slides]|
 | 10/14 | Midterm            | No Reading Group. :book:         |
 | 10/21 | Midterm            | No Reading Group. :book:         |
-| 10/28 | Heedong Kim        | [paper] [slides]|
+| 10/28 | Keonhee Park       | [paper] [slides]|
 | 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/18 | Sung Oh            | [paper] [slides]|
-| 11/25 | Kayoung Kim        | [paper] [slides]|
-| 12/02 | Won-Jeong Lee      | [paper] [slides]|
+| 11/18 | Heedong Kim        | [paper] [slides]|
+| 11/25 | Sung Oh            | [paper] [slides]|
+| 12/02 | Kayoung Kim        | [paper] [slides]|
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
-| 12/23 | Jongkyung Lim      | [paper] [slides]|
-| 12/30 | Jehyun Park        | [paper] [slides]|
+| 12/23 | Won-Jeong Lee      | [paper] [slides]|
+| 12/30 | Jongkyung Lim      | [paper] [slides]|
 
 
 ## Mailing List
