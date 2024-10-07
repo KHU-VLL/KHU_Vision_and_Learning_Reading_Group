@@ -39,7 +39,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 09/16 | Chuseok Holiday    | No Reading Group :book:          |
 | 09/23 | Geo Ahn            | DEVIAS: Learning Disentangled Video Representations of Action and Scene [[Kyungho Bae, Geo Ahn, Youngrae Kim, Jinwoo Choi, ECCV 2024 Oral](https://arxiv.org/pdf/2312.00826)] [[slides](https://1drv.ms/p/c/7ac7c52c56e694e2/ET8n22q8LaFGpVWGKGrkyvoBy4YTW_oKX8vuxSMuWhn5Uw?e=yNohW8)]         |
 | 09/30 | ECCV 2024          | No Reading Group :book:          |
-| 10/07 | Soyeon Hong        | Egocentric Video Task Translation [[Zihui Xue et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.pdf)]  [slides]|
+| 10/07 | Soyeon Hong        | Egocentric Video Task Translation [[Zihui Xue et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.pdf)]  [[slides](https://docs.google.com/presentation/d/1VewoxNFNaEZ532CZM3n73Mo7_qW7dXW3rUSA4g-UcUw/edit?usp=sharing)]|
 | 10/14 | Midterm            | No Reading Group. :book:         |
 | 10/21 | Midterm            | No Reading Group. :book:         |
 | 10/28 | Keonhee Park       | [paper] [slides]|
