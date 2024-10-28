@@ -42,7 +42,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 10/07 | Soyeon Hong        | Egocentric Video Task Translation [[Zihui Xue et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.pdf)]  [[slides](https://docs.google.com/presentation/d/1VewoxNFNaEZ532CZM3n73Mo7_qW7dXW3rUSA4g-UcUw/edit?usp=sharing)]|
 | 10/14 | Midterm            | No Reading Group. :book:         |
 | 10/21 | Midterm            | No Reading Group. :book:         |
-| 10/28 | Keonhee Park       | Online Continuous Generalized Category Discovery [[Keon-Hee Park, Hakyung Lee, Kyungwoo Song, Gyeong-Moon Park, ECCV 2024](https://arxiv.org/pdf/2408.13492)] [[slides](https://github.com/user-attachments/files/17537713/OCGCD_ReadingGroup.pptx)]|
+| 10/28 | Keonhee Park       | Online Continuous Generalized Category Discovery [[Keon-Hee Park, Hakyung Lee, Kyungwoo Song, Gyeong-Moon Park, ECCV 2024](https://arxiv.org/pdf/2408.13492)] [[slides](https://github.com/user-attachments/files/17537918/OCGCD_ReadingGroup.pptx)]|
 | 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/18 | Heedong Kim        | [paper] [slides]|
