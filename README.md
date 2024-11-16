@@ -45,9 +45,9 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 10/28 | Keonhee Park       | Online Continuous Generalized Category Discovery [[Keon-Hee Park, Hakyung Lee, Kyungwoo Song, Gyeong-Moon Park, ECCV 2024](https://arxiv.org/pdf/2408.13492)] [[slides](https://github.com/user-attachments/files/17537918/OCGCD_ReadingGroup.pptx)]|
 | 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/18 | Heedong Kim        | [paper] [slides]|
+| 11/18 | Heedong Kim        | Video ReCap: Recursive Captioning of Hour-Long Videos [[Islam, Md Mohaiminul, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_Video_ReCap_Recursive_Captioning_of_Hour-Long_Videos_CVPR_2024_paper.pdf)] [slides]|
 | 11/25 | Sung Oh            | [paper] [slides]|
-| 12/02 | Kayoung Kim        | Video ReCap: Recursive Captioning of Hour-Long Videos [[Islam, Md Mohaiminul, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_Video_ReCap_Recursive_Captioning_of_Hour-Long_Videos_CVPR_2024_paper.pdf)] [slides]|
+| 12/02 | Kayoung Kim        | [paper] [slides]|
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
 | 12/23 | Won-Jeong Lee      | [paper] [slides]|
