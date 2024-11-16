@@ -47,7 +47,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/18 | Heedong Kim        | [paper] [slides]|
 | 11/25 | Sung Oh            | [paper] [slides]|
-| 12/02 | Kayoung Kim        | [paper] [slides]|
+| 12/02 | Kayoung Kim        | Video ReCap: Recursive Captioning of Hour-Long Videos [[Islam, Md Mohaiminul, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_Video_ReCap_Recursive_Captioning_of_Hour-Long_Videos_CVPR_2024_paper.pdf)] [slides]|
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
 | 12/23 | Won-Jeong Lee      | [paper] [slides]|
