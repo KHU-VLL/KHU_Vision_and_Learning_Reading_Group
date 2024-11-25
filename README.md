@@ -46,7 +46,8 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
 | 11/18 | Heedong Kim        | Video ReCap: Recursive Captioning of Hour-Long Videos [[Islam, Md Mohaiminul, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_Video_ReCap_Recursive_Captioning_of_Hour-Long_Videos_CVPR_2024_paper.pdf)] [[slides](https://onedrive.live.com/edit?id=52841ACFA0616A18!82325&resid=52841ACFA0616A18!82325&ithint=file%2cpptx&authkey=!AOiWkuA8_BBtLBc&wdo=2&cid=52841acfa0616a18)]|
-| 11/25 | Sung Oh            | A Vision Check-up for  Language Models [[Sharma, Pratyusha, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Sharma_A_Vision_Check-up_for_Language_Models_CVPR_2024_paper.pdf)] [slides]|
+| 11/25 | Sung Oh            | A Vision Check-up for  Language Models [[Sharma, Pratyusha, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Sharma_A_Vision_Check-up_for_Language_Models_CVPR_2024_paper.pdf)] [[slides]([A Vision Check up for  Language Models.pptx](https://github.com/user-attachments/files/17896241/A.Vision.Check.up.for.Language.Models.pptx)
+)]|
 | 12/02 | Kayoung Kim        | [paper] [slides]|
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
