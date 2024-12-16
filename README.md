@@ -50,8 +50,8 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 | 12/02 | Kayoung Kim        | Alchemist: Parametric Control of Material Properties with Diffusion Models [[Sharma, Prafull, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Sharma_Alchemist_Parametric_Control_of_Material_Properties_with_Diffusion_Models_CVPR_2024_paper.pdf)][[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/EdpP8JOB6CdIkBZmIJyTWqgBSmMoLCs3o6hcBe2sEyDYKQ)]|
 | 12/09 | Final              | No Reading Group. :book:         |
 | 12/16 | Final              | No Reading Group. :book:         |
-| 12/23 | Won-Jeong Lee      | [paper] [slides]|
-| 12/30 | Jongkyung Lim      | [paper] [slides]|
+| 12/23 | -      | No Reading Group. :book: 
+| 12/30 | -      | No Reading Group. :book: 
 
 
 ## Mailing List
