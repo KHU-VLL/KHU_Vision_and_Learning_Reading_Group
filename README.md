@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Monday 19:00
+- Wednesday 11:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Fall 2024)](#current-schedule)
+- [Current Schedule (Winter 2025)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Saturday 11:59pm**.
 
@@ -35,23 +35,13 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/09 | -                  | No Reading Group :book:          |
-| 09/16 | Chuseok Holiday    | No Reading Group :book:          |
-| 09/23 | Geo Ahn            | DEVIAS: Learning Disentangled Video Representations of Action and Scene [[Kyungho Bae, Geo Ahn, Youngrae Kim, Jinwoo Choi, ECCV 2024 Oral](https://arxiv.org/pdf/2312.00826)] [[slides](https://1drv.ms/p/c/7ac7c52c56e694e2/ET8n22q8LaFGpVWGKGrkyvoBy4YTW_oKX8vuxSMuWhn5Uw?e=yNohW8)]         |
-| 09/30 | ECCV 2024          | No Reading Group :book:          |
-| 10/07 | Soyeon Hong        | Egocentric Video Task Translation [[Zihui Xue et al., CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_Egocentric_Video_Task_Translation_CVPR_2023_paper.pdf)]  [[slides](https://docs.google.com/presentation/d/1VewoxNFNaEZ532CZM3n73Mo7_qW7dXW3rUSA4g-UcUw/edit?usp=sharing)]|
-| 10/14 | Midterm            | No Reading Group. :book:         |
-| 10/21 | Midterm            | No Reading Group. :book:         |
-| 10/28 | Keonhee Park       | Online Continuous Generalized Category Discovery [[Keon-Hee Park, Hakyung Lee, Kyungwoo Song, Gyeong-Moon Park, ECCV 2024](https://arxiv.org/pdf/2408.13492)] [[slides](https://github.com/user-attachments/files/17537918/OCGCD_ReadingGroup.pptx)]|
-| 11/04 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/11 | CVPR 2025 Deadline | No Reading Group. :book:         |
-| 11/18 | Heedong Kim        | Video ReCap: Recursive Captioning of Hour-Long Videos [[Islam, Md Mohaiminul, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_Video_ReCap_Recursive_Captioning_of_Hour-Long_Videos_CVPR_2024_paper.pdf)] [[slides](https://onedrive.live.com/edit?id=52841ACFA0616A18!82325&resid=52841ACFA0616A18!82325&ithint=file%2cpptx&authkey=!AOiWkuA8_BBtLBc&wdo=2&cid=52841acfa0616a18)]|
-| 11/25 | Sung Oh            | A Vision Check-up for  Language Models [[Sharma, Pratyusha, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Sharma_A_Vision_Check-up_for_Language_Models_CVPR_2024_paper.pdf)] [[slides](https://github.com/user-attachments/files/17896241/A.Vision.Check.up.for.Language.Models.pptx)]|
-| 12/02 | Kayoung Kim        | Alchemist: Parametric Control of Material Properties with Diffusion Models [[Sharma, Prafull, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Sharma_Alchemist_Parametric_Control_of_Material_Properties_with_Diffusion_Models_CVPR_2024_paper.pdf)][[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/EdpP8JOB6CdIkBZmIJyTWqgBSmMoLCs3o6hcBe2sEyDYKQ)]|
-| 12/09 | Final              | No Reading Group. :book:         |
-| 12/16 | Final              | No Reading Group. :book:         |
-| 12/23 | -      | No Reading Group. :book: 
-| 12/30 | -      | No Reading Group. :book: 
+| 01/15 | JongKyung Im  <br /> Wonjeong Lee | :book: [slides] <br /> :book: [slides]  |
+| 01/22 | Ohsung Choo   <br /> Soohyun Park | :book: [slides] <br /> :book: [slides]  |
+| 01/29 | Seollal Holiday      | No Reading Group. :book: |
+| 02/05 | Habin Lim   <br /> Youngseob Won | :book: [slides] <br /> :book: [slides]  |
+| 02/12 | Donghoon Kim  <br /> Seunan Choe | :book: [slides] <br /> :book: [slides]  |
+| 02/19 | Kayoung Kim  <br /> Jongseo Lee | :book: [slides] <br /> :book: [slides]  |
+| 02/26 | MICCAI & ICCV Deadline      | No Reading Group. :book: 
 
 
 ## Mailing List
@@ -59,25 +49,26 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Jiwon Hwang / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
+  - M.S. student : Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
   - UG student : Won-Jeong Lee / Young-Seob Won
-* [AUGI](http://ailab.khu.ac.kr/)
-  - Ph.D. student: Enki Cho / Yong Hyun Ahn / Minkuk Kim / Soyoun Won
-  - M.S. student : Hyeonbae Kim / Yebin Ji / Ohsung Choo / Kayoung Kim
+* [AMI](http://ailab.khu.ac.kr/)
+  - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won
   - UG student : Heedong Kim / Jehyun Park
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - Ph.D. student: Sung Oh / Jongkyung Lim
+  - Ph.D. student : Sung Oh / Jongkyung Lim
   - M.S. student : Donghoon Kim / Myeongjun Oh / Euijin Lee
   - UG student : Minsoo Lee
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
-  - UG student : Joohyun Chang / Soohyun Park / Yuri Kim / Wooil Lee
+  - UG student : Joohyun Chang / Soohyun Park
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee
+  - \[AMI] M.S. : Soyoun Won / Yebin Ji
   - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
 
@@ -95,6 +86,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 - [Winter 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Winter_schedule.md)
 - [Spring 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Spring_schedule.md)
 - [Summer 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Summer_schedule.md)
+- [Fall 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Fall_schedule.md)
 
 ## Related Links
 
@@ -127,7 +119,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
