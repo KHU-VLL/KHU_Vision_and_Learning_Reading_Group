@@ -29,13 +29,13 @@ Location
 ### Reading Group: 
 Please let  Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Saturday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
 This Fall we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/15 | JongKyung Im  <br /> Wonjeong Lee | :book: [slides] <br /> :book: [slides]  |
+| 01/15 | JongKyung Im  <br /> Wonjeong Lee | Distilling Knowledge from Large-Scale Image Models for Object Detection [[Gang Li, et al., ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11200.pdf)] [slides] <br /> :book: [slides]  |
 | 01/22 | Ohsung Choo   <br /> Soohyun Park | :book: [slides] <br /> :book: [slides]  |
 | 01/29 | Seollal Holiday      | No Reading Group. :book: |
 | 02/05 | Habin Lim   <br /> Youngseob Won | :book: [slides] <br /> :book: [slides]  |
@@ -50,11 +50,11 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AGI](https://agi.khu.ac.kr/index.html)
   - M.S. student : Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
-  - UG student : Won-Jeong Lee / Young-Seob Won
+  - UG student : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim
   - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won
@@ -128,7 +128,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Kayoung Kim (uwrgoy7584 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
