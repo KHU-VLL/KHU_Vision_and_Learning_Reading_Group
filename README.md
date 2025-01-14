@@ -35,7 +35,7 @@ This Fall we will have Two presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/15 | JongKyung Im  <br /> Wonjeong Lee | Distilling Knowledge from Large-Scale Image Models for Object Detection [[Gang Li, et al., ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11200.pdf)] [slides] <br /> DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices [[Yongzhe Jia, et al., NeurIPS 2024](https://arxiv.org/pdf/2412.05823)]  [[slides](https://docs.google.com/presentation/d/1P5-vP7Zeb-I7_4huEuFmfVeN-E00w1XdsdtgI96zFrc/edit?usp=sharing)]  |
+| 01/15 | JongKyung Im  <br /> Wonjeong Lee | Distilling Knowledge from Large-Scale Image Models for Object Detection [[Gang Li, et al., ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11200.pdf)] [[slides](https://drive.google.com/file/d/1tW_gI8fJiItFqLbqL9nB5rzSpJDjRyRi/view?usp=drive_link)] <br /> DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices [[Yongzhe Jia, et al., NeurIPS 2024](https://arxiv.org/pdf/2412.05823)]  [[slides](https://docs.google.com/presentation/d/1P5-vP7Zeb-I7_4huEuFmfVeN-E00w1XdsdtgI96zFrc/edit?usp=sharing)]  |
 | 01/22 | Ohsung Choo   <br /> Soohyun Park | :book: [slides] <br /> :book: [slides]  |
 | 01/29 | Seollal Holiday      | No Reading Group. :book: |
 | 02/05 | Habin Lim   <br /> Youngseob Won | :book: [slides] <br /> :book: [slides]  |
