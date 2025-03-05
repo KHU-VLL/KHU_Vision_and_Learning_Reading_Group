@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Wednesday 11:00
+- Wednesday 18:30
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Winter 2025)](#current-schedule)
+- [Current Schedule (Spring 2025)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -31,17 +31,25 @@ Please let  Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are
 
 Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
-This Fall we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/15 | JongKyung Im  <br /> Wonjeong Lee | Distilling Knowledge from Large-Scale Image Models for Object Detection [[Gang Li, et al., ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11200.pdf)] [[slides](https://drive.google.com/file/d/1tW_gI8fJiItFqLbqL9nB5rzSpJDjRyRi/view?usp=drive_link)] <br /> DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices [[Yongzhe Jia, et al., NeurIPS 2024](https://arxiv.org/pdf/2412.05823)]  [[slides](https://docs.google.com/presentation/d/1P5-vP7Zeb-I7_4huEuFmfVeN-E00w1XdsdtgI96zFrc/edit?usp=sharing)]  |
-| 01/22 | Youngseob Won   <br /> Soohyun Park | Tree of Thoughts: Deliberate Problem Solving with Large Language Models [[Shunyu Yao, et al., NeurIPS 2023](https://arxiv.org/pdf/2305.10601)] [[slides](https://docs.google.com/presentation/d/1dUptyrf6nzlh91yDPDw1h8HUQjBE_q-b/edit#slide=id.p2)] <br /> Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts[[Andong Tan, et al., ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11588.pdf)] [[slides](https://drive.google.com/file/d/1Hy3PWBaTo77wIwQn5mbV9iAQkVaHg4_K/view)]  |
-| 01/29 | Seollal Holiday      | No Reading Group. :book: |
-| 02/05 | Habin Lim   <br /> Ohsung Choo | Improved Distribution Matching Distillation for Fast Image Synthesis [[Tianwei Yin, et al., NeurIPS 2024](https://arxiv.org/pdf/2405.14867)] [[slides](https://docs.google.com/presentation/d/18oYMTn-aT1tFs1dlDMWPqF6Y9-fuEXVKc1kU2Ub48Fg/edit?usp=sharing)] <br /> Diffusion Action Segmentation [[Daochang Liu, et al., ICCV 2023](https://arxiv.org/pdf/2303.17959)] [[slides](https://docs.google.com/presentation/d/1Ymc-RW9lWH-EW1MkAbDbKfMq3UuNR4a_Mysc6dq6LM0/edit?usp=sharing)]  |
-| 02/12 | Donghoon Kim  <br /> Seunan Choe | SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models [[Muyang Li, et al., ICLR 2025](https://arxiv.org/pdf/2411.05007)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/donghoon1st_office_khu_ac_kr/EXft_p7BIF5EsQLx5KItF1sBZOY-aqAsrVVOJVJxSWaNbA)] <br /> Reconstruct and Match: Out-of-Distribution Robustness via Topological Homogeneity [[Chaoqu Chen, et al., NeurIPS 2024](https://openreview.net/pdf?id=fkbMlfDBxm)] [[slides](https://docs.google.com/presentation/d/1Fx-205BSWfh7NqiAeSLvqi_2D8VKLHqc/edit?usp=sharing&ouid=114360053204115532218&rtpof=true&sd=true)]  |
-| 02/19 | Kayoung Kim  <br /> Jongseo Lee | Diffusion as Sound Propagation: Physics-inspired Model for Ultrasound Image Generation [[Domínguez, Marina, et al., MICCAI 2024](https://papers.miccai.org/miccai-2024/paper/2125_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2024310990_office_khu_ac_kr/EVv0pjwC7QFCrh2cCZFNP50BWfcR3ldj_Nszyin3IyMXOQ)] <br /> Incremental Residual Concept Bottleneck Models [[Shang et al., CVPR 2024](https://arxiv.org/pdf/2404.08978)] [[slides](https://docs.google.com/presentation/d/1bN6eYyM7tKNX85EzsNa9dlxv5JF6oQWr/edit#slide=id.p3)]  |
-| 02/26 | MICCAI & ICCV Deadline      | No Reading Group. :book: 
+| 03/12 | Myeongjun Oh  | :book: [slides]|
+| 03/19 | AMI | :book: [slides]|
+| 03/26 | VAI | :book: [slides]|
+| 04/02 | VLL | :book: [slides]|
+| 04/09 | Euijune Lee | :book: [slides]|
+| 04/16 | Mid-term  | No Reading Group :book:|
+| 04/23 | Mid-term  | No Reading Group :book:|
+| 04/30 | AMI | :book: [slides]| 
+| 05/07 | VAI | :book: [slides]| 
+| 05/14 | ICCV rebutal | No Reading Group :book:| 
+| 05/21 | NeurIPS Deadline | No Reading Group :book:|
+| 05/28 | VLL | :book: [slides]|
+| 06/04 | VLL | :book: [slides]|
+| 06/11 | Final  | No Reading Group :book:|
+| 06/18 | Final  | No Reading Group :book:|
 
 
 ## Mailing List
@@ -52,25 +60,25 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 Please let Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-* [AGI](https://agi.khu.ac.kr/index.html)
-  - M.S. student : Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim
-  - UG student : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
 * [AMI](http://ailab.khu.ac.kr/)
-  - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim
-  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won
-  - UG student : Heedong Kim / Jehyun Park
+  - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Sunyoung Yun
+  - UG student : Heedong Kim / Jeongin Bae
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - Ph.D. student : Sung Oh / Jongkyung Lim
   - M.S. student : Donghoon Kim / Myeongjun Oh / Euijin Lee
-  - UG student : Minsoo Lee
+  - UG student : Junseok Yang, Junghyun Lee, Soohyun Lee
+* [VAI](https://visualai.khu.ac.kr/)
+  - M.S. student : Seungho Shin / Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee
+  - UG student : Kanghyun Lee / Junyoung Jung
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
-  - UG student : Joohyun Chang / Soohyun Park
+  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Yuri Kim / Soohyun Park
 * Alumni
-  - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee
-  - \[AMI] M.S. : Soyoun Won / Yebin Ji
+  - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
+  - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
   - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang
-  - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae
+  - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / UG : Joohyun Chang
 
 
 ## Previous Meetings
@@ -87,6 +95,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 - [Spring 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Spring_schedule.md)
 - [Summer 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Summer_schedule.md)
 - [Fall 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Fall_schedule.md)
+- [Winter 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Winter_schedule.md)
 
 ## Related Links
 
