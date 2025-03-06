@@ -36,18 +36,18 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
 | 03/12 | Myeongjun Oh  | :book: [slides]|
-| 03/19 | AMI | :book: [slides]|
-| 03/26 | VAI | :book: [slides]|
-| 04/02 | VLL | :book: [slides]|
+| 03/19 | Youngtae Kim | :book: [slides]|
+| 03/26 | Jiyoung Park | :book: [slides]|
+| 04/02 | Geo Ahn | :book: [slides]|
 | 04/09 | Euijune Lee | :book: [slides]|
 | 04/16 | Mid-term  | No Reading Group :book:|
 | 04/23 | Mid-term  | No Reading Group :book:|
-| 04/30 | AMI | :book: [slides]| 
-| 05/07 | VAI | :book: [slides]| 
+| 04/30 | Suyoung Yun | :book: [slides]| 
+| 05/07 | Seungho Shin | :book: [slides]| 
 | 05/14 | ICCV rebutal | No Reading Group :book:| 
 | 05/21 | NeurIPS Deadline | No Reading Group :book:|
-| 05/28 | VLL | :book: [slides]|
-| 06/04 | VLL | :book: [slides]|
+| 05/28 | Wooil Lee | :book: [slides]|
+| 06/04 | Jiwook Han | :book: [slides]|
 | 06/11 | Final  | No Reading Group :book:|
 | 06/18 | Final  | No Reading Group :book:|
 
