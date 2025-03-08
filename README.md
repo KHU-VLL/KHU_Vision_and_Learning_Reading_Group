@@ -35,7 +35,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 03/12 | Myeongjun Oh  | :book: [slides]|
+| 03/12 | Myeongjun Oh  | Enhancing Implicit Neural Representations via Symmetric Power Transformation [[Weixiang Zhang, et al., AAAI 2025](https://arxiv.org/pdf/2412.09213)] [slides]|
 | 03/19 | Youngtae Kim | :book: [slides]|
 | 03/26 | Jiyoung Park | :book: [slides]|
 | 04/02 | Geo Ahn | :book: [slides]|
