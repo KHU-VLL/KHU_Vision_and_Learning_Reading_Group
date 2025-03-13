@@ -36,7 +36,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
 | 03/12 | Myeongjun Oh  | Enhancing Implicit Neural Representations via Symmetric Power Transformation [[Weixiang Zhang, et al., AAAI 2025](https://arxiv.org/pdf/2412.09213)] [[slides](https://docs.google.com/presentation/d/1OY0_LwrmvicFXnQXkio0Of-YfRokJeCkQGgz9tVB-es/edit#slide=id.p1)]|
-| 03/19 | Youngtae Kim | :book: [slides]|
+| 03/19 | Youngtae Kim | Streaming Dense Video Captioning [[Xingyi Zhou, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Streaming_Dense_Video_Captioning_CVPR_2024_paper.pdf)] [slides]|
 | 03/26 | Jiyoung Park | :book: [slides]|
 | 04/02 | Geo Ahn | :book: [slides]|
 | 04/09 | Euijune Lee | :book: [slides]|
@@ -73,7 +73,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Kanghyun Lee / Junyoung Jung
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
-  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Yuri Kim / Soohyun Park
+  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Yuri Kim
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
