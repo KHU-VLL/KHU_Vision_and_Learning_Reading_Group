@@ -36,7 +36,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
 | 03/12 | Myeongjun Oh  | Enhancing Implicit Neural Representations via Symmetric Power Transformation [[Weixiang Zhang, et al., AAAI 2025](https://arxiv.org/pdf/2412.09213)] [[slides](https://docs.google.com/presentation/d/1OY0_LwrmvicFXnQXkio0Of-YfRokJeCkQGgz9tVB-es/edit#slide=id.p1)]|
-| 03/19 | Youngtae Kim | Streaming Dense Video Captioning [[Xingyi Zhou, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Streaming_Dense_Video_Captioning_CVPR_2024_paper.pdf)] [slides]|
+| 03/19 | Youngtae Kim | Streaming Dense Video Captioning [[Xingyi Zhou, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Streaming_Dense_Video_Captioning_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/youngtae1216_office_khu_ac_kr/EdDn9qV-tvFKn2IfOjqRNLMBXbd3yGjGhn_7OSitpGZfSQ?rtime=zcLmnPll3Ug)]|
 | 03/26 | Jiyoung Park | :book: [slides]|
 | 04/02 | Geo Ahn | :book: [slides]|
 | 04/09 | Euijune Lee | :book: [slides]|
