@@ -39,7 +39,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 03/19 | Youngtae Kim | Streaming Dense Video Captioning [[Xingyi Zhou, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Streaming_Dense_Video_Captioning_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/youngtae1216_office_khu_ac_kr/EdDn9qV-tvFKn2IfOjqRNLMBXbd3yGjGhn_7OSitpGZfSQ?rtime=zcLmnPll3Ug)]|
 | 03/26 | Jiyoung Park | Describing differences in image sets with natural language [[Lisa Dunlap, et al., CVPR 2024](https://arxiv.org/pdf/2312.02974)] [[slides](https://docs.google.com/presentation/d/1qJUasX6k1W7YsHv8WgdZrHZ0pIFGCmNA/edit?usp=sharing&ouid=116047550921984161226&rtpof=true&sd=true)]|
 | 04/02 | Geo Ahn | Can We Talk Models Into Seeing the World Differently? [[Paul Gavrikov et al., ICLR 2025](https://arxiv.org/pdf/2403.09193)] [[slides](https://docs.google.com/presentation/d/1f7yVXpFZr1kOmJdSEyddlVelaN0w4BnK/edit?usp=drive_link&ouid=111994888914714158131&rtpof=true&sd=true )]|
-| 04/09 | Euijune Lee | :book: [slides]|
+| 04/09 | Euijune Lee | Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think [[Shiyun Yu et al., ICLR 2025](https://arxiv.org/pdf/2410.06940)] [slides]|
 | 04/16 | Mid-term  | No Reading Group :book:|
 | 04/23 | Mid-term  | No Reading Group :book:|
 | 04/30 | Suyoung Yun | :book: [slides]| 
