@@ -42,7 +42,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 04/09 | Euijune Lee | Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think [[Shiyun Yu et al., ICLR 2025](https://arxiv.org/pdf/2410.06940)] [[slides](https://docs.google.com/presentation/d/1u2Q4rjGZRhWmvMzgkJNyyLv7vnlipmp_/edit?usp=sharing&ouid=107682108873812041381&rtpof=true&sd=true)]|
 | 04/16 | Mid-term  | No Reading Group :book:|
 | 04/23 | Mid-term  | No Reading Group :book:|
-| 04/30 | Suyoung Yun | :book: [slides]| 
+| 04/30 | Suyoung Yun | VTimeLLM: Empower LLM to Grasp Video Moments[[Bin Huang et al., CVPR 2024](https://arxiv.org/pdf/2311.18445)] [slides]| 
 | 05/07 | Seungho Shin | :book: [slides]| 
 | 05/14 | ICCV rebutal | No Reading Group :book:| 
 | 05/21 | NeurIPS Deadline | No Reading Group :book:|
