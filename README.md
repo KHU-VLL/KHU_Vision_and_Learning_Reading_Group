@@ -43,7 +43,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 04/16 | Mid-term  | No Reading Group :book:|
 | 04/23 | Mid-term  | No Reading Group :book:|
 | 04/30 | Suyoung Yun | VTimeLLM: Empower LLM to Grasp Video Moments [[Bin Huang et al., CVPR 2024](https://arxiv.org/pdf/2311.18445)] [[slides](https://1drv.ms/p/c/49583fe94a9e8587/ESq3z1NF0ZJKqmDIXoFC4rYBgUzUTG5k7CQ-UWeTh1XT8A?e=9K90SE)]| 
-| 05/07 | Chan Lee | DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Bencheng Liao et al., CVPR 2025](https://arxiv.org/pdf/2411.15139)] [slides]| 
+| 05/07 | Chan Lee | DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Bencheng Liao et al., CVPR 2025](https://arxiv.org/pdf/2411.15139)] [[slides](https://docs.google.com/presentation/d/14XYc80oksVyPWw2ZN5AY6-p8maxtchKk/edit?usp=sharing&ouid=101779896245807342870&rtpof=true&sd=true)]| 
 | 05/14 | ICCV rebutal | No Reading Group :book:| 
 | 05/21 | NeurIPS Deadline | No Reading Group :book:|
 | 05/28 | Wooil Lee | :book: [slides]|
