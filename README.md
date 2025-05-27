@@ -46,7 +46,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 05/07 | Chan Lee | DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Bencheng Liao et al., CVPR 2025](https://arxiv.org/pdf/2411.15139)] [[slides](https://docs.google.com/presentation/d/14XYc80oksVyPWw2ZN5AY6-p8maxtchKk/edit?usp=sharing&ouid=101779896245807342870&rtpof=true&sd=true)]| 
 | 05/14 | ICCV rebutal | No Reading Group :book:| 
 | 05/21 | NeurIPS Deadline | No Reading Group :book:|
-| 05/28 | Wooil Lee | :book: [slides]|
+| 05/28 | Wooil Lee | Can I Trust Your Answer? Visually Grounded Video Question Answering [[Junbin Xiao et al., CVPR 2024](https://arxiv.org/pdf/2309.01327)] [slides]|
 | 06/04 | Jiwook Han | :book: [slides]|
 | 06/11 | Final  | No Reading Group :book:|
 | 06/18 | Final  | No Reading Group :book:|
