@@ -47,7 +47,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 05/14 | ICCV rebutal | No Reading Group :book:| 
 | 05/21 | NeurIPS Deadline | No Reading Group :book:|
 | 05/28 | Wooil Lee | Can I Trust Your Answer? Visually Grounded Video Question Answering [[Junbin Xiao et al., CVPR 2024](https://arxiv.org/pdf/2309.01327)] [[slides](https://docs.google.com/presentation/d/1Gm4PCBUqnwNJLQODBE2QdkWKsDg8xUtt/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]|
-| 06/04 | Jiwook Han | :book: [slides]|
+| 06/04 | Jiwook Han | Number it: Temporal Grounding Videos like Flipping Manga [[Youngliang Wu et al., CVPR 2025](https://arxiv.org/pdf/2411.10332)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2020103974_office_khu_ac_kr/EcLZ8m9ywGdAu_34OuoDlXgBl5EzYZZx0SOLy0_uauO_DQ?rtime=c_KGyP6i3Ug)]|
 | 06/11 | Final  | No Reading Group :book:|
 | 06/18 | Final  | No Reading Group :book:|
 
