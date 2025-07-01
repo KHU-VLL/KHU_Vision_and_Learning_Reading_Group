@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2025)](#current-schedule)
+- [Current Schedule (Summer 2025)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -31,7 +31,7 @@ Please let  Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you
 
 Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
-This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Summer we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
