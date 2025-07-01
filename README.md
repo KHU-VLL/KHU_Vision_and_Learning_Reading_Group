@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Wednesday 18:30
+- Tuesday 13:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
@@ -35,21 +35,14 @@ This Spring we will have One presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 03/12 | Myeongjun Oh  | Enhancing Implicit Neural Representations via Symmetric Power Transformation [[Weixiang Zhang, et al., AAAI 2025](https://arxiv.org/pdf/2412.09213)] [[slides](https://docs.google.com/presentation/d/1OY0_LwrmvicFXnQXkio0Of-YfRokJeCkQGgz9tVB-es/edit#slide=id.p1)]|
-| 03/19 | Youngtae Kim | Streaming Dense Video Captioning [[Xingyi Zhou, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Streaming_Dense_Video_Captioning_CVPR_2024_paper.pdf)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/youngtae1216_office_khu_ac_kr/EdDn9qV-tvFKn2IfOjqRNLMBXbd3yGjGhn_7OSitpGZfSQ?rtime=zcLmnPll3Ug)]|
-| 03/26 | Jiyoung Park | Describing differences in image sets with natural language [[Lisa Dunlap, et al., CVPR 2024](https://arxiv.org/pdf/2312.02974)] [[slides](https://docs.google.com/presentation/d/1qJUasX6k1W7YsHv8WgdZrHZ0pIFGCmNA/edit?usp=sharing&ouid=116047550921984161226&rtpof=true&sd=true)]|
-| 04/02 | Geo Ahn | Can We Talk Models Into Seeing the World Differently? [[Paul Gavrikov et al., ICLR 2025](https://arxiv.org/pdf/2403.09193)] [[slides](https://docs.google.com/presentation/d/1f7yVXpFZr1kOmJdSEyddlVelaN0w4BnK/edit?usp=drive_link&ouid=111994888914714158131&rtpof=true&sd=true )]|
-| 04/09 | Euijune Lee | Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think [[Shiyun Yu et al., ICLR 2025](https://arxiv.org/pdf/2410.06940)] [[slides](https://docs.google.com/presentation/d/1u2Q4rjGZRhWmvMzgkJNyyLv7vnlipmp_/edit?usp=sharing&ouid=107682108873812041381&rtpof=true&sd=true)]|
-| 04/16 | Mid-term  | No Reading Group :book:|
-| 04/23 | Mid-term  | No Reading Group :book:|
-| 04/30 | Suyoung Yun | VTimeLLM: Empower LLM to Grasp Video Moments [[Bin Huang et al., CVPR 2024](https://arxiv.org/pdf/2311.18445)] [[slides](https://1drv.ms/p/c/49583fe94a9e8587/ESq3z1NF0ZJKqmDIXoFC4rYBgUzUTG5k7CQ-UWeTh1XT8A?e=9K90SE)]| 
-| 05/07 | Chan Lee | DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving [[Bencheng Liao et al., CVPR 2025](https://arxiv.org/pdf/2411.15139)] [[slides](https://docs.google.com/presentation/d/14XYc80oksVyPWw2ZN5AY6-p8maxtchKk/edit?usp=sharing&ouid=101779896245807342870&rtpof=true&sd=true)]| 
-| 05/14 | ICCV rebutal | No Reading Group :book:| 
-| 05/21 | NeurIPS Deadline | No Reading Group :book:|
-| 05/28 | Wooil Lee | Can I Trust Your Answer? Visually Grounded Video Question Answering [[Junbin Xiao et al., CVPR 2024](https://arxiv.org/pdf/2309.01327)] [[slides](https://docs.google.com/presentation/d/1Gm4PCBUqnwNJLQODBE2QdkWKsDg8xUtt/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]|
-| 06/04 | Jiwook Han | Number it: Temporal Grounding Videos like Flipping Manga [[Youngliang Wu et al., CVPR 2025](https://arxiv.org/pdf/2411.10332)] [[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/2020103974_office_khu_ac_kr/EcLZ8m9ywGdAu_34OuoDlXgBl5EzYZZx0SOLy0_uauO_DQ?rtime=c_KGyP6i3Ug)]|
-| 06/11 | Final  | No Reading Group :book:|
-| 06/18 | Final  | No Reading Group :book:|
+| 07/08 | Yueun Lee <br /> Youngtae Kim | TBD <br /> TBD |
+| 07/15 | Gibeom Kim <br /> Soyeon Hong | TBD <br /> TBD |
+| 07/22 | Suyoung Yun <br /> Suyong Choi | TBD <br /> TBD |
+| 07/29 | AAAI Deadline | No Reading Group :book:|
+| 08/05 | Soohyun Lee <br /> Youngseob Won | TBD <br /> TBD |
+| 08/12 | Soyeon Lee <br /> Yuri Kim | TBD <br /> TBD |
+| 08/19 | Gangmin Choi <br /> Junghyun Lee | TBD <br /> TBD |
+| 08/26 | Inseong Park <br /> Inje Oh | TBD <br /> TBD |
 
 
 ## Mailing List
@@ -57,27 +50,27 @@ This Spring we will have One presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Sunyoung Yun
-  - UG student : Heedong Kim / Jeongin Bae
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun
+  - UG student : Heedong Kim / Jeongin Bae / Inseong Park / Chiyoung Song
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
-  - Ph.D. student : Sung Oh / Jongkyung Lim
-  - M.S. student : Donghoon Kim / Myeongjun Oh / Euijin Lee
-  - UG student : Junseok Yang, Junghyun Lee, Soohyun Lee
+  - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
+  - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee
+  - UG student : Gibeom Kim
 * [VAI](https://visualai.khu.ac.kr/)
   - M.S. student : Seungho Shin / Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee
-  - UG student : Kanghyun Lee / Junyoung Jung
+  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung
 * [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong
-  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Yuri Kim
+  - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong / Yuri Kim
+  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
-  - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang
+  - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / UG : Joohyun Chang
 
 
@@ -96,6 +89,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 - [Summer 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Summer_schedule.md)
 - [Fall 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Fall_schedule.md)
 - [Winter 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Winter_schedule.md)
+- [Spring 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Spring_schedule.md)
 
 ## Related Links
 
@@ -128,7 +122,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
@@ -137,7 +131,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Sung Oh (ahp2025 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
