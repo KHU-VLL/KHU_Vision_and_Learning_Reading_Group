@@ -35,7 +35,7 @@ This Summer we will have One presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 07/08 | Yueun Lee <br /> Youngtae Kim | Improving Sound Source Localization with Joint Slot Attention on Image and Audio [[Inho Kim, et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Improving_Sound_Source_Localization_with_Joint_Slot_Attention_on_Image_CVPR_2025_paper.pdf)] [[slides]()] <br /> TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding [[Shuhuai Ren, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[slides]()]|
+| 07/08 | Yueun Lee <br /> Youngtae Kim | Improving Sound Source Localization with Joint Slot Attention on Image and Audio [[Inho Kim, et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Improving_Sound_Source_Localization_with_Joint_Slot_Attention_on_Image_CVPR_2025_paper.pdf)] <br /> TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding [[Shuhuai Ren, et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)]|
 | 07/15 | Gibeom Kim <br /> Soyeon Hong | TBD <br /> TBD |
 | 07/22 | Suyoung Yun <br /> Suyong Choi | TBD <br /> TBD |
 | 07/29 | AAAI Deadline | No Reading Group :book:|
