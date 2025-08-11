@@ -51,7 +51,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
@@ -63,10 +63,10 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Gibeom Kim
 * [VAI](https://visualai.khu.ac.kr/)
   - M.S. student : Seungho Shin / Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee
-  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung
+  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung / Subin Park
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong / Yuri Kim
-  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee
+  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
