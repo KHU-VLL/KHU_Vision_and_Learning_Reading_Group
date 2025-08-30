@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Tuesday 13:00
+- Wednesday 18:30
 
 Location 
 - 211-1 Electronic Information College Building
@@ -29,20 +29,29 @@ Location
 ### Reading Group: 
 Please let  Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-This Summer we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Fall we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 07/08 | Yueun Lee <br /> Youngtae Kim | Improving Sound Source Localization with Joint Slot Attention on Image and Audio [[Inho Kim et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Improving_Sound_Source_Localization_with_Joint_Slot_Attention_on_Image_CVPR_2025_paper.pdf)] [[slide](https://docs.google.com/presentation/d/1v4uSU_Div7iC59eeTCJdsax6hI1mxQMu/edit?usp=sharing&ouid=100167625549586073731&rtpof=true&sd=true)] <br /> TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding [[Shuhuai Ren et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[slide](https://onedrive.live.com/:p:/g/personal/10AFF1FAE2FDFD56/Ecta9XsNP5VKnL7hdbRhSCEBuFDukAhVgtP0pet5mAsOGQ?resid=10AFF1FAE2FDFD56!s7bf55acb3f0d4a959cbee175b4614821&ithint=file%2Cpptx&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8xMGFmZjFmYWUyZmRmZDU2L0VjdGE5WHNOUDVWS25MN2hkYlJoU0NFQnVGRHVrQWhWZ3RQMHBldDVtQXNPR1E)]|
-| 07/15 | Gibeom Kim <br /> Soyeon Hong | Quantization without Tears [[Minghao Fu et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Fu_Quantization_without_Tears_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1qtw7IZ4gfoHXL6YfvI1CL6nCdJAy5-lA/edit?usp=sharing&ouid=108607778230948280143&rtpof=true&sd=true)] <br /> ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos [[Tanveer et al., CVPR 2025](https://arxiv.org/pdf/2411.14901)][[slide](https://docs.google.com/presentation/d/1Q54SNV2sMOV4wfzDjXO7ZmruegKlGoirv1QKnnbzevI/edit?usp=sharing)] |
-| 07/22 | Suyoung Yun <br /> Suyong Choi | M-LLM Based Video Frame Selection for Efficient Video Understanding [[Kai Hu et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Hu_M-LLM_Based_Video_Frame_Selection_for_Efficient_Video_Understanding_CVPR_2025_paper.pdf)] [[slide](https://docs.google.com/presentation/d/1ErVjw3TAaUo8NiKDTOjW5W6aGENEWr6GSYKJGSGzLPU/edit?usp=sharing)] <br /> Overcoming Shortcut Problem in VLM for Robust Out-of-Distribution Detection [[Zhuo Xu et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Xu_Overcoming_Shortcut_Problem_in_VLM_for_Robust_Out-of-Distribution_Detection_CVPR_2025_paper.pdf)] [[slide](https://o365khu-my.sharepoint.com/:p:/g/personal/2025310242_office_khu_ac_kr/Ee2leUBeABFGgj7X3amn_mYBBmbk3oKHqGr_R6xC6GlsfQ?rtime=GUSXl8zI3Ug)]|
-| 07/29 | AAAI Deadline | No Reading Group :book:|
-| 08/05 | Soohyun Lee <br /> Youngseob Won | Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives [[Alex Hanson et al., CVPR 2025](https://arxiv.org/pdf/2412.00578)][[slide](https://docs.google.com/presentation/d/1eIPZlA0fUC6zK6298iZGIzbfj6IWIcs3DfqEqlQLLTw/edit?usp=sharing)] <br /> Not Only Text: Exploring Compositionality of Visual Representations in Vision-Language Models [[Davide Berasi et al., CVPR 2025](https://arxiv.org/pdf/2503.17142)][[slide](https://docs.google.com/presentation/d/1ZaTP5RO5mNxHY44M00upLDxc0J4TrEq5/edit?usp=sharing&ouid=100843900411159018523&rtpof=true&sd=true)] |
-| 08/12 | Soyeon Lee <br /> Yuri Kim | Cross-modal Causal Relation Alignment for Video Question Grounding [[Weixing Chen et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Cross-modal_Causal_Relation_Alignment_for_Video_Question_Grounding_CVPR_2025_paper.pdf)][[slide](https://o365khu-my.sharepoint.com/:p:/g/personal/2025310233_office_khu_ac_kr/EajWiKIDLkhGi0aGtFCqNdcBSS0be22KiWTHzIJ2bvc20g?rtime=ZeWm6k_Z3Ug)] <br /> Classification Matters: Improving Video Action Detection with Class-Specific Attention [[Jinsung Lee et al., ECCV 2024](https://arxiv.org/pdf/2407.19698)][[slide](https://docs.google.com/presentation/d/1BMR0lkS1nGWKFqdzAq_wv6u8MOCcEF4PrlTSJ-pfXzI/edit?usp=sharing)]|
-| 08/19 | Gangmin Choi | Videotree: Adaptive tree-based video representation for LLM reasoning on long videos [[Ziyang Wang et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VideoTree_Adaptive_Tree-based_Video_Representation_for_LLM_Reasoning_on_Long_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/12ZUj9-Qw4iAaMCkjZmtr5GnXxbFWXAsA/edit?usp=sharing&ouid=116892293031459879453&rtpof=true&sd=true)] |
-| 08/26 | Junghyun Lee <br /> Inseong Park <br /> Inje Oh | FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation [[Chris Rockwell et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Rockwell_FAR_Flexible_Accurate_and_Robust_6DoF_Relative_Camera_Pose_Estimation_CVPR_2024_paper.pdf)][[Slide](https://docs.google.com/presentation/d/19I9vPtMDLKRPsj4mjqwkqcemXQpCouEj/edit?rtpof=true&sd=true)] <br /> Change3D: Revisiting Change Detection and Captioning from A Video Modeling Perspective [[Duowang Zhu et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Change3D_Revisiting_Change_Detection_and_Captioning_from_A_Video_Modeling_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/18ppMlYOsjAsLSzFFDTELp6mz5qMJSIlPEBIdk_S369Q/edit?usp=sharing)] <br /> Question-Aware Gaussian Experts for Audio-Visual Question Answering [[Hongyeob Kim et al., CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Kim_Question-Aware_Gaussian_Experts_for_Audio-Visual_Question_Answering_CVPR_2025_paper.pdf)][[slide](https://o365khu-my.sharepoint.com/:p:/g/personal/seanoh_office_khu_ac_kr/EU-ZStuNJkhOkgT_qG6TWGIBFhrJu-A5PTJCqWtkp9ynBA?rtime=GSAjTkfk3Ug)] |
+| 09/10 | TBD | TDB |
+| 09/17 | TBD | TBD |
+| 09/24 | TBD | TBD |
+| 10/01 | TBD | TBD |
+| 10/08 | Chuseok Holiday | No Reading Group :book: |
+| 10/15 | Midterm | No Reading Group :book: |
+| 10/22 | Midterm | No Reading Group :book: |
+| 10/29 | TBD | TBD |
+| 11/05 | TBD | TBD |
+| 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
+| 11/19 | TBD | TBD |
+| 11/26 | TBD | TBD |
+| 12/03 | TBD | TBD |
+| 12/10 | Final | No Reading Group :book: |
+| 12/17 | Final | No Reading Group :book: |
+| 12/24 | TBD | TBD |
+| 12/31 | - | No Reading Group :book: |
 
 
 ## Mailing List
@@ -51,27 +60,30 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun
-  - UG student : Heedong Kim / Jeongin Bae / Inseong Park / Chiyoung Song
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park
+  - UG student : Heedong Kim / Jeongin Bae / Chiyoung Song
 * [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
   - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee
   - UG student : Gibeom Kim
 * [VAI](https://visualai.khu.ac.kr/)
-  - M.S. student : Seungho Shin / Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee
-  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung
+  - Ph.D. student : Subin Park
+  - M.S. student : Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim
+  - UG student : Haesoo Jung
 * [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong / Yuri Kim
-  - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong
+  - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
+  - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
   - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
-  - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / UG : Joohyun Chang
+  - \[VAI] M.S. : Seungho Shin
+  - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / UG : Joohyun Chang
+
 
 
 ## Previous Meetings
@@ -90,6 +102,7 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 - [Fall 2024](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2024_Fall_schedule.md)
 - [Winter 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Winter_schedule.md)
 - [Spring 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Spring_schedule.md)
+- [Summer 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Summer_schedule.md)
 
 ## Related Links
 
