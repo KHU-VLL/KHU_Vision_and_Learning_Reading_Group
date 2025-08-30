@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Summer 2025)](#current-schedule)
+- [Current Schedule (Fall 2025)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
