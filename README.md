@@ -63,7 +63,7 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
   - UG student : Gibeom Kim
 * [VAI](https://visualai.khu.ac.kr/)
   - M.S. student : Seungho Shin / Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee
-  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung / Subin Park
+  - UG student : Kanghyun Lee / Junyoung Jung / Seokwon Kim / Haesoo Jung
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Jongseo Lee / Geo Ahn / Soyeon Hong / Yuri Kim
   - UG student :  Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong
