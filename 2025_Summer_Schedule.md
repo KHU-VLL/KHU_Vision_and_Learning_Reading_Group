@@ -31,7 +31,7 @@ Please let  Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you
 
 Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
-This Summer we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
