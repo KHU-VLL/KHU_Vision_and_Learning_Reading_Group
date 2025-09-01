@@ -35,22 +35,22 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/10 | TBD | TDB |
-| 09/17 | TBD | TBD |
-| 09/24 | TBD | TBD |
-| 10/01 | TBD | TBD |
+| 09/10 | Kanghyun Lee | TDB |
+| 09/17 | Heedong Kim | TBD |
+| 09/24 | Jongseo Lee | TBD |
+| 10/01 | Sung Oh | TBD |
 | 10/08 | Chuseok Holiday | No Reading Group :book: |
 | 10/15 | Midterm | No Reading Group :book: |
 | 10/22 | Midterm | No Reading Group :book: |
-| 10/29 | TBD | TBD |
-| 11/05 | TBD | TBD |
+| 10/29 | Seokwon Kim | TBD |
+| 11/05 | Jeongin Bae | TBD |
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
-| 11/19 | TBD | TBD |
-| 11/26 | TBD | TBD |
-| 12/03 | TBD | TBD |
+| 11/19 | Juan Lee | TBD |
+| 11/26 | Jongkyung Im | TBD |
+| 12/03 | Junyoung Jung | TBD |
 | 12/10 | Final | No Reading Group :book: |
 | 12/17 | Final | No Reading Group :book: |
-| 12/24 | TBD | TBD |
+| 12/24 | Inseong Park | TBD |
 | 12/31 | - | No Reading Group :book: |
 
 
