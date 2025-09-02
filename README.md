@@ -35,7 +35,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/10 | Seokwon Kim | TDB |
+| 09/10 | Seokwon Kim | TBD |
 | 09/17 | Enki Cho | TBD |
 | 09/24 | ICLR 2026 Deadline | No Reading Group :book: |
 | 10/01 | Jongseo Lee | TBD |
