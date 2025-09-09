@@ -35,7 +35,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/10 | Seokwon Kim | DETRs Beat YOLOs on Real-time Object Detection [[Yian Zhao et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)] |
+| 09/10 | Seokwon Kim | DETRs Beat YOLOs on Real-time Object Detection [[Yian Zhao et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)][[slide](https://docs.google.com/presentation/d/1uy_zEBk1jKZDEnJd-GvkPaFvYNuUTDcSl0IG4SUFV7A/edit?slide=id.p21#slide=id.p21)] |
 | 09/17 | Enki Cho | TBD |
 | 09/24 | ICLR 2026 Deadline | No Reading Group :book: |
 | 10/01 | Jongseo Lee | TBD |
