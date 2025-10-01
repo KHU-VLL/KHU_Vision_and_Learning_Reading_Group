@@ -38,7 +38,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 09/10 | Seokwon Kim | DETRs Beat YOLOs on Real-time Object Detection [[Yian Zhao et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)][[slide](https://docs.google.com/presentation/d/1uy_zEBk1jKZDEnJd-GvkPaFvYNuUTDcSl0IG4SUFV7A/edit?slide=id.p21#slide=id.p21)] |
 | 09/17 | Enki Cho | Towards Holistic Surgical Scene Graph [[Jongmin Shin et al., MICCAI 2025](https://arxiv.org/pdf/2507.15541)][[slide](https://docs.google.com/presentation/d/1cG8_oXyPBnxmnMiMtvSkyidqzUAo6bwz/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] |
 | 09/24 | ICLR 2026 Deadline | No Reading Group :book: |
-| 10/01 | Jongseo Lee | ESSENTIAL: Episodic and Semantic Memory Integration for Video Class-Incremental Learning [[Jongseo Lee et al., ICCV 2025 Highlight!](https://arxiv.org/abs/2508.10896)] |
+| 10/01 | Jongseo Lee | ESSENTIAL: Episodic and Semantic Memory Integration for Video Class-Incremental Learning [[Jongseo Lee et al., ICCV 2025 Highlight!](https://arxiv.org/pdf/2508.10896)][[slide](https://docs.google.com/presentation/d/1hHJkDiJxwtC6giVR0u5Q97z3NfndCZAN/edit?usp=sharing&ouid=101023465243762517212&rtpof=true&sd=true)] |
 | 10/08 | Chuseok Holiday | No Reading Group :book: |
 | 10/15 | Midterm | No Reading Group :book: |
 | 10/22 | Midterm | No Reading Group :book: |
