@@ -42,7 +42,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 10/08 | Chuseok Holiday | No Reading Group :book: |
 | 10/15 | Midterm | No Reading Group :book: |
 | 10/22 | Midterm | No Reading Group :book: |
-| 10/29 | Sung Oh | RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[Fengxiang Wang et al., NeurIPS 2025](https://arxiv.org/pdf/2503.10392)] |
+| 10/29 | Sung Oh | RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[Fengxiang Wang et al., NeurIPS 2025](https://arxiv.org/pdf/2503.10392)][[slide](https://docs.google.com/presentation/d/1kwLdOZX1D2izs98ey6_1EBk_yX9cDIIA/edit?usp=sharing&ouid=116464895643735501334&rtpof=true&sd=true)] |
 | 11/05 | Jeongin Bae | TBD |
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
 | 11/19 | Juan Lee | TBD |
@@ -73,7 +73,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student : Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim
-  - UG student : Haesoo Jung
+  - UG student : Haesoo Jung / Minsoo Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
   - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee
