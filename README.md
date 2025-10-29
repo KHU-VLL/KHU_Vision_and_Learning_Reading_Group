@@ -8,7 +8,7 @@ Location
 
 
 <p align="center">
-<img src="Summer_2023_Trinity_Gathering.jpg" width="800" align="center">
+<img src="2025_Fall_Trinity_Gathering.jpg" width="800" align="center">
 </p>
 
 
