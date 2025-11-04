@@ -43,7 +43,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 10/15 | Midterm | No Reading Group :book: |
 | 10/22 | Midterm | No Reading Group :book: |
 | 10/29 | Sung Oh | RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[Fengxiang Wang et al., NeurIPS 2025](https://arxiv.org/pdf/2503.10392)][[slide](https://docs.google.com/presentation/d/1kwLdOZX1D2izs98ey6_1EBk_yX9cDIIA/edit?usp=sharing&ouid=116464895643735501334&rtpof=true&sd=true)] |
-| 11/05 | Jeongin Bae | Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations [[Dahee Kwon et al., ICCV 2025](https://www.arxiv.org/pdf/2508.01728)] |
+| 11/05 | Jeongin Bae | Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations [[Dahee Kwon et al., ICCV 2025](https://www.arxiv.org/pdf/2508.01728)][[slide](https://docs.google.com/presentation/d/1dQ-hSpKgk4A4N6vE9QK7lnjwjGP4AHoSqmN-QRoNaHs/edit?usp=sharing)] |
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
 | 11/19 | Juan Lee | TBD |
 | 11/26 | Jongkyung Im | TBD |
