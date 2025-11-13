@@ -45,12 +45,12 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 10/29 | Sung Oh | RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[Fengxiang Wang et al., NeurIPS 2025](https://arxiv.org/pdf/2503.10392)][[slide](https://docs.google.com/presentation/d/1kwLdOZX1D2izs98ey6_1EBk_yX9cDIIA/edit?usp=sharing&ouid=116464895643735501334&rtpof=true&sd=true)] |
 | 11/05 | Jeongin Bae | Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations [[Dahee Kwon et al., ICCV 2025](https://www.arxiv.org/pdf/2508.01728)][[slide](https://docs.google.com/presentation/d/1dQ-hSpKgk4A4N6vE9QK7lnjwjGP4AHoSqmN-QRoNaHs/edit?usp=sharing)] |
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
-| 11/19 | Juan Lee | TBD |
-| 11/26 | Jongkyung Im | TBD |
-| 12/03 | Kanghyun Lee | TBD |
+| 11/19 | CVPR 2026 Supple | No Reading Group :book: |
+| 11/26 | Juan Lee | TBD |
+| 12/03 | Jongkyung Im | TBD |
 | 12/10 | Final | No Reading Group :book: |
 | 12/17 | Final | No Reading Group :book: |
-| 12/24 | Inseong Park | TBD |
+| 12/24 | Kanghyun Lee | TBD |
 | 12/31 | - | No Reading Group :book: |
 
 
@@ -76,7 +76,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Haesoo Jung / Minsoo Kim
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
-  - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim
+  - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
