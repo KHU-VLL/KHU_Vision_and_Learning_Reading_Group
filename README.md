@@ -46,7 +46,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 11/05 | Jeongin Bae | Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations [[Dahee Kwon et al., ICCV 2025](https://www.arxiv.org/pdf/2508.01728)][[slide](https://docs.google.com/presentation/d/1dQ-hSpKgk4A4N6vE9QK7lnjwjGP4AHoSqmN-QRoNaHs/edit?usp=sharing)] |
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
 | 11/19 | CVPR 2026 Supple | No Reading Group :book: |
-| 11/26 | Juan Lee | TBD |
+| 11/26 | Juan Lee | Unified Multimodal Understanding via Byte-Pair Visual Encoding [[Wanpeng Zhang et al., ICCV 2025 Highlight](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Unified_Multimodal_Understanding_via_Byte-Pair_Visual_Encoding_ICCV_2025_paper.pdf)] |
 | 12/03 | Jongkyung Im | TBD |
 | 12/10 | Final | No Reading Group :book: |
 | 12/17 | Final | No Reading Group :book: |
