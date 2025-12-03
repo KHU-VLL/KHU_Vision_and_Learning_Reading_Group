@@ -47,7 +47,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
 | 11/19 | CVPR 2026 Supple | No Reading Group :book: |
 | 11/26 | Juan Lee | Unified Multimodal Understanding via Byte-Pair Visual Encoding [[Wanpeng Zhang et al., ICCV 2025 Highlight](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Unified_Multimodal_Understanding_via_Byte-Pair_Visual_Encoding_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/14z91xJCAb1WFhxN7SbplBZ5Cdjj7iVt8/edit?usp=sharing&ouid=100389774570940695301&rtpof=true&sd=true)] |
-| 12/03 | Jongkyung Im | Sim-DETR: Unlock DETR for Temporal Sentence Grounding [[Jiajin Tang et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.pdf)] |
+| 12/03 | Jongkyung Im | Sim-DETR: Unlock DETR for Temporal Sentence Grounding [[Jiajin Tang et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1SHosPALW-QD98cGIWq7wlNzMNst1NEiH/edit?usp=sharing&ouid=114309602476542194148&rtpof=true&sd=true)] |
 | 12/10 | Final | No Reading Group :book: |
 | 12/17 | Final | No Reading Group :book: |
 | 12/24 | Kanghyun Lee | TBD |
