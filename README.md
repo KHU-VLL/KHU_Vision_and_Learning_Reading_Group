@@ -50,7 +50,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | 12/03 | Jongkyung Im | Sim-DETR: Unlock DETR for Temporal Sentence Grounding [[Jiajin Tang et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1SHosPALW-QD98cGIWq7wlNzMNst1NEiH/edit?usp=sharing&ouid=114309602476542194148&rtpof=true&sd=true)] |
 | 12/10 | Final | No Reading Group :book: |
 | 12/17 | Final | No Reading Group :book: |
-| 12/24 | Kanghyun Lee | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1nrgHXgkiTj68BDuSjc7JivHkaFfQB9xlC4mbQmtWRmQ/edit?usp=drivesdk)]|
+| 12/24 | Kanghyun Lee | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1VC797qfc3vtexcRZ9IDHicAw4uddtqVG/edit?usp=drivesdk&ouid=103718402387601415011&rtpof=true&sd=true)]|
 | 12/31 | - | No Reading Group :book: |
 
 
