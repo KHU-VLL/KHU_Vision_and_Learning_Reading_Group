@@ -35,14 +35,14 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/06 | Junyoung Jung<br />Geo Ahn | <br /> |
+| 01/06 | Kanghyun Lee<br />Geo Ahn | <br /> |
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |<br /> |
-| 01/20 | Donghoon Kim<br />Subin Park  | <br /> |
+| 01/20 | Donghoon Kim<br />Junyoung Jung  | <br /> |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
 | 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
 | 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
 | 02/17 | Seollal Holiday | No Reading Group :book: |
-| 02/24 |MinSoo Kim<br /> Wooil Lee| <br /> |
+| 02/24 |Subin Park<br /> Wooil Lee| <br /> |
 
 
 ## Mailing List
