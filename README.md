@@ -68,6 +68,8 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
   - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim / Taesoo Park
+* [VSLab](https://vslab.khu.ac.kr/)
+  - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
