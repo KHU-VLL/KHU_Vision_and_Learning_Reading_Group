@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Wednesday 18:30
+- Tuesday 11:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +14,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Fall 2025)](#current-schedule)
+- [Current Schedule (Winter 2026)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
@@ -35,23 +35,14 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 09/10 | Seokwon Kim | DETRs Beat YOLOs on Real-time Object Detection [[Yian Zhao et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)][[slide](https://docs.google.com/presentation/d/1uy_zEBk1jKZDEnJd-GvkPaFvYNuUTDcSl0IG4SUFV7A/edit?slide=id.p21#slide=id.p21)] |
-| 09/17 | Enki Cho | Towards Holistic Surgical Scene Graph [[Jongmin Shin et al., MICCAI 2025](https://arxiv.org/pdf/2507.15541)][[slide](https://docs.google.com/presentation/d/1cG8_oXyPBnxmnMiMtvSkyidqzUAo6bwz/edit?usp=sharing&ouid=116993380765386390052&rtpof=true&sd=true)] |
-| 09/24 | ICLR 2026 Deadline | No Reading Group :book: |
-| 10/01 | Jongseo Lee | ESSENTIAL: Episodic and Semantic Memory Integration for Video Class-Incremental Learning [[Jongseo Lee et al., ICCV 2025 Highlight!](https://arxiv.org/pdf/2508.10896)][[slide](https://docs.google.com/presentation/d/1hHJkDiJxwtC6giVR0u5Q97z3NfndCZAN/edit?usp=sharing&ouid=101023465243762517212&rtpof=true&sd=true)] |
-| 10/08 | Chuseok Holiday | No Reading Group :book: |
-| 10/15 | Midterm | No Reading Group :book: |
-| 10/22 | Midterm | No Reading Group :book: |
-| 10/29 | Sung Oh | RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[Fengxiang Wang et al., NeurIPS 2025](https://arxiv.org/pdf/2503.10392)][[slide](https://docs.google.com/presentation/d/1kwLdOZX1D2izs98ey6_1EBk_yX9cDIIA/edit?usp=sharing&ouid=116464895643735501334&rtpof=true&sd=true)] |
-| 11/05 | Jeongin Bae | Granular Concept Circuits: Toward a Fine-Grained Circuit Discovery for Concept Representations [[Dahee Kwon et al., ICCV 2025](https://www.arxiv.org/pdf/2508.01728)][[slide](https://docs.google.com/presentation/d/1dQ-hSpKgk4A4N6vE9QK7lnjwjGP4AHoSqmN-QRoNaHs/edit?usp=sharing)] |
-| 11/12 | CVPR 2026 Deadline | No Reading Group :book: |
-| 11/19 | CVPR 2026 Supple | No Reading Group :book: |
-| 11/26 | Juan Lee | Unified Multimodal Understanding via Byte-Pair Visual Encoding [[Wanpeng Zhang et al., ICCV 2025 Highlight](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Unified_Multimodal_Understanding_via_Byte-Pair_Visual_Encoding_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/14z91xJCAb1WFhxN7SbplBZ5Cdjj7iVt8/edit?usp=sharing&ouid=100389774570940695301&rtpof=true&sd=true)] |
-| 12/03 | Jongkyung Im | Sim-DETR: Unlock DETR for Temporal Sentence Grounding [[Jiajin Tang et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Tang_Sim-DETR_Unlock_DETR_for_Temporal_Sentence_Grounding_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1SHosPALW-QD98cGIWq7wlNzMNst1NEiH/edit?usp=sharing&ouid=114309602476542194148&rtpof=true&sd=true)] |
-| 12/10 | Final | No Reading Group :book: |
-| 12/17 | Final | No Reading Group :book: |
-| 12/24 | Kanghyun Lee | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1EGT-iJbOpl2Zy4q6RGoFCnnngYEMY4Fz/edit?usp=sharing&ouid=103718402387601415011&rtpof=true&sd=true)]|
-| 12/31 | - | No Reading Group :book: |
+| 01/06 | Junyoung Jung<br />Geo Ahn | <br /> |
+| 01/13 | Junhee Lee<br />Hyeon Bae Kim |<br /> |
+| 01/20 | Donghoon Kim<br />Subin Park  | <br /> |
+| 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
+| 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
+| 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
+| 02/17 | Seollal Holiday | No Reading Group :book: |
+| 02/24 |MinSoo Kim<br /> Wooil Lee| <br /> |
 
 
 ## Mailing List
@@ -59,24 +50,24 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
   - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park
-  - UG student : Heedong Kim / Jeongin Bae / Chiyoung Song
-* [MLVC](https://sites.google.com/khu.ac.kr/mlvclab/home?authuser=0)
+  - UG student : Jeongin Bae / Chiyoung Song
+* [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
-  - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee
+  - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee / Junghun Kim
   - UG student : Gibeom Kim
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student : Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim
-  - UG student : Haesoo Jung / Minsoo Kim
+  - UG student : Haesoo Jung / Minsoo Kim / Hyeok Seung Lee / Minseo Kang
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
-  - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim
+  - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim / Taesoo Park
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
@@ -103,6 +94,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 - [Winter 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Winter_schedule.md)
 - [Spring 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Spring_schedule.md)
 - [Summer 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Summer_schedule.md)
+- [Fall 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Fall_schedule.md)
 
 ## Related Links
 
@@ -135,7 +127,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know about your situation.
 
 
 
@@ -144,7 +136,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Yueun Lee (dbdms8435 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
