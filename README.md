@@ -31,7 +31,7 @@ Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you a
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-This Fall we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
@@ -73,7 +73,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
-  - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
+  - \[ENC lab] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
   - \[VAI] M.S. : Seungho Shin
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / UG : Joohyun Chang
 
