@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)] |
+| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)] |
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |<br /> |
 | 01/20 | Donghoon Kim<br />Junyoung Jung  | <br /> |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
