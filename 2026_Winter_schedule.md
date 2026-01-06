@@ -31,18 +31,18 @@ Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you a
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-This Fall we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)]|
+| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)] |
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |<br /> |
-| 01/20 | Donghoon Kim<br />Subin Park  | <br /> |
+| 01/20 | Donghoon Kim<br />Junyoung Jung  | <br /> |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
 | 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
 | 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
 | 02/17 | Seollal Holiday | No Reading Group :book: |
-| 02/24 |MinSoo Kim<br /> Wooil Lee| <br /> |
+| 02/24 |Subin Park<br /> Wooil Lee| <br /> |
 
 
 ## Mailing List
@@ -51,7 +51,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
@@ -64,14 +64,17 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student : Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim
-  - UG student : Haesoo Jung / Minsoo Kim / Hyeok Seung Lee / Minseo Kang
+  - UG student : Haesoo Jung / Minsoo Kim / Hyeok Seung Lee / Minseo Kang / JangHo Park / Heewon Hong
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Geo Ahn / Soyeon Hong / Yuri Kim
   - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim / Taesoo Park
+* [VSLab](https://vslab.khu.ac.kr/)
+  - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
+  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park 
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
-  - \[MLVC] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
+  - \[ENC lab] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / UG : Junseok Yang
   - \[VAI] M.S. : Seungho Shin
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / UG : Joohyun Chang
 
