@@ -36,7 +36,7 @@ This Fall we will have One presenters each week. Presentation duration is up to 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
 | 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)]|
-| 01/13 | Junhee Lee<br />Hyeon Bae Kim |<br /> |
+| 01/13 | Junhee Lee<br />Hyeon Bae Kim |Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models[[Jiacong Xu et al., CVPR2025 Highlight](https://arxiv.org/pdf/2502.07601)]<br />  Interpreting vision transformers via residual replacement model[[Jinyeong Kim et al., NeurIPS2025](https://arxiv.org/pdf/2509.17401)] |
 | 01/20 | Donghoon Kim<br />Subin Park  | <br /> |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
 | 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
