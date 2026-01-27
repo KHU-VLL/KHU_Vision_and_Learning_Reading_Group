@@ -27,7 +27,7 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59am** before your presentation.
+Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thrusday 11:59am** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
@@ -35,7 +35,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)]|
+| 01/06 | Kanghyun Lee<br />Geo Ahn | 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos [[Jiakai Sun et al., CVPR 2024 Highlight](https://arxiv.org/pdf/2403.01444)][[slide](https://docs.google.com/presentation/d/1DSjwkE_M77X_K0_MeCbKOjB8kE1Hfyys/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs [[Minji Kim et al., arXiv 2025](https://arxiv.org/pdf/2510.13251)][[slide](https://docs.google.com/presentation/d/1MaS_SBm39-gjUaRQvghPn-i-KYoy_o3vNe4bj1LIyCg/edit?usp=sharing)] |
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models[[Jiacong Xu et al., CVPR2025 Highlight](https://arxiv.org/pdf/2502.07601)][[slide](https://docs.google.com/presentation/d/1IIdqXJUyNVko4OiyKql1hogy-4DwNeVv/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />  Interpreting vision transformers via residual replacement model[[Jinyeong Kim et al., NeurIPS2025](https://arxiv.org/pdf/2509.17401)][[slide](https://docs.google.com/presentation/d/17J1-nSa58s2XuE6P1nvmCaIhlkrXasUI/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
 | 01/20 | Donghoon Kim<br />Junyoung Jung  |Switchable Token-Specific Codebook Quantization for Face Image Compression[[Yongbo Wang et al., NeurIPS2025](https://arxiv.org/pdf/2510.22943)][[slide](https://docs.google.com/presentation/d/1AHZ-Qj3da13Jom8F6wj9BYsmHxq9RrcmqF0EfS54Jpg/edit?usp=sharing)] <br /> CorrBEV: Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes[[Z Xue et al., CVPR2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_CorrBEV_Multi-View_3D_Object_Detection_by_Correlation_Learning_with_Multi-modal_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1CUnKIHHIHyRBORj6SioJypc9Y2AbOYCWzgUOTJ5o29I/edit?usp=sharing)] |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
@@ -59,8 +59,8 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Jeongin Bae / Chiyoung Song
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
-  - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee / Junghun Kim
-  - UG student : Gibeom Kim
+  - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
+  - UG student : Jiho Lee
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student : Jiyoung Park / Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim
@@ -139,7 +139,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Friday** of that week.
+**NOTE:** Please tell the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Thrusday** of that week.
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
