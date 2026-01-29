@@ -42,7 +42,7 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 02/03 | Jiwook Han<br /> Suyeon Kim| AdaRank: Adaptive Rank Pruning for Enhanced Model Merging[[Chanhyuk Lee et al., ICLR2026](https://arxiv.org/pdf/2503.22178)] <br /> R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection[[Zheyuan Zhou et al., ECCV2024](https://arxiv.org/pdf/2407.10862)]|
 | 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
 | 02/17 | Seollal Holiday | No Reading Group :book: |
-| 02/24 |Subin Park<br /> Wooil Lee| <br /> |
+| 02/24 |Subin Park<br /> Wooil Lee| <br /> |s
 
 
 ## Mailing List
