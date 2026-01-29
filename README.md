@@ -39,7 +39,8 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models[[Jiacong Xu et al., CVPR2025 Highlight](https://arxiv.org/pdf/2502.07601)][[slide](https://docs.google.com/presentation/d/1IIdqXJUyNVko4OiyKql1hogy-4DwNeVv/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />  Interpreting vision transformers via residual replacement model[[Jinyeong Kim et al., NeurIPS2025](https://arxiv.org/pdf/2509.17401)][[slide](https://docs.google.com/presentation/d/17J1-nSa58s2XuE6P1nvmCaIhlkrXasUI/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
 | 01/20 | Donghoon Kim<br />Junyoung Jung  |Switchable Token-Specific Codebook Quantization for Face Image Compression[[Yongbo Wang et al., NeurIPS2025](https://arxiv.org/pdf/2510.22943)][[slide](https://docs.google.com/presentation/d/1AHZ-Qj3da13Jom8F6wj9BYsmHxq9RrcmqF0EfS54Jpg/edit?usp=sharing)] <br /> CorrBEV: Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes[[Z Xue et al., CVPR2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_CorrBEV_Multi-View_3D_Object_Detection_by_Correlation_Learning_with_Multi-modal_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1CUnKIHHIHyRBORj6SioJypc9Y2AbOYCWzgUOTJ5o29I/edit?usp=sharing)] |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
-| 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
+| 02/03 | Jiwook Han<br /> Suyeon Kim| AdaRank: Adaptive Rank Pruning for Enhanced Model Merging[[Chanhyuk Lee et al., ICLR2026](https://arxiv.org/pdf/2503.22178)]
+<br /> |
 | 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
 | 02/17 | Seollal Holiday | No Reading Group :book: |
 | 02/24 |Subin Park<br /> Wooil Lee| <br /> |
