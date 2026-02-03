@@ -55,8 +55,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park
-  - UG student : Jeongin Bae / Chiyoung Song
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
   - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
