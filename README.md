@@ -69,7 +69,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim / Taesoo Park
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
-  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park 
+  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
