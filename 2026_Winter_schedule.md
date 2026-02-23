@@ -39,10 +39,10 @@ This Winter we will have Two presenters each week. Presentation duration is up t
 | 01/13 | Junhee Lee<br />Hyeon Bae Kim |Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models[[Jiacong Xu et al., CVPR2025 Highlight](https://arxiv.org/pdf/2502.07601)][[slide](https://docs.google.com/presentation/d/1IIdqXJUyNVko4OiyKql1hogy-4DwNeVv/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br />  Interpreting vision transformers via residual replacement model[[Jinyeong Kim et al., NeurIPS2025](https://arxiv.org/pdf/2509.17401)][[slide](https://docs.google.com/presentation/d/17J1-nSa58s2XuE6P1nvmCaIhlkrXasUI/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
 | 01/20 | Donghoon Kim<br />Junyoung Jung  |Switchable Token-Specific Codebook Quantization for Face Image Compression[[Yongbo Wang et al., NeurIPS2025](https://arxiv.org/pdf/2510.22943)][[slide](https://docs.google.com/presentation/d/1AHZ-Qj3da13Jom8F6wj9BYsmHxq9RrcmqF0EfS54Jpg/edit?usp=sharing)] <br /> CorrBEV: Multi-View 3D Object Detection by Correlation Learning with Multi-modal Prototypes[[Z Xue et al., CVPR2025](https://openaccess.thecvf.com/content/CVPR2025/papers/Xue_CorrBEV_Multi-View_3D_Object_Detection_by_Correlation_Learning_with_Multi-modal_CVPR_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1CUnKIHHIHyRBORj6SioJypc9Y2AbOYCWzgUOTJ5o29I/edit?usp=sharing)] |
 | 01/27 | CVPR Rebuttal & ICML deadline | No Reading Group :book: |
-| 02/03 | Jiwook Han<br /> Suyeon Kim| <br /> |
-| 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| <br /> |
+| 02/03 | Jiwook Han<br /> Suyeon Kim| AdaRank: Adaptive Rank Pruning for Enhanced Model Merging[[Chanhyuk Lee et al., ICLR2026](https://arxiv.org/pdf/2503.22178)][[slide](https://o365khu-my.sharepoint.com/:p:/g/personal/2020103974_office_khu_ac_kr/IQAkvyKF6GWhRqaT4kA7rqJXAcG767HQEBH53uPg78zuvxw?rtime=9AcTcXNi3kg)] <br /> R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection[[Zheyuan Zhou et al., ECCV2024](https://arxiv.org/pdf/2407.10862)][[slide](https://docs.google.com/presentation/d/1nwciVL15uJJRYk8lr46yZa0f30yhimx4/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]|
+| 02/10 | Yong Hyun Ahn <br /> Taegoo Kang| CE-FAM: Concept-Based Explanation via Fusion of Activation Maps[[Michihiro Kuroki et al., ICCV2025](https://arxiv.org/pdf/2509.23849)][[slide](https://docs.google.com/presentation/d/1MSv59i3QrsCECba6X4XOtMbwQfh9xZ9hW_WDYpifvJU/edit?usp=sharing)]<br /> What matters for Representation Alignment: Global Information or Spatial Structure?[[Jaskirat Singh et al., ICLR2026](https://arxiv.org/pdf/2512.10794)][[slide](https://docs.google.com/presentation/d/1KyH--y0j3h0yeJrn1WeFNsEs2UHyzVUh/edit?usp=sharing&ouid=106853442216798903502&rtpof=true&sd=true)]|
 | 02/17 | Seollal Holiday | No Reading Group :book: |
-| 02/24 |Subin Park<br /> Wooil Lee| <br /> |
+| 02/24 |Subin Park<br /> Wooil Lee| What's Making That Sound Right Now? Video-centric Audio-Visual Localization[[Hahyeon Choi et al., ICCV2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Choi_Whats_Making_That_Sound_Right_Now_Video-centric_Audio-Visual_Localization_ICCV_2025_paper.pdf)][[slide](https://docs.google.com/presentation/d/1pEcGPdVL-KYpymzy1pNkdntPvk8t5Itx/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)]<br /> Disentangled Concepts Speak Louder Than Words: Explainable Video Action Recognition[[Jongseo Lee, Wooil Lee, Gyeong-Moon Park, Seong Tae Kim, Jinwoo Choi NeurIPS2025 Spotlight](https://arxiv.org/pdf/2511.03725)][[slide](https://docs.google.com/presentation/d/19xY1zXvJ-_MpwcwejvnmeuBpZv1vlBsu41x1GyZeXLo/edit?usp=sharing)] |
 
 
 ## Mailing List
@@ -55,8 +55,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park
-  - UG student : Jeongin Bae / Chiyoung Song
+  - M.S. student : Ohsung Choo / Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim
   - M.S. student : Myeongjun Oh / Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
@@ -70,7 +69,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
   - UG student : Jiwook Han / Wooil Lee / Gangmin Choi / Juan Lee / Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Sunghun Kim / Junho Kim / Taesoo Park
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
-  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park 
+  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / UG : Jehyun Park
