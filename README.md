@@ -31,7 +31,7 @@ Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you a
 
 Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
-This Winter we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
