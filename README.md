@@ -35,7 +35,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)]|
+| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slide](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
 | 03/16 |   | |
 | 03/23 |  ||
 | 03/30 |  |  |
