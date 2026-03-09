@@ -35,11 +35,11 @@ This Spring we will have One presenters each week. Presentation duration is up t
 
 | Date  | Presenters         | Topic                            |
 |-------|--------------------|----------------------------------|
-| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slide](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
-| 03/16 |   | |
-| 03/23 |  ||
-| 03/30 |  |  |
-| 04/06 | | |
+| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slides](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
+| 03/16 |  Chiyoung Song | |
+| 03/23 | Gyuseong Lee ||
+| 03/30 | Minsoo Kim |  |
+| 04/06 | Junpyo Hong | |
 | 04/13 | Mid-term| No Reading Group :book: |
 | 04/20 | Mid-term | No Reading Group :book: |
 | 04/27 | Wongyu Lee| |
