@@ -42,12 +42,12 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 04/06 | | |
 | 04/13 | Mid-term| No Reading Group :book: |
 | 04/20 | Mid-term | No Reading Group :book: |
-| 04/27 || |
+| 04/27 | Wongyu Lee| |
 | 05/04 | NeurIPS Deadline|  No Reading Group :book: |
 | 05/11 | ECCV Rebuttal | No Reading Group :book: |
-| 05/18 || |
-| 05/25 || |
-| 06/01 || |
+| 05/18 | Minkuk Kim | |
+| 05/25 | Seongjin Eom | |
+| 06/01 | Yerim Jang | |
 | 06/08 | Final | No Reading Group :book:|
 | 06/15 | Final | No Reading Group :book:|
 
