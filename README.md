@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Monsday 19:30
+- Monday 19:30
 
 Location 
 - 211-1 Electronic Information College Building
@@ -58,7 +58,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 
 ## Presenters
 Please let Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
