@@ -38,7 +38,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slides](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
 | 03/16 |  Chiyoung Song | NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions[[Tue M. Cao et al., ICLR2025](https://arxiv.org/pdf/2502.16105)][[slides](https://docs.google.com/presentation/d/1ogwHRwg-F-djaPptt5rSB3gOeUx3y2vE/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
 | 03/23 | Gyuseong Lee | Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable[[Ruoxin Chen et al., NeurIPS2025 spotlight](https://arxiv.org/pdf/2505.14359)] [[slides](https://docs.google.com/presentation/d/1qQKxQ4qEV1-okb2Kizinwbx29mC-cQ-E1E0kqpIjWDY/edit?usp=sharing)]|
-| 03/30 | Minsoo Kim |  |
+| 03/30 | Minsoo Kim | Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning[[Huabin Liu et al., CVPR 2025](https://arxiv.org/pdf/2501.05069)] |
 | 04/06 | Junpyo Hong | |
 | 04/13 | Mid-term| No Reading Group :book: |
 | 04/20 | Mid-term | No Reading Group :book: |
