@@ -39,7 +39,7 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 03/16 |  Chiyoung Song | NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions[[Tue M. Cao et al., ICLR2025](https://arxiv.org/pdf/2502.16105)][[slides](https://docs.google.com/presentation/d/1ogwHRwg-F-djaPptt5rSB3gOeUx3y2vE/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
 | 03/23 | Gyuseong Lee | Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable[[Ruoxin Chen et al., NeurIPS2025 spotlight](https://arxiv.org/pdf/2505.14359)] [[slides](https://docs.google.com/presentation/d/1qQKxQ4qEV1-okb2Kizinwbx29mC-cQ-E1E0kqpIjWDY/edit?usp=sharing)]|
 | 03/30 | Minsoo Kim | Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning[[Huabin Liu et al., CVPR 2025](https://arxiv.org/pdf/2501.05069)][[slides](https://docs.google.com/presentation/d/1XgK5Y7b2GOz_5tD7sgl58XV4dPWQjYy1rUi1HSWj2Dg/edit?usp=sharing)] |
-| 04/06 | Junpyo Hong | Learning Concept Bottleneck Models from Mechanistic Explanations[[Antonio De Santis et al., ICLR 2026](https://arxiv.org/pdf/2603.07343)] |
+| 04/06 | Junpyo Hong | Learning Concept Bottleneck Models from Mechanistic Explanations[[Antonio De Santis et al., ICLR 2026](https://arxiv.org/pdf/2603.07343)] [[slides](https://docs.google.com/presentation/d/1xI2G4-wO2DnyraFZfw_rXNHgeIWFcVwQ4s7TP_4eRfU/edit?usp=sharing)]|
 | 04/13 | Mid-term| No Reading Group :book: |
 | 04/20 | Mid-term | No Reading Group :book: |
 | 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| |
