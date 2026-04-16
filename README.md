@@ -46,8 +46,8 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 05/04 | NeurIPS Deadline|  No Reading Group :book: |
 | 05/11 | ECCV Rebuttal | No Reading Group :book: |
 | 05/18 | Wongyu Lee | |
-| 05/25 | Minkuk Kim | |
-| 06/01 | Seongjin Eom | |
+| 05/25 | Buddha's Birthday | No Reading Group :book |
+| 06/01 | Minkuk Kim | |
 | 06/08 | Final | No Reading Group :book:|
 | 06/15 | Final | No Reading Group :book:|
 
