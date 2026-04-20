@@ -42,11 +42,11 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 04/06 | Junpyo Hong | Learning Concept Bottleneck Models from Mechanistic Explanations[[Antonio De Santis et al., ICLR 2026](https://arxiv.org/pdf/2603.07343)] [[slides](https://docs.google.com/presentation/d/1xI2G4-wO2DnyraFZfw_rXNHgeIWFcVwQ4s7TP_4eRfU/edit?usp=sharing)]|
 | 04/13 | Mid-term| No Reading Group :book: |
 | 04/20 | Mid-term | No Reading Group :book: |
-| 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| |
+| 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| Toward Reliable Multimodal AI (부제: 멀티모달 AI에서의 최근 연구 소개) |
 | 05/04 | NeurIPS Deadline|  No Reading Group :book: |
 | 05/11 | ECCV Rebuttal | No Reading Group :book: |
 | 05/18 | Wongyu Lee | |
-| 05/25 | Buddha's Birthday | No Reading Group :book |
+| 05/25 | Buddha's Birthday | No Reading Group :book: |
 | 06/01 | Minkuk Kim | |
 | 06/08 | Final | No Reading Group :book:|
 | 06/15 | Final | No Reading Group :book:|
