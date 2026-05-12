@@ -45,9 +45,9 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| Toward Reliable Multimodal AI (부제: 멀티모달 AI에서의 최근 연구 소개) [[slides](https://onedrive.live.com/:p:/g/personal/60B92423E296AFFB/IQAsF5n8lYOFSJsDCETwoJ0lAS4lluAGzG8f0XySeRPmh74?resid=60B92423E296AFFB!sfc99172c839548859b030844f0a09d25&ithint=file%2Cpptx&e=HNIkNo&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy82MGI5MjQyM2UyOTZhZmZiL0lRQXNGNW44bFlPRlNKc0RDRVR3b0owbEFTNGxsdUFHekc4ZjBYeVNlUlBtaDc0P2U9SE5Ja05v)] |
 | 05/04 | NeurIPS Deadline|  No Reading Group :book: |
 | 05/11 | ECCV Rebuttal | No Reading Group :book: |
-| 05/18 | Wongyu Lee | |
+| 05/18 | University Anniversary | No Reading Group :book: |
 | 05/25 | Buddha's Birthday | No Reading Group :book: |
-| 06/01 | Minkuk Kim | |
+| 06/01 | Wongyu Lee | |
 | 06/08 | Final | No Reading Group :book:|
 | 06/15 | Final | No Reading Group :book:|
 
