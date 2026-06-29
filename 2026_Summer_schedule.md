@@ -35,7 +35,7 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Group | Presenters        | Topic                         |
-|-------|-------|-------------------|-------------------------------|
+|-------|:-----:|-------------------|-------------------------------|
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
 | 07/03 | B |  | |
 | 07/07 | A |  | |
