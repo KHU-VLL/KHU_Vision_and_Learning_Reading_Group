@@ -67,9 +67,14 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
+### Group A
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
   - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
+* [VLL](https://vll.khu.ac.kr/index.html)
+  - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
+  - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
+### Group B
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim / Taegoo Kang
   - M.S. student : Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
@@ -78,9 +83,6 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - Ph.D. student : Subin Park
   - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
   - UG student : Haesoo Jung / Hyeok Seung Lee / Minseo Kang / JangHo Park 
-* [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
-  - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
   - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
