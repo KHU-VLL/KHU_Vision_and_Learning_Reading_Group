@@ -43,7 +43,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 |-------|:-----:|-------------------|-------------------------------|
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
 | 07/03 | B |  | |
-| 07/07 | A | ICML2026 | No Reading Group :book:|
+| 07/07 | A | ICML 2026 | No Reading Group :book:|
 | 07/10 | B |  | |
 | 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
 | 07/17 | B |  | |
