@@ -27,8 +27,13 @@ Location
 
 ## Current Schedule
 
-### Reading Group: 
+### Group A: 
 Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+
+### Group B: 
+Please let  Donghyun Jeon () know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
