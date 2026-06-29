@@ -1,7 +1,8 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Monday 19:30
+- Group A: Tuesday 13:00
+- Group B: Frida 13:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +15,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2026)](#current-schedule)
+- [Current Schedule (Summer 2026)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -33,23 +34,10 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 
 This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
-| Date  | Presenters         | Topic                            |
-|-------|--------------------|----------------------------------|
-| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slides](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
-| 03/16 |  Chiyoung Song | NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions[[Tue M. Cao et al., ICLR2025](https://arxiv.org/pdf/2502.16105)][[slides](https://docs.google.com/presentation/d/1ogwHRwg-F-djaPptt5rSB3gOeUx3y2vE/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
-| 03/23 | Gyuseong Lee | Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable[[Ruoxin Chen et al., NeurIPS2025 spotlight](https://arxiv.org/pdf/2505.14359)] [[slides](https://docs.google.com/presentation/d/1qQKxQ4qEV1-okb2Kizinwbx29mC-cQ-E1E0kqpIjWDY/edit?usp=sharing)]|
-| 03/30 | Minsoo Kim | Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning[[Huabin Liu et al., CVPR 2025](https://arxiv.org/pdf/2501.05069)][[slides](https://docs.google.com/presentation/d/1XgK5Y7b2GOz_5tD7sgl58XV4dPWQjYy1rUi1HSWj2Dg/edit?usp=sharing)] |
-| 04/06 | Junpyo Hong | Learning Concept Bottleneck Models from Mechanistic Explanations[[Antonio De Santis et al., ICLR 2026](https://arxiv.org/pdf/2603.07343)] [[slides](https://docs.google.com/presentation/d/1xI2G4-wO2DnyraFZfw_rXNHgeIWFcVwQ4s7TP_4eRfU/edit?usp=sharing)]|
-| 04/13 | Mid-term| No Reading Group :book: |
-| 04/20 | Mid-term | No Reading Group :book: |
-| 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| Toward Reliable Multimodal AI (부제: 멀티모달 AI에서의 최근 연구 소개) [[slides](https://onedrive.live.com/:p:/g/personal/60B92423E296AFFB/IQAsF5n8lYOFSJsDCETwoJ0lAS4lluAGzG8f0XySeRPmh74?resid=60B92423E296AFFB!sfc99172c839548859b030844f0a09d25&ithint=file%2Cpptx&e=HNIkNo&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy82MGI5MjQyM2UyOTZhZmZiL0lRQXNGNW44bFlPRlNKc0RDRVR3b0owbEFTNGxsdUFHekc4ZjBYeVNlUlBtaDc0P2U9SE5Ja05v)] |
-| 05/04 | NeurIPS Deadline|  No Reading Group :book: |
-| 05/11 | ECCV Rebuttal | No Reading Group :book: |
-| 05/18 | University Anniversary | No Reading Group :book: |
-| 05/25 | Buddha's Birthday | No Reading Group :book: |
-| 06/01 | Wongyu Lee | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding[[Yawen Shao et al., CVPR2025](https://arxiv.org/pdf/2411.19626)][[slides](https://docs.google.com/presentation/d/1VWxvbL1AxX_rZCLGaL69WKmje2Vjxe0litLNdesaIEs/edit?usp=sharing)] |
-| 06/08 | Final | No Reading Group :book:|
-| 06/15 | Final | No Reading Group :book:|
+| Date  | Group | Presenters        | Topic                         |
+|-------|-------|-------------------|-------------------------------|
+| 06/30 | A | SuyongYun Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA|
+
 
 
 ## Mailing List
