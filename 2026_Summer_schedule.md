@@ -40,13 +40,13 @@ This Spring we will have One presenters each week. Presentation duration is up t
 | 07/03 | B |  | |
 | 07/07 | A |  | |
 | 07/10 | B |  | |
-| 07/14 | A | EMNLP Rebuttal | |
+| 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
 | 07/17 | B |  | |
-| 07/21 | A | AAAI Deadline | |
+| 07/21 | A | AAAI Deadline | No Reading Group :book:|
 | 07/24 | B |  | |
-| 07/28 | A | Neurips Rebuttal | |
+| 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
 | 07/31 | B |  | |
-| 08/04 | A | Neurips Rebuttal | |
+| 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
 | 08/07 | B |  | |
 | 08/11 | A |  | |
 | 08/14 | B |  | |
