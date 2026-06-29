@@ -37,7 +37,7 @@ Please let  Donghyun Jeon () know what paper you are going to present, and **ple
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
 | Date  | Group | Presenters        | Topic                         |
 |-------|:-----:|-------------------|-------------------------------|
@@ -67,9 +67,6 @@ This Spring we will have One presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
-
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
   - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
@@ -115,6 +112,7 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 - [Summer 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Summer_schedule.md)
 - [Fall 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Fall_schedule.md)
 - [Winter 2026](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2026_Winter_schedule.md)
+- [Spring 2026](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2026_Spring_schedule.md)
 ## Related Links
 
 #### Resources
