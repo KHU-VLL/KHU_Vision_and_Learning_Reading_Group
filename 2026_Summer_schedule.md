@@ -2,7 +2,7 @@
 
 Time
 - Group A: Tuesday 13:00
-- Group B: Frida 13:00
+- Group B: Friday 13:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -28,9 +28,9 @@ Location
 ## Current Schedule
 
 ### Reading Group: 
-Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thrusday 11:59am** before your presentation.
+Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
