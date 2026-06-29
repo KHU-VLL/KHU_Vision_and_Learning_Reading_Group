@@ -36,7 +36,24 @@ This Spring we will have One presenters each week. Presentation duration is up t
 
 | Date  | Group | Presenters        | Topic                         |
 |-------|-------|-------------------|-------------------------------|
-| 06/30 | A | SuyongYun Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA|
+| 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
+| 07/03 | B |  | |
+| 07/07 | A |  | |
+| 07/10 | B |  | |
+| 07/14 | A | EMNLP Rebuttal | |
+| 07/17 | B |  | |
+| 07/21 | A | AAAI Deadline | |
+| 07/24 | B |  | |
+| 07/28 | A | Neurips Rebuttal | |
+| 07/31 | B |  | |
+| 08/04 | A | Neurips Rebuttal | |
+| 08/07 | B |  | |
+| 08/11 | A |  | |
+| 08/14 | B |  | |
+| 08/18 | A |  | |
+| 08/21 | B |  | |
+| 08/25 | A |  | |
+| 08/28 | B |  | |
 
 
 
