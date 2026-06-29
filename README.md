@@ -1,7 +1,8 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Monday 19:30
+- Group A: Tuesday 13:00
+- Group B: Friday 13:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -14,7 +15,7 @@ Location
 
 ## Table of Contents
 
-- [Current Schedule (Spring 2026)](#current-schedule)
+- [Current Schedule (Summer 2026)](#current-schedule)
 - [Mailing List](#mailing-list)
 - [Presenter](#presenters)
 - [Previous Meetings](#previous-meetings)
@@ -26,30 +27,39 @@ Location
 
 ## Current Schedule
 
-### Reading Group: 
-Please let  Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thrusday 11:59am** before your presentation.
+### Group A: 
+Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-This Spring we will have One presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+### Group B: 
+Please let  Donghyun Jeon () know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
-| Date  | Presenters         | Topic                            |
-|-------|--------------------|----------------------------------|
-| 03/09 | Jeon Donghyeon  | Availability-aware Sensor Fusion via Unified Canonical Space [[Dong-Hee Paek et al., NeurIPS 2025](https://arxiv.org/pdf/2503.07029)][[slides](https://docs.google.com/presentation/d/1JUQOTPayFRZdIyHal1LvD8sqahyWfeDx/edit?usp=sharing&ouid=110518302276719114383&rtpof=true&sd=true)]|
-| 03/16 |  Chiyoung Song | NeurFlow: Interpreting Neural Networks through Neuron Groups and Functional Interactions[[Tue M. Cao et al., ICLR2025](https://arxiv.org/pdf/2502.16105)][[slides](https://docs.google.com/presentation/d/1ogwHRwg-F-djaPptt5rSB3gOeUx3y2vE/edit?usp=sharing&ouid=115119119176098778407&rtpof=true&sd=true)] |
-| 03/23 | Gyuseong Lee | Dual Data Alignment Makes AI-Generated Image Detector Easier Generalizable[[Ruoxin Chen et al., NeurIPS2025 spotlight](https://arxiv.org/pdf/2505.14359)] [[slides](https://docs.google.com/presentation/d/1qQKxQ4qEV1-okb2Kizinwbx29mC-cQ-E1E0kqpIjWDY/edit?usp=sharing)]|
-| 03/30 | Minsoo Kim | Commonsense Video Question Answering through Video-Grounded Entailment Tree Reasoning[[Huabin Liu et al., CVPR 2025](https://arxiv.org/pdf/2501.05069)][[slides](https://docs.google.com/presentation/d/1XgK5Y7b2GOz_5tD7sgl58XV4dPWQjYy1rUi1HSWj2Dg/edit?usp=sharing)] |
-| 04/06 | Junpyo Hong | Learning Concept Bottleneck Models from Mechanistic Explanations[[Antonio De Santis et al., ICLR 2026](https://arxiv.org/pdf/2603.07343)] [[slides](https://docs.google.com/presentation/d/1xI2G4-wO2DnyraFZfw_rXNHgeIWFcVwQ4s7TP_4eRfU/edit?usp=sharing)]|
-| 04/13 | Mid-term| No Reading Group :book: |
-| 04/20 | Mid-term | No Reading Group :book: |
-| 04/27 | Invited talk </br> [Kyle Min @ Oracle](https://sites.google.com/view/kylemin)| Toward Reliable Multimodal AI (부제: 멀티모달 AI에서의 최근 연구 소개) [[slides](https://onedrive.live.com/:p:/g/personal/60B92423E296AFFB/IQAsF5n8lYOFSJsDCETwoJ0lAS4lluAGzG8f0XySeRPmh74?resid=60B92423E296AFFB!sfc99172c839548859b030844f0a09d25&ithint=file%2Cpptx&e=HNIkNo&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy82MGI5MjQyM2UyOTZhZmZiL0lRQXNGNW44bFlPRlNKc0RDRVR3b0owbEFTNGxsdUFHekc4ZjBYeVNlUlBtaDc0P2U9SE5Ja05v)] |
-| 05/04 | NeurIPS Deadline|  No Reading Group :book: |
-| 05/11 | ECCV Rebuttal | No Reading Group :book: |
-| 05/18 | University Anniversary | No Reading Group :book: |
-| 05/25 | Buddha's Birthday | No Reading Group :book: |
-| 06/01 | Wongyu Lee | GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding[[Yawen Shao et al., CVPR2025](https://arxiv.org/pdf/2411.19626)][[slides](https://docs.google.com/presentation/d/1VWxvbL1AxX_rZCLGaL69WKmje2Vjxe0litLNdesaIEs/edit?usp=sharing)] |
-| 06/08 | Final | No Reading Group :book:|
-| 06/15 | Final | No Reading Group :book:|
+Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+
+This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+
+| Date  | Group | Presenters        | Topic                         |
+|-------|:-----:|-------------------|-------------------------------|
+| 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
+| 07/03 | B |  | |
+| 07/07 | A | ICML 2026 | No Reading Group :book:|
+| 07/10 | B |  | |
+| 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
+| 07/17 | B |  | |
+| 07/21 | A | AAAI Deadline | No Reading Group :book:|
+| 07/24 | B |  | |
+| 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
+| 07/31 | B |  | |
+| 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
+| 08/07 | B |  | |
+| 08/11 | A | Minkuk Kim<br>Yuri Kim | |
+| 08/14 | B |  | |
+| 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
+| 08/21 | B |  | |
+| 08/25 | A | Youngtae Kim<br>Sooa Kim | |
+| 08/28 | B |  | |
+
 
 
 ## Mailing List
@@ -57,12 +67,14 @@ This Spring we will have One presenters each week. Presentation duration is up t
 We use Google Groups to manage the mailing list: [(link)](https://groups.google.com/u/2/a/khu.ac.kr/g/khu-vision-and-learning-reading-group-g-groups). You can click "Join Group" when you sign in with your Kyung Hee University account.
 
 ## Presenters
-Please let Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Thursday 11:59am** before your presentation.
-Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
-
+### Group A
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
   - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
+* [VLL](https://vll.khu.ac.kr/index.html)
+  - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
+  - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
+### Group B
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim / Taegoo Kang
   - M.S. student : Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
@@ -71,12 +83,10 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
   - Ph.D. student : Subin Park
   - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
   - UG student : Haesoo Jung / Hyeok Seung Lee / Minseo Kang / JangHo Park 
-* [VLL](https://vll.khu.ac.kr/index.html)
-  - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
-  - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
   - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
+
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
   - \[AMI] M.S. : Soyoun Won / Yebin Ji / Ohsung Choo / UG : Jehyun Park
@@ -105,6 +115,7 @@ Moreover, send the **presentation slides link** on  **Sunday 11:59pm**.
 - [Summer 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Summer_schedule.md)
 - [Fall 2025](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2025_Fall_schedule.md)
 - [Winter 2026](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2026_Winter_schedule.md)
+- [Spring 2026](https://github.com/KHU-VLL/KHU_Vision_and_Learning_Reading_Group/blob/main/2026_Spring_schedule.md)
 ## Related Links
 
 #### Resources
