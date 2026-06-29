@@ -43,7 +43,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 |-------|:-----:|-------------------|-------------------------------|
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
 | 07/03 | B |  | |
-| 07/07 | A |  | |
+| 07/07 | A | ICML | No Reading Group :book:|
 | 07/10 | B |  | |
 | 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
 | 07/17 | B |  | |
@@ -53,11 +53,11 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 07/31 | B |  | |
 | 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
 | 08/07 | B |  | |
-| 08/11 | A |  | |
+| 08/11 | A | Minkuk Kim<br>Yuri Kim | |
 | 08/14 | B |  | |
-| 08/18 | A |  | |
+| 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
 | 08/21 | B |  | |
-| 08/25 | A |  | |
+| 08/25 | A | Youngtae Kim<br>Sooa Kim | |
 | 08/28 | B |  | |
 
 
