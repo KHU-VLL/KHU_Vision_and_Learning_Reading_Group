@@ -57,7 +57,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
 | 08/19 | B | Minsung Kim<br>Heewon Hong| |
 | 08/25 | A | Youngtae Kim<br>Sooa Kim | |
-| 08/26 | B | Kyusang Jang<br>Minseo Kang | |
+| 08/26 | B | Seongjin Eom<br>Minseo Kang | |
 
 
 
