@@ -2,7 +2,7 @@
 
 Time
 - Group A: Tuesday 13:00
-- Group B: Friday 13:00
+- Group B: Wednesday 17:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -42,7 +42,6 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | Date  | Group | Presenters        | Topic                         |
 |-------|:-----:|-------------------|-------------------------------|
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA [ppt](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)<br>LATENT ACTION PRETRAINING FROM VIDEOS [paper](https://arxiv.org/pdf/2410.11758) [ppt](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)|
-| 07/03 | B |  | |
 | 07/07 | A | ICML 2026 | No Reading Group :book:|
 | 07/08 | B | ICML 2026 | No Reading Group :book:|
 | 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
