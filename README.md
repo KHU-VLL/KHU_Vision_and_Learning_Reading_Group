@@ -45,7 +45,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 07/07 | A | ICML 2026 | No Reading Group :book:|
 | 07/08 | B | ICML 2026 | No Reading Group :book:|
 | 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
-| 07/15 | B |  Hayoung Lee| |
+| 07/15 | B |  Hayoung Lee<br>Minseok Ji| |
 | 07/21 | A | AAAI Deadline | No Reading Group :book:|
 | 07/22 | B | AAAI Deadline | No Reading Group :book:|
 | 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
@@ -53,11 +53,11 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | B | Neurips Rebuttal | No Reading Group :book:|
 | 08/11 | A | Minkuk Kim<br>Yuri Kim | |
-| 08/12 | B |  | |
+| 08/12 | B | Yerim Jang<br>Seungjae Kim ||
 | 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
-| 08/19 | B | Yerim Jang | |
+| 08/19 | B | Minsung Kim<br>Heewon Hong| |
 | 08/25 | A | Youngtae Kim<br>Sooa Kim | |
-| 08/26 | B |  | |
+| 08/26 | B | Kyusang Jang<br>Minseo Kang | |
 
 
 
@@ -77,7 +77,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim / Taegoo Kang
   - M.S. student : Euijune Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim / Junghun Kim
-  - UG student : Jiho Lee
+  - UG student : Jiho Lee / Kyusang Jang
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
