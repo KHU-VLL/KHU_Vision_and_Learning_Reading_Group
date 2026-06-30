@@ -46,7 +46,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 07/08 | B | ICML 2026 | No Reading Group :book:|
 | 07/14 | A | Minkuk Kim | |
 | 07/15 | B |  Hayoung Lee<br>Minseok Ji| |
-| 07/21 | A | Youngseob Won<br>Chanyoung Roh | |
+| 07/21 | A | Chanyoung Roh<br>Youngseob Won | |
 | 07/22 | B | AAAI Deadline | No Reading Group :book:|
 | 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
 | 07/29 | B | Neurips Rebuttal | No Reading Group :book:|
@@ -54,7 +54,7 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 08/05 | B | Neurips Rebuttal | No Reading Group :book:|
 | 08/11 | A | Youngtae Kim<br>Yuri Kim | |
 | 08/12 | B | Yerim Jang<br>Seungjae Kim ||
-| 08/18 | A | Inseong Park<br>Hyuntak Lee | |
+| 08/18 | A | Hyuntak Lee<br>Inseong Park | |
 | 08/19 | B | Minsung Kim<br>Heewon Hong| |
 | 08/25 | A | Jeongin Bae<br>Sooa Kim | |
 | 08/26 | B | Seongjin Eom<br>Minseo Kang | |
