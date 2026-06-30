@@ -33,9 +33,9 @@ Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 ### Group B: 
-Please let  Donghyun Jeon () know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **day 11:59pm** before your presentation.
 
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
 
@@ -44,21 +44,21 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA [ppt](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)<br>LATENT ACTION PRETRAINING FROM VIDEOS [paper](https://arxiv.org/pdf/2410.11758) [ppt](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)|
 | 07/03 | B |  | |
 | 07/07 | A | ICML 2026 | No Reading Group :book:|
-| 07/10 | B |  | |
+| 07/08 | B | ICML 2026 | No Reading Group :book:|
 | 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
-| 07/17 | B |  | |
+| 07/15 | B |  Hayoung Lee| |
 | 07/21 | A | AAAI Deadline | No Reading Group :book:|
-| 07/24 | B |  | |
+| 07/22 | B | AAAI Deadline | No Reading Group :book:|
 | 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
-| 07/31 | B |  | |
+| 07/29 | B | Neurips Rebuttal | No Reading Group :book:|
 | 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
-| 08/07 | B |  | |
+| 08/05 | B | Neurips Rebuttal | No Reading Group :book:|
 | 08/11 | A | Minkuk Kim<br>Yuri Kim | |
-| 08/14 | B |  | |
+| 08/12 | B |  | |
 | 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
-| 08/21 | B |  | |
+| 08/19 | B | Yerim Jang | |
 | 08/25 | A | Youngtae Kim<br>Sooa Kim | |
-| 08/28 | B |  | |
+| 08/26 | B |  | |
 
 
 
@@ -77,15 +77,15 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 ### Group B
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim / Taegoo Kang
-  - M.S. student : Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
-  - UG student : Jiho Lee / Jihye Kim / Minseko chae
+  - M.S. student : Euijune Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim / Junghun Kim
+  - UG student : Jiho Lee
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
-  - UG student : Haesoo Jung / Hyeok Seung Lee / Minseo Kang / JangHo Park 
+  - UG student : Haesoo Jung / Minseo Kang / Sungjin Um
 * [VSLab](https://vslab.khu.ac.kr/)
-  - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
-  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
+  - M.S. student : Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Junhee Lee / Suyeon Kim
+  - UG student : Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
 
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
@@ -93,6 +93,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - \[ENC lab] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / Myeongjun Oh / UG : Junseok Yang
   - \[VAI] M.S. : Seungho Shin / Jiyoung Park 
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / Geo Ahn / Soyeon Hong  UG : Joohyun Chang
+  - \[VSLab] M.S. : Youngbin Kim / 
 
 
 
