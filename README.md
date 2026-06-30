@@ -44,19 +44,19 @@ This Summer we will have Two presenters each week. Presentation duration is up t
 | 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA [ppt](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)<br>LATENT ACTION PRETRAINING FROM VIDEOS [paper](https://arxiv.org/pdf/2410.11758) [ppt](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)|
 | 07/07 | A | ICML 2026 | No Reading Group :book:|
 | 07/08 | B | ICML 2026 | No Reading Group :book:|
-| 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
+| 07/14 | A | Minkuk Kim | |
 | 07/15 | B |  Hayoung Lee<br>Minseok Ji| |
-| 07/21 | A | AAAI Deadline | No Reading Group :book:|
+| 07/21 | A | Youngseob Won<br>Chanyoung Roh | |
 | 07/22 | B | AAAI Deadline | No Reading Group :book:|
 | 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
 | 07/29 | B | Neurips Rebuttal | No Reading Group :book:|
 | 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | B | Neurips Rebuttal | No Reading Group :book:|
-| 08/11 | A | Minkuk Kim<br>Yuri Kim | |
+| 08/11 | A | Youngtae Kim<br>Yuri Kim | |
 | 08/12 | B | Yerim Jang<br>Seungjae Kim ||
-| 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
+| 08/18 | A | Inseong Park<br>Hyuntak Lee | |
 | 08/19 | B | Minsung Kim<br>Heewon Hong| |
-| 08/25 | A | Youngtae Kim<br>Sooa Kim | |
+| 08/25 | A | Jeongin Bae<br>Sooa Kim | |
 | 08/26 | B | Seongjin Eom<br>Minseo Kang | |
 
 
