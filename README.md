@@ -35,7 +35,7 @@ Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
-|-------|:----:|:--------:|------------|-------|
+|-------|:----:|:--------:|--------------|-------|
 | 06/30 | Tue 13:00 | 136 | Suyong&nbsp;Yun<br>Sunghun&nbsp;Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[Minkuk Kim et al., ECCV 2026][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
 | 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
 | 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung&nbsp;Roh | |
