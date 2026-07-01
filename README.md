@@ -27,37 +27,40 @@ Location
 
 ## Current Schedule
 
-### Group A: 
+This Summer we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+
+### Group A:
 Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-### Group B: 
+| Date  | Time | Location | Presenters | Topic |
+|-------|:----:|:--------:|------------|-------|
+| 06/30 | Tue 13:00 | 136 | Suyong Yun<br>Sunghun Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[Minkuk Kim et al., ECCV 2026][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
+| 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
+| 07/14 | Tue 13:00 |  | Minkuk Kim | |
+| 07/21 | Tue 13:00 |  | Chanyoung Roh<br>Youngseob Won | |
+| 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/04 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/11 | Tue 13:00 |  | Youngtae Kim<br>Yuri Kim | |
+| 08/18 | Tue 13:00 |  | Hyuntak Lee<br>Inseong Park | |
+| 08/25 | Tue 13:00 |  | Jeongin Bae<br>Sooa Kim | |
+
+### Group B:
 Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **day 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
-
-| Date  | Group | Presenters        | Topic                         |
-|-------|:-----:|-------------------|-------------------------------|
-| 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA [ppt](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)<br>LATENT ACTION PRETRAINING FROM VIDEOS [paper](https://arxiv.org/pdf/2410.11758) [ppt](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)|
-| 07/07 | A | ICML 2026 | No Reading Group :book:|
-| 07/08 | B | ICML 2026 | No Reading Group :book:|
-| 07/14 | A | Minkuk Kim | |
-| 07/15 | B |  Hayoung Lee<br>Minseok Ji| |
-| 07/21 | A | Chanyoung Roh<br>Youngseob Won | |
-| 07/22 | B | AAAI Deadline | No Reading Group :book:|
-| 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
-| 07/29 | B | Neurips Rebuttal | No Reading Group :book:|
-| 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
-| 08/05 | B | Neurips Rebuttal | No Reading Group :book:|
-| 08/11 | A | Youngtae Kim<br>Yuri Kim | |
-| 08/12 | B | Yerim Jang<br>Seungjae Kim ||
-| 08/18 | A | Hyuntak Lee<br>Inseong Park | |
-| 08/19 | B | Minsung Kim<br>Heewon Hong| |
-| 08/25 | A | Jeongin Bae<br>Sooa Kim | |
-| 08/26 | B | Seongjin Eom<br>Minseo Kang | |
+| Date  | Time | Location | Presenters | Topic |
+|-------|:----:|:--------:|------------|-------|
+| 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
+| 07/15 | Wed 17:00 | 211-1 | Hayoung Lee<br>Minseok Ji | |
+| 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
+| 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/12 | Wed 17:00 |  | Yerim Jang<br>Seungjae Kim | |
+| 08/19 | Wed 17:00 |  | Minsung Kim<br>Heewon Hong | |
+| 08/26 | Wed 17:00 |  | Seongjin Eom<br>Minseo Kang | |
 
 
 
@@ -147,7 +150,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let your group organizer know about your situation — Group A: Inseong Park (dlstjd2410 -at- khu -dot- ac -dot- kr), Group B: Donghyun Jeon (dhjeon0320 -at- gmail -dot- com).
 
 
 
@@ -156,7 +159,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Thrusday** of that week.
+**NOTE:** Please tell your group organizer — Group A: Inseong Park (dlstjd2410 -at- khu -dot- ac -dot- kr), Group B: Donghyun Jeon (dhjeon0320 -at- gmail -dot- com) — which paper(s) you are going to present, and summarize the paper/talk in several sentences, by the deadline listed for your group in the [Current Schedule](#current-schedule).
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
