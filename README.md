@@ -41,7 +41,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung&nbsp;Roh | |
 | 07/21 | Tue 13:00 | 205 | Yuri Kim<br>Youngseob&nbsp;Won | |
 | 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/04 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/04 | Tue 13:00 |  | KCCV 2026 | No Reading Group :book:|
 | 08/11 | Tue 13:00 |  | Inseong Park<br>Junho Kim | |
 | 08/18 | Tue 13:00 |  | Sooa Kim<br>Youngtae&nbsp;Kim | |
 | 08/25 | Tue 13:00 |  | Jeongin&nbsp;Bae<br>Hyuntak Lee | |
