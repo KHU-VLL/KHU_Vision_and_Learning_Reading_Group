@@ -36,15 +36,15 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
-| 06/30 | Tue 13:00 | 136 | Suyong Yun<br>Sunghun Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[Minkuk Kim et al., ECCV 2026][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
+| 06/30 | Tue 13:00 | 136 | Suyong&nbsp;Yun<br>Sunghun&nbsp;Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[Minkuk Kim et al., ECCV 2026][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
 | 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/14 | Tue 13:00 |  | Minkuk Kim | |
-| 07/21 | Tue 13:00 |  | Chanyoung Roh<br>Youngseob Won | |
+| 07/14 | Tue 13:00 |  | Minkuk&nbsp;Kim | |
+| 07/21 | Tue 13:00 |  | Chanyoung&nbsp;Roh<br>Youngseob&nbsp;Won | |
 | 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/04 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/11 | Tue 13:00 |  | Youngtae Kim<br>Yuri Kim | |
-| 08/18 | Tue 13:00 |  | Hyuntak Lee<br>Inseong Park | |
-| 08/25 | Tue 13:00 |  | Jeongin Bae<br>Sooa Kim | |
+| 08/11 | Tue 13:00 |  | Youngtae&nbsp;Kim<br>Yuri&nbsp;Kim | |
+| 08/18 | Tue 13:00 |  | Hyuntak&nbsp;Lee<br>Inseong&nbsp;Park | |
+| 08/25 | Tue 13:00 |  | Jeongin&nbsp;Bae<br>Sooa&nbsp;Kim | |
 
 ### Group B:
 Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **day 11:59pm** before your presentation.
@@ -54,13 +54,13 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
 | 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/15 | Wed 17:00 | 211-1 | Hayoung Lee<br>Minseok Ji | |
+| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji | |
 | 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
 | 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/12 | Wed 17:00 |  | Yerim Jang<br>Seungjae Kim | |
-| 08/19 | Wed 17:00 |  | Minsung Kim<br>Heewon Hong | |
-| 08/26 | Wed 17:00 |  | Seongjin Eom<br>Minseo Kang | |
+| 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim | |
+| 08/19 | Wed 17:00 |  | Minsung&nbsp;Kim<br>Heewon&nbsp;Hong | |
+| 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang | |
 
 
 
