@@ -38,12 +38,12 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 |-------|:----:|:--------:|------------|-------|
 | 06/30 | Tue 13:00 | 136 | Suyong&nbsp;Yun<br>Sunghun&nbsp;Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[Minkuk Kim et al., ECCV 2026][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
 | 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung Roh | |
-| 07/21 | Tue 13:00 | 205 | Yuri Kim<br>Youngseob Won | |
+| 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung&nbsp;Roh | |
+| 07/21 | Tue 13:00 | 205 | Yuri Kim<br>Youngseob&nbsp;Won | |
 | 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/04 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/11 | Tue 13:00 |  | Inseong Park<br>Junho Kim | |
-| 08/18 | Tue 13:00 |  | Sooa Kim<br>Youngtae Kim | |
+| 08/18 | Tue 13:00 |  | Sooa Kim<br>Youngtae&nbsp;Kim | |
 | 08/25 | Tue 13:00 |  | Jeongin&nbsp;Bae<br>Hyuntak Lee | |
 
 ### Group B:
