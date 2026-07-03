@@ -47,7 +47,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 08/25 | Tue 13:00 |  | Jeongin&nbsp;Bae<br>Hyuntak Lee | |
 
 ### Group B:
-Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **day 11:59pm** before your presentation.
+Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
