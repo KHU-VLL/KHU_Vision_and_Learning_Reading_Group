@@ -54,8 +54,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
 | 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)]<br>
-Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)] :book:|
+| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)]<br>Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)]|
 | 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
 | 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
