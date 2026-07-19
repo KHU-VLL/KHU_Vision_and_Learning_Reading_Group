@@ -54,7 +54,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
 | 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)][[slides](https://docs.google.com/presentation/d/1kVLxLHacQuJPIwlrv23raN_sAbwTs6_f/edit?usp=sharing&ouid=114893771383473519593&rtpof=true&sd=true)]]<br>Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)][[slides](https://docs.google.com/presentation/d/19zkAmPvoYe1XAaVEmKiQpyTIpOph5jc8/edit?usp=sharing&ouid=104100343257002523810&rtpof=true&sd=true)]|
+| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)][[slides](https://docs.google.com/presentation/d/1kVLxLHacQuJPIwlrv23raN_sAbwTs6_f/edit?usp=sharing&ouid=114893771383473519593&rtpof=true&sd=true)]<br>Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)][[slides](https://docs.google.com/presentation/d/19zkAmPvoYe1XAaVEmKiQpyTIpOph5jc8/edit?usp=sharing&ouid=104100343257002523810&rtpof=true&sd=true)]|
 | 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
 | 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
@@ -87,7 +87,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - UG student : Haesoo Jung / Minseo Kang / Sungjin Um
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Junhee Lee / Suyeon Kim
-  - UG student : Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
+  - UG student : Hayoung Lee / Junhee Park / Donghyeon Jeon / Junseok Yu
 
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
