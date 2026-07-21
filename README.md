@@ -72,7 +72,8 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 ### Group A
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
+  - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song /
+  - UG student : Hyeoksu Hwang
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
   - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
