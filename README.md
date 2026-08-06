@@ -42,9 +42,9 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 07/21 | Tue 13:00 | 205 | Yuri Km<br>Youngseob&nbsp;Won | MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs[[Qixin Xiao et al., ICML 2026](https://arxiv.org/pdf/2602.01740)][[slides](https://docs.google.com/presentation/d/1iDEeTPrY4aLkmR2pDyOA5_O2O-vsmAVBcLFW2O-cBLg/edit?usp=sharing)]<br> Mixture of Prototypes for Test-time Adaptive Segmentation[[Guangrui Li et al., CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mixture_of_Prototypes_for_Test-time_Adaptive_Segmentation_CVPR_2026_paper.pdf)][[slides](https://docs.google.com/presentation/d/1gQ-lR-7BK3CeW4LVdPYJ_UkRo1MGS4Vs/edit?usp=sharing&ouid=100843900411159018523&rtpof=true&sd=true)]|
 | 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/04 | Tue 13:00 |  | KCCV 2026 | No Reading Group :book:|
-| 08/11 | Tue 13:00 |  | Inseong Park<br>Junho Kim | |
-| 08/18 | Tue 13:00 |  | Sooa Kim<br>Youngtae&nbsp;Kim | |
-| 08/25 | Tue 13:00 |  | Jeongin&nbsp;Bae<br>Hyuntak Lee | |
+| 08/11 | Tue 13:00 | 211-1 | Inseong Park<br>Junho Kim | |
+| 08/18 | Tue 13:00 | 211-1 | Sooa Kim<br>Youngtae&nbsp;Kim | |
+| 08/25 | Tue 13:00 | 211-1 | Jeongin&nbsp;Bae<br>Hyuntak Lee | |
 
 ### Group B:
 Please let  Donghyun Jeon (dhjeon0320@gmail.com) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
