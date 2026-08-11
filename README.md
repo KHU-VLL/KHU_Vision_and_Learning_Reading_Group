@@ -58,7 +58,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
 | 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim | |
+| 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim |next-scale autoregressive models for text-to-motion generation[[Zhiwei Zheng et al., CVPR2026](https://arxiv.org/pdf/2604.03799)]<br>E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training[[Qitao Zhao et al., CVPR2026](https://arxiv.org/pdf/2512.10950)] |
 | 08/19 | Wed 17:00 |  | Minsung&nbsp;Kim<br>Heewon&nbsp;Hong | |
 | 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang | |
 
