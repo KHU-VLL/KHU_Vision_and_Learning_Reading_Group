@@ -60,7 +60,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
 | 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim |next-scale autoregressive models for text-to-motion generation[[Zhiwei Zheng et al., CVPR2026](https://arxiv.org/pdf/2604.03799)][[slides](https://docs.google.com/presentation/d/1PbxO152Gz0hWWgyGcL9qeaVUKmukg45n6A9kb0LtLcc/edit?slide=id.p#slide=id.p)]<br>E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training[[Qitao Zhao et al., CVPR2026](https://arxiv.org/pdf/2512.10950)][[slides](https://docs.google.com/presentation/d/1DbSnGBgxKNydPJnC36hyZVK2pflzbdcM/edit?usp=sharing&ouid=105071767495621858558&rtpof=true&sd=true)] |
 | 08/19 | Wed 17:00 |  | Minsung&nbsp;Kim<br>Heewon&nbsp;Hong |Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator[[Hyojun Go et al., ICLR202](https://arxiv.org/pdf/2510.13454)][[slides](https://docs.google.com/presentation/d/133xYLDURjZlC8LMNR-fQRv2QsdwYyLgzKdc0pue1R2Y/edit)]<br>CHARM3R: Towards Unseen Camera Height Robust Monocular 3D Detector[[Abhinav Kumar et al., ICCV2025](https://arxiv.org/pdf/2508.11185)][[slides](https://docs.google.com/presentation/d/1YV9E8M7ZLxcVKtc1LVDILQZN7QnkNtw7PtkXF19BIVQ/edit?usp=sharing)] |
-| 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang | |
+| 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang |Fast Inference from Transformers via Speculative Decoding [[Yaniv Leviathan et al., ICML2023](https://arxiv.org/abs/2211.17192)]<br>Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization [[Tao Yang et al.,NeurIPS2025](https://arxiv.org/pdf/2505.11217)] |
 
 
 
