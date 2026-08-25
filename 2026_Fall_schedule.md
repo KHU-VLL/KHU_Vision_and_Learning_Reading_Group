@@ -39,19 +39,19 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 09/02 | Wed 18:00 |  |  | |
 | 09/09 | Wed 18:00 |  |  | |
 | 09/16 | Wed 18:00 |  |  | |
-| 09/23 | Wed 18:00 |  |  | |
+| 09/23 | Wed 18:00 |  |  | No Reading Group :book:|
 | 09/30 | Wed 18:00 |  |  | |
 | 10/07 | Wed 18:00 |  |  | |
-| 10/14 | Wed 18:00 |  |  | |
-| 10/21 | Wed 18:00 |  |  | |
+| 10/14 | Wed 18:00 |  |  | No Reading Group :book:|
+| 10/21 | Wed 18:00 |  |  | No Reading Group :book:|
 | 10/28 | Wed 18:00 |  |  | |
 | 11/04 | Wed 18:00 |  |  | |
-| 11/11 | Wed 18:00 |  |  | |
-| 11/18 | Wed 18:00 |  |  | |
+| 11/11 | Wed 18:00 |  |  | No Reading Group :book:|
+| 11/18 | Wed 18:00 |  |  | No Reading Group :book:|
 | 11/25 | Wed 18:00 |  |  | |
 | 12/02 | Wed 18:00 |  |  | |
-| 12/09 | Wed 18:00 |  |  | |
-| 12/16 | Wed 18:00 |  |  | |
+| 12/09 | Wed 18:00 |  |  | No Reading Group :book:|
+| 12/16 | Wed 18:00 |  |  | No Reading Group :book:|
 | 12/23 | Wed 18:00 |  |  | |
 | 12/30 | Wed 18:00 |  |  | |
 
