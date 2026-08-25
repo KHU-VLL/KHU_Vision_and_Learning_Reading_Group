@@ -2,7 +2,7 @@
 
 Time
 - Group A: Tuesday 13:00
-- Group B: Friday 13:00
+- Group B: Wednesday 17:00
 
 Location 
 - 211-1 Electronic Information College Building
@@ -27,38 +27,40 @@ Location
 
 ## Current Schedule
 
-### Group A: 
+This Summer we will have two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+
+### Group A:
 Please let  Inseong Park (dlstjd2410@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
 
 Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
-### Group B: 
-Please let  Donghyun Jeon () know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Friday 11:59pm** before your presentation.
+| Date  | Time | Location | Presenters | Topic |
+|-------|:----:|:--------:|--------------|-------|
+| 06/30 | Tue 13:00 | 136 | Suyong&nbsp;Yun<br>Sunghun&nbsp;Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[[Minkuk Kim et al., ECCV 2026](https://arxiv.org/pdf/2607.01737)][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
+| 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
+| 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung&nbsp;Roh | Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs[[Sanghwan Kim et al., ECCV 2026](https://arxiv.org/pdf/2510.00705)][[slides](https://docs.google.com/presentation/d/16Fr19-eH7rF9jfxhUkas4G4SxhxAAUSbiAqDLvn0sBE/edit?usp=sharing)]<br>Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them [[Woojung Han et al., ICML 2026](https://arxiv.org/pdf/2606.06361)][[slides](https://docs.google.com/presentation/d/1jrJrQ9Gfy8SGeoDjx2zRsQC7nEytwjVz/edit?slide=id.p39#slide=id.p39)]|
+| 07/21 | Tue 13:00 | 205 | Yuri Km<br>Youngseob&nbsp;Won | MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs[[Qixin Xiao et al., ICML 2026](https://arxiv.org/pdf/2602.01740)][[slides](https://docs.google.com/presentation/d/1iDEeTPrY4aLkmR2pDyOA5_O2O-vsmAVBcLFW2O-cBLg/edit?usp=sharing)]<br> Mixture of Prototypes for Test-time Adaptive Segmentation[[Guangrui Li et al., CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mixture_of_Prototypes_for_Test-time_Adaptive_Segmentation_CVPR_2026_paper.pdf)][[slides](https://docs.google.com/presentation/d/1gQ-lR-7BK3CeW4LVdPYJ_UkRo1MGS4Vs/edit?usp=sharing&ouid=100843900411159018523&rtpof=true&sd=true)]|
+| 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/04 | Tue 13:00 |  | KCCV 2026 | No Reading Group :book:|
+| 08/11 | Tue 13:00 | 211-1 | Inseong Park<br>Junho Kim | Harnessing the Universal Geometry of Embeddings[[Rishi Jha et al., NeurIPS 2025](https://arxiv.org/pdf/2505.12540)][[slides](https://docs.google.com/presentation/d/1swdGerk0yMUqFM6v-nvwdEdoDozFxMZH/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]<br>Learning to Theorize the World from Observation[[Doojin Baek et al., ICML 2026](https://arxiv.org/pdf/2605.03413)][[slides](https://docs.google.com/presentation/d/1YeRsMp_K0Q6NDcBhPISt4aVDLbluwnsg/edit?usp=sharing&ouid=110733918045108883246&rtpof=true&sd=true)]|
+| 08/18 | Tue 13:00 | 211-1 | Sooa Kim<br>Youngtae&nbsp;Kim | Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play[[Qinsi Wang et al., ICLR 2026](https://arxiv.org/pdf/2509.25541)][[slides](https://docs.google.com/presentation/d/1vhorL1XtHV8qXRjLJrFiVbeEONql7oMjyxbNLK_N09E/edit?usp=sharing)]<br>FlexSelect: Flexible Token Selection for Efficient Long Video Understanding[[Yunzhu Zhang et al., Neurips 2025](https://arxiv.org/pdf/2506.00993)][[slides](https://1drv.ms/p/c/10aff1fae2fdfd56/IQC1eqQnw409SY2BE1Ga-bgDAUj5E1zf0LEhpAwOGphDXVg?e=1ZdfI7)]|
+| 08/25 | Tue 13:00 | 211-1 | Jeongin&nbsp;Bae<br>Hyuntak Lee | Super Resolved Imaging with Adaptive Optics[[Robin Swanson et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Swanson_Super_Resolved_Imaging_with_Adaptive_Optics_ICCV_2025_paper.pdf)][[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/holyangod_office_khu_ac_kr/IQDTX68WZBBdQrsKWms9TZnLAaVCJTmcTOMgSDErqYNX5O0?e=eOvAON)]<br>Rethinking JEPA: Compute-Efficient Video SSL with Frozen Teachers[[Xianhang Li et al., ICLR 2026](https://arxiv.org/abs/2509.24317)][[slides](https://docs.google.com/presentation/d/1oPeJbr_jup9nwe2QIXnLrJazrk3XmuujdOvIo-Nwg6Y/edit?usp=sharing)]|
 
-Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
+### Group B:
+Please let  Donghyun Jeon (amuse_dh@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
 
-This Summer we will have Two presenters each week. Presentation duration is up to the presenter (as long as it does not go over an hour).
+Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
-| Date  | Group | Presenters        | Topic                         |
-|-------|:-----:|-------------------|-------------------------------|
-| 06/30 | A | Suyong Yun<br>Sunghun Kim  | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA<br>LATENT ACTION PRETRAINING FROM VIDEOS|
-| 07/03 | B |  | |
-| 07/07 | A | ICML 2026 | No Reading Group :book:|
-| 07/10 | B |  | |
-| 07/14 | A | EMNLP Rebuttal | No Reading Group :book:|
-| 07/17 | B |  | |
-| 07/21 | A | AAAI Deadline | No Reading Group :book:|
-| 07/24 | B |  | |
-| 07/28 | A | Neurips Rebuttal | No Reading Group :book:|
-| 07/31 | B |  | |
-| 08/04 | A | Neurips Rebuttal | No Reading Group :book:|
-| 08/07 | B |  | |
-| 08/11 | A | Minkuk Kim<br>Yuri Kim | |
-| 08/14 | B |  | |
-| 08/18 | A | Youngseob Won<br>Hyuntak Lee | |
-| 08/21 | B |  | |
-| 08/25 | A | Youngtae Kim<br>Sooa Kim | |
-| 08/28 | B |  | |
+| Date  | Time | Location | Presenters | Topic |
+|-------|:----:|:--------:|------------|-------|
+| 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
+| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)][[slides](https://docs.google.com/presentation/d/1kVLxLHacQuJPIwlrv23raN_sAbwTs6_f/edit?usp=sharing&ouid=114893771383473519593&rtpof=true&sd=true)]<br>Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)][[slides](https://docs.google.com/presentation/d/19zkAmPvoYe1XAaVEmKiQpyTIpOph5jc8/edit?usp=sharing&ouid=104100343257002523810&rtpof=true&sd=true)]|
+| 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
+| 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
+| 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim |next-scale autoregressive models for text-to-motion generation[[Zhiwei Zheng et al., CVPR2026](https://arxiv.org/pdf/2604.03799)][[slides](https://docs.google.com/presentation/d/1PbxO152Gz0hWWgyGcL9qeaVUKmukg45n6A9kb0LtLcc/edit?slide=id.p#slide=id.p)]<br>E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training[[Qitao Zhao et al., CVPR2026](https://arxiv.org/pdf/2512.10950)][[slides](https://docs.google.com/presentation/d/1DbSnGBgxKNydPJnC36hyZVK2pflzbdcM/edit?usp=sharing&ouid=105071767495621858558&rtpof=true&sd=true)] |
+| 08/19 | Wed 17:00 |  | Minsung&nbsp;Kim<br>Heewon&nbsp;Hong |Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator[[Hyojun Go et al., ICLR202](https://arxiv.org/pdf/2510.13454)][[slides](https://docs.google.com/presentation/d/133xYLDURjZlC8LMNR-fQRv2QsdwYyLgzKdc0pue1R2Y/edit)]<br>CHARM3R: Towards Unseen Camera Height Robust Monocular 3D Detector[[Abhinav Kumar et al., ICCV2025](https://arxiv.org/pdf/2508.11185)][[slides](https://docs.google.com/presentation/d/1YV9E8M7ZLxcVKtc1LVDILQZN7QnkNtw7PtkXF19BIVQ/edit?usp=sharing)] |
+| 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang |Fast Inference from Transformers via Speculative Decoding [[Yaniv Leviathan et al., ICML2023](https://arxiv.org/pdf/2211.17192)]<br>Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization [[Tao Yang et al.,NeurIPS2025](https://arxiv.org/pdf/2505.11217)] |
 
 
 
@@ -70,22 +72,23 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
 ### Group A
 * [AMI](http://ailab.khu.ac.kr/)
   - Ph.D. student : Enki Cho / Yong Hyun Ahn / Minkuk Kim / Hyeonbae Kim / Youngtae Kim
-  - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song
+  - M.S. student :  Kayoung Kim / Youngseob Won / Suyoung Yun / Inseong Park / Yeseul Lee / Jeongin Bae / Chiyoung Song /
+  - UG student : Hyeoksu Hwang
 * [VLL](https://vll.khu.ac.kr/index.html)
   - M.S. student : Yuri Kim / Wooil Lee / Jiwook Han / Sunghun Kim 
   - UG student : Junpyo Hong / Hyuntak Lee / Chanyoung Roh / Sooa Kim / Junho Kim / Taesoo Park
 ### Group B
 * [ENC lab](https://mlvc.khu.ac.kr/home)
   - Ph.D. student : Sung Oh / Jongkyung Im / Donghoon Kim / Taegoo Kang
-  - M.S. student : Euijin Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim
-  - UG student : Jiho Lee / Jihye Kim / Minseko chae
+  - M.S. student : Euijune Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim / Junghun Kim
+  - UG student : Jiho Lee / Kyusang Jang
 * [VAI](https://visualai.khu.ac.kr/)
   - Ph.D. student : Subin Park
   - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
-  - UG student : Haesoo Jung / Hyeok Seung Lee / Minseo Kang / JangHo Park 
+  - UG student : Haesoo Jung / Minseo Kang / Sungjin Um
 * [VSLab](https://vslab.khu.ac.kr/)
-  - M.S. student : Youngbin Kim / Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Youngkwan Cho / Junhee Lee / Suyeon Kim
-  - UG student : Chanse Oh / Yonghyun Gwon / Hayoung Lee / Junhee Park / Jeon Donghyeon / Junseok Yu
+  - M.S. student : Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Junhee Lee / Suyeon Kim / Donghyeon Jeon
+  - UG student : Hayoung Lee / Junhee Park / Junseok Yu
 
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
@@ -93,6 +96,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - \[ENC lab] M.S. : Junghun Cha / Taegoo Kang / Subin Yang / Myeongjun Oh / UG : Junseok Yang
   - \[VAI] M.S. : Seungho Shin / Jiyoung Park 
   - \[VLL] M.S. : Dongho Lee / Jongmin Shin / Hyogun Lee / Kyungho Bae / Jongseo Lee / Geo Ahn / Soyeon Hong  UG : Joohyun Chang
+  - \[VSLab] M.S. : Youngbin Kim / 
 
 
 
@@ -147,7 +151,7 @@ The presenters' order is generated from the presenters' list in a FIFO manner (b
 
 
 #### What should I do if I can not present at the scheduled time?
-Contact other presenters to see if they are willing to swap dates with you. Let the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) know about your situation.
+Contact other presenters to see if they are willing to swap dates with you. Let your group organizer know about your situation — Group A: Inseong Park (dlstjd2410 -at- khu -dot- ac -dot- kr), Group B: Donghyun Jeon (dhjeon0320 -at- gmail -dot- com).
 
 
 
@@ -156,7 +160,7 @@ Contact other presenters to see if they are willing to swap dates with you. Let 
 #### How it works?
 We are a group that meets about once a week to discuss one to two relevant papers. For every meeting, two people will be in charge of selecting the paper(s) for that meeting, thoroughly understanding the work, and leading the discussion (either informally or via a presentation, whatever the leader thinks is best). The rest of the members will read over the paper(s) beforehand to gain a basic idea of the work. Then, on the day of the meeting, we will discuss the strengths, weaknesses, and techniques of the paper(s).
 
-**NOTE:** Please tell the group organizer Wooil Lee (lwi2765 -at- khu -dot- ac -dot- kr) which paper(s) you are going to present, and summarize the paper/talk in several sentences, before the **Thrusday** of that week.
+**NOTE:** Please tell your group organizer — Group A: Inseong Park (dlstjd2410 -at- khu -dot- ac -dot- kr), Group B: Donghyun Jeon (dhjeon0320 -at- gmail -dot- com) — which paper(s) you are going to present, and summarize the paper/talk in several sentences, by the deadline listed for your group in the [Current Schedule](#current-schedule).
 
 #### What we read?
 We will be reading papers appearing in the leading computer vision conferences (e.g., CVPR, ICCV, ECCV, SIGGRAPH, SIGGRAPH Asia) and machine learning conferences (e.g., NeurIPS, ICML, ICLR), and other AI conferences (e.g., MICCAI, ACL, EMNLP, NAACL, UAI, AAAI, IJCAI, AISTATS). Members are free to choose which paper(s) they will present (we can also provide suggestions), thus the specific topics will vary based on the members' interests.
