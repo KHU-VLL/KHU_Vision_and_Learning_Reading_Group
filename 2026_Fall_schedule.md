@@ -39,21 +39,21 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 09/01 | Tue 18:30 |  |  | |
 | 09/08 | Tue 18:30 |  |  | |
 | 09/15 | Tue 18:30 |  |  | |
-| 09/22 | Tue 18:30 | - | ICLR 2027 submission | No Reading Group :book:|
+| 09/22 | Tue 18:30 | - | ICLR 2027 Deadline | No Reading Group :book:|
 | 09/29 | Tue 18:30 |  |  | |
 | 10/06 | Tue 18:30 |  |  | |
-| 10/13 | Tue 18:30 | - | - | No Reading Group :book:|
-| 10/20 | Tue 18:30 | - | - | No Reading Group :book:|
+| 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
+| 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 rebuttal | No Reading Group :book:|
 | 10/27 | Tue 18:30 |  |  | |
 | 11/03 | Tue 18:30 |  |  | |
-| 11/10 | Tue 18:30 | - |  | No Reading Group :book:|
-| 11/17 | Tue 18:30 | - |  | No Reading Group :book:|
+| 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
+| 11/17 | Tue 18:30 | - | ICLR 2027 rebuttal | No Reading Group :book:|
 | 11/24 | Tue 18:30 |  |  | |
 | 12/01 | Tue 18:30 |  |  | |
-| 12/08 | Tue 18:30 | - |  | No Reading Group :book:|
-| 12/15 | Tue 18:30 | - |  | No Reading Group :book:|
-| 12/22 | Tue 18:30 | - |  | No Reading Group :book:|
-| 12/29 | Tue 18:30 | - |  | No Reading Group :book:|
+| 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
+| 12/15 | Tue 18:30 | - | Final | No Reading Group :book:|
+| 12/22 | Tue 18:30 | - | - | No Reading Group :book:|
+| 12/29 | Tue 18:30 | - | - | No Reading Group :book:|
 
 ### Group B:
 Please let  Donghyun Jeon (amuse_dh@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
