@@ -43,11 +43,11 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 09/29 | Tue 18:30 |  |  | |
 | 10/06 | Tue 18:30 |  |  | |
 | 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
-| 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 rebuttal | No Reading Group :book:|
+| 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
 | 10/27 | Tue 18:30 |  |  | |
 | 11/03 | Tue 18:30 |  |  | |
 | 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
-| 11/17 | Tue 18:30 | - | ICLR 2027 rebuttal | No Reading Group :book:|
+| 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
 | 11/24 | Tue 18:30 |  |  | |
 | 12/01 | Tue 18:30 |  |  | |
 | 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
