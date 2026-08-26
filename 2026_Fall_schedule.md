@@ -42,7 +42,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 09/22 | - | - | - | No Reading Group :book:|
 | 09/29 | Tue 18:30 |  |  | |
 | 10/06 | Tue 18:30 |  |  | |
-| 10/13 | - | - | - | No Reading Group :book:|
+| 10/13 | No Reading Group :book:|
 | 10/20 | - | - | - | No Reading Group :book:|
 | 10/27 | Tue 18:30 |  |  | |
 | 11/03 | Tue 18:30 |  |  | |
