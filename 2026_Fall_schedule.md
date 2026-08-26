@@ -1,7 +1,7 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Group A: Wednesday 18:00
+- Group A: Tuesday 18:30
 - Group B: Wednesday 17:00
 
 Location 
@@ -36,24 +36,24 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|--------------|-------|
-| 09/02 | Wed 18:00 |  |  | |
-| 09/09 | Wed 18:00 |  |  | |
-| 09/16 | Wed 18:00 |  |  | |
-| 09/23 | Wed 18:00 |  |  | No Reading Group :book:|
-| 09/30 | Wed 18:00 |  |  | |
-| 10/07 | Wed 18:00 |  |  | |
-| 10/14 | Wed 18:00 |  |  | No Reading Group :book:|
-| 10/21 | Wed 18:00 |  |  | No Reading Group :book:|
-| 10/28 | Wed 18:00 |  |  | |
-| 11/04 | Wed 18:00 |  |  | |
-| 11/11 | Wed 18:00 |  |  | No Reading Group :book:|
-| 11/18 | Wed 18:00 |  |  | No Reading Group :book:|
-| 11/25 | Wed 18:00 |  |  | |
-| 12/02 | Wed 18:00 |  |  | |
-| 12/09 | Wed 18:00 |  |  | No Reading Group :book:|
-| 12/16 | Wed 18:00 |  |  | No Reading Group :book:|
-| 12/23 | Wed 18:00 |  |  | |
-| 12/30 | Wed 18:00 |  |  | |
+| 09/01 | Tue 18:30 |  |  | |
+| 09/08 | Tue 18:30 |  |  | |
+| 09/15 | Tue 18:30 |  |  | |
+| 09/22 | - | - | - | No Reading Group :book:|
+| 09/29 | Tue 18:30 |  |  | |
+| 10/06 | Tue 18:30 |  |  | |
+| 10/13 | - | - | - | No Reading Group :book:|
+| 10/20 | - | - | - | No Reading Group :book:|
+| 10/27 | Tue 18:30 |  |  | |
+| 11/03 | Tue 18:30 |  |  | |
+| 11/10 | Tue 18:30 |  |  | No Reading Group :book:|
+| 11/17 | Tue 18:30 |  |  | No Reading Group :book:|
+| 11/24 | Tue 18:30 |  |  | |
+| 12/01 | Tue 18:30 |  |  | |
+| 12/08 | - |  |  | No Reading Group :book:|
+| 12/15 | - |  |  | No Reading Group :book:|
+| 12/22 | - |  |  | No Reading Group :book:|
+| 12/29 | - |  |  | No Reading Group :book:|
 
 ### Group B:
 Please let  Donghyun Jeon (amuse_dh@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
