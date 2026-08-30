@@ -1,8 +1,8 @@
 # KHU Vision and Learning Reading Group <img src="KHU_UI.png" width="160" style="margin:40px; padding: 10px;" align="right">
 
 Time
-- Group A: Tuesday 13:00
-- Group B: Wednesday 17:00
+- Group A: Tuesday 18:30
+- Group B: 
 
 Location 
 - 211-1 Electronic Information College Building
@@ -36,15 +36,24 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|--------------|-------|
-| 06/30 | Tue 13:00 | 136 | Suyong&nbsp;Yun<br>Sunghun&nbsp;Kim | ReQuest: Rethinking-based Question-Aware Frame Selection for Long-Form Video QA[[Minkuk Kim et al., ECCV 2026](https://arxiv.org/pdf/2607.01737)][[slides](https://1drv.ms/p/c/49583fe94a9e8587/IQBMhMXcf1tuS7rXWwstm4s_AUaw7EKyhOcYn3TLRRGQ83c?e=l4oIhp)]<br>Latent Action Pretraining from Videos[[Seonghyeon Ye et al., ICLR 2025](https://arxiv.org/pdf/2410.11758)][[slides](https://docs.google.com/presentation/d/1qvl2DgsKK1jBFY1aUltMCFl0jTowDygQ/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
-| 07/07 | Tue 13:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/14 | Tue 13:00 | 211-1 | Minkuk Kim<br>Chanyoung&nbsp;Roh | Training-free Uncertainty Guidance for Complex Visual Tasks with MLLMs[[Sanghwan Kim et al., ECCV 2026](https://arxiv.org/pdf/2510.00705)][[slides](https://docs.google.com/presentation/d/16Fr19-eH7rF9jfxhUkas4G4SxhxAAUSbiAqDLvn0sBE/edit?usp=sharing)]<br>Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them [[Woojung Han et al., ICML 2026](https://arxiv.org/pdf/2606.06361)][[slides](https://docs.google.com/presentation/d/1jrJrQ9Gfy8SGeoDjx2zRsQC7nEytwjVz/edit?slide=id.p39#slide=id.p39)]|
-| 07/21 | Tue 13:00 | 205 | Yuri Km<br>Youngseob&nbsp;Won | MACD: Model-Aware Contrastive Decoding via Counterfactual Data for Video-LLMs[[Qixin Xiao et al., ICML 2026](https://arxiv.org/pdf/2602.01740)][[slides](https://docs.google.com/presentation/d/1iDEeTPrY4aLkmR2pDyOA5_O2O-vsmAVBcLFW2O-cBLg/edit?usp=sharing)]<br> Mixture of Prototypes for Test-time Adaptive Segmentation[[Guangrui Li et al., CVPR 2026](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Mixture_of_Prototypes_for_Test-time_Adaptive_Segmentation_CVPR_2026_paper.pdf)][[slides](https://docs.google.com/presentation/d/1gQ-lR-7BK3CeW4LVdPYJ_UkRo1MGS4Vs/edit?usp=sharing&ouid=100843900411159018523&rtpof=true&sd=true)]|
-| 07/28 | Tue 13:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/04 | Tue 13:00 |  | KCCV 2026 | No Reading Group :book:|
-| 08/11 | Tue 13:00 | 211-1 | Inseong Park<br>Junho Kim | Harnessing the Universal Geometry of Embeddings[[Rishi Jha et al., NeurIPS 2025](https://arxiv.org/pdf/2505.12540)][[slides](https://docs.google.com/presentation/d/1swdGerk0yMUqFM6v-nvwdEdoDozFxMZH/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]<br>Learning to Theorize the World from Observation[[Doojin Baek et al., ICML 2026](https://arxiv.org/pdf/2605.03413)][[slides](https://docs.google.com/presentation/d/1YeRsMp_K0Q6NDcBhPISt4aVDLbluwnsg/edit?usp=sharing&ouid=110733918045108883246&rtpof=true&sd=true)]|
-| 08/18 | Tue 13:00 | 211-1 | Sooa Kim<br>Youngtae&nbsp;Kim | Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play[[Qinsi Wang et al., ICLR 2026](https://arxiv.org/pdf/2509.25541)][[slides](https://docs.google.com/presentation/d/1vhorL1XtHV8qXRjLJrFiVbeEONql7oMjyxbNLK_N09E/edit?usp=sharing)]<br>FlexSelect: Flexible Token Selection for Efficient Long Video Understanding[[Yunzhu Zhang et al., Neurips 2025](https://arxiv.org/pdf/2506.00993)][[slides](https://1drv.ms/p/c/10aff1fae2fdfd56/IQC1eqQnw409SY2BE1Ga-bgDAUj5E1zf0LEhpAwOGphDXVg?e=1ZdfI7)]|
-| 08/25 | Tue 13:00 | 211-1 | Jeongin&nbsp;Bae<br>Hyuntak Lee | Super Resolved Imaging with Adaptive Optics[[Robin Swanson et al., ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Swanson_Super_Resolved_Imaging_with_Adaptive_Optics_ICCV_2025_paper.pdf)][[slides](https://o365khu-my.sharepoint.com/:p:/g/personal/holyangod_office_khu_ac_kr/IQDTX68WZBBdQrsKWms9TZnLAaVCJTmcTOMgSDErqYNX5O0?e=eOvAON)]<br>Rethinking JEPA: Compute-Efficient Video SSL with Frozen Teachers[[Xianhang Li et al., ICLR 2026](https://arxiv.org/abs/2509.24317)][[slides](https://docs.google.com/presentation/d/1oPeJbr_jup9nwe2QIXnLrJazrk3XmuujdOvIo-Nwg6Y/edit?usp=sharing)]|
+| 09/01 | Tue 18:30 | 205 | Taesoo&nbsp;Park | |
+| 09/08 | Tue 18:30 | 205 | Enki&nbsp;Cho | |
+| 09/15 | Tue 18:30 | 211-1 | Jiwook&nbsp;Han | |
+| 09/22 | Tue 18:30 | - | ICLR 2027 Deadline | No Reading Group :book:|
+| 09/29 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | |
+| 10/06 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee  | |
+| 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
+| 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
+| 10/27 | Tue 18:30 | 211-1 | Hyeonbae&nbsp;Kim  | |
+| 11/03 | Tue 18:30 | 211-1 | Junpyo&nbsp;Hong | |
+| 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
+| 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
+| 11/24 | Tue 18:30 | 211-1 | Yong&nbsp;Hyun&nbsp;Ahn | |
+| 12/01 | Tue 18:30 | 211-1 | Sunghun&nbsp;Kim | |
+| 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
+| 12/15 | Tue 18:30 | - | Final | No Reading Group :book:|
+| 12/22 | Tue 18:30 | - | - | No Reading Group :book:|
+| 12/29 | Tue 18:30 | - | - | No Reading Group :book:|
 
 ### Group B:
 Please let  Donghyun Jeon (amuse_dh@khu.ac.kr) know what paper you are going to present, and **please** provide (name and year) of the conference the paper was accepted and summary by **Sunday 11:59pm** before your presentation.
@@ -53,14 +62,13 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
-| 07/08 | Wed 17:00 |  | ICML 2026 | No Reading Group :book:|
-| 07/15 | Wed 17:00 | 211-1 | Hayoung&nbsp;Lee<br>Minseok&nbsp;Ji |Weakly Supervised Video Anomaly Detection with Anomaly-Connected Components and Intention Reasoning [[Yu Wang and Shengjie Zhao, CVPR2026](https://arxiv.org/pdf/2603.00550)][[slides](https://docs.google.com/presentation/d/1kVLxLHacQuJPIwlrv23raN_sAbwTs6_f/edit?usp=sharing&ouid=114893771383473519593&rtpof=true&sd=true)]<br>Bridging the Perception Gap in Image Super-Resolution Evaluation[[Shaolin Su et al., CVPR2026](https://arxiv.org/pdf/2503.13074)][[slides](https://docs.google.com/presentation/d/19zkAmPvoYe1XAaVEmKiQpyTIpOph5jc8/edit?usp=sharing&ouid=104100343257002523810&rtpof=true&sd=true)]|
-| 07/22 | Wed 17:00 |  | AAAI Deadline | No Reading Group :book:|
-| 07/29 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/05 | Wed 17:00 |  | Neurips Rebuttal | No Reading Group :book:|
-| 08/12 | Wed 17:00 |  | Yerim&nbsp;Jang<br>Seungjae&nbsp;Kim |next-scale autoregressive models for text-to-motion generation[[Zhiwei Zheng et al., CVPR2026](https://arxiv.org/pdf/2604.03799)][[slides](https://docs.google.com/presentation/d/1PbxO152Gz0hWWgyGcL9qeaVUKmukg45n6A9kb0LtLcc/edit?slide=id.p#slide=id.p)]<br>E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training[[Qitao Zhao et al., CVPR2026](https://arxiv.org/pdf/2512.10950)][[slides](https://docs.google.com/presentation/d/1DbSnGBgxKNydPJnC36hyZVK2pflzbdcM/edit?usp=sharing&ouid=105071767495621858558&rtpof=true&sd=true)] |
-| 08/19 | Wed 17:00 |  | Minsung&nbsp;Kim<br>Heewon&nbsp;Hong |Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator[[Hyojun Go et al., ICLR202](https://arxiv.org/pdf/2510.13454)][[slides](https://docs.google.com/presentation/d/133xYLDURjZlC8LMNR-fQRv2QsdwYyLgzKdc0pue1R2Y/edit)]<br>CHARM3R: Towards Unseen Camera Height Robust Monocular 3D Detector[[Abhinav Kumar et al., ICCV2025](https://arxiv.org/pdf/2508.11185)][[slides](https://docs.google.com/presentation/d/1YV9E8M7ZLxcVKtc1LVDILQZN7QnkNtw7PtkXF19BIVQ/edit?usp=sharing)] |
-| 08/26 | Wed 17:00 |  | Seongjin&nbsp;Eom<br>Minseo&nbsp;Kang |Fast Inference from Transformers via Speculative Decoding [[Yaniv Leviathan et al., ICML2023](https://arxiv.org/pdf/2211.17192)][[slides](https://docs.google.com/presentation/d/1uHPvTZx1vtfnvWBHX6HScxGfKuMyOcL8/edit?usp=sharing&ouid=110645799723884709981&rtpof=true&sd=true)]<br>Seeing Sound, Hearing Sight: Uncovering Modality Bias and Conflict of AI models in Sound Localization [[Tao Yang et al.,NeurIPS2025](https://arxiv.org/pdf/2505.11217)][[slides](https://docs.google.com/presentation/d/1wrAseRhKvN5UTTLzmDc0aPvRYJ_2FG4tjpn6AUzlJkg/edit?usp=sharing)] |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+
 
 
 
