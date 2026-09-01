@@ -37,7 +37,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|--------------|-------|
 | 09/01 | Tue 18:30 | 211-2 | Taesoo&nbsp;Park | Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training[[Junlin Han et al., ICLR 2026](https://arxiv.org/abs/2509.26625)][[slides](https://docs.google.com/presentation/d/1_gjDInHJkHl1h56vDjxCGRa0VVC4MuOkea3cIiHHgnA/edit?usp=sharing)]|
-| 09/08 | Tue 18:30 | 205 | Enki&nbsp;Cho | |
+| 09/08 | Tue 18:30 | 211-2 | Enki&nbsp;Cho | |
 | 09/15 | Tue 18:30 | 211-1 | Jiwook&nbsp;Han | |
 | 09/22 | Tue 18:30 | - | ICLR 2027 Deadline | No Reading Group :book:|
 | 09/29 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | |
