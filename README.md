@@ -97,9 +97,9 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - M.S. student : Euijune Lee / Junghyun Lee / Soohyun Lee / Gibeom Kim / Gyuseong Lee / Seongjin Eom / Minseok Ji / Minsung Kim / Junghun Kim
   - UG student : Jiho Lee / Kyusang Jang
 * [VAI](https://visualai.khu.ac.kr/)
-  - Ph.D. student : Subin Park
-  - M.S. student :  Yueun Lee / Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
-  - UG student : Haesoo Jung / Minseo Kang / Sungjin Um
+  - Ph.D. student : Subin Park / Yueun Lee
+  - M.S. student : Chan Lee / Inje Oh / Suyoung Choi / Soyeon Lee / Kanghyun Lee / Junyoung Jung / Seokwon Kim / Yerim Jang / Minsoo Kim / Heewon Hong
+  - UG student : Haesoo Jung / Minseo Kang / Sungjin Um / Minsu Kang
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Junhee Lee / Suyeon Kim / Donghyeon Jeon
   - UG student : Hayoung Lee / Junhee Park / Junseok Yu
