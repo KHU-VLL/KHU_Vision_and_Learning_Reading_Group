@@ -62,21 +62,21 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 
 | Date  | Time | Location | Presenters | Topic |
 |-------|:----:|:--------:|------------|-------|
-| 09/08 | Tue 18:30 | - | ECCV 2026 | No Reading Group :book:|
-| 09/15 | Tue 18:30 | 211-2 | Donghyeon&nbsp;Jeon | FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers[[Haisheng Su et al., ICCV2025](https://arxiv.org/pdf/2510.15385)][[slides](https://docs.google.com/presentation/d/1IhlhbSTLz4fqRNS9E8_ALuv9fDZDUXSD/edit?usp=sharing&ouid=117103868352502446707&rtpof=true&sd=true)] |
-| 09/22 | Tue 18:30 | - | ICLR 2027 Deadline | No Reading Group :book:|
-| 09/29 | Tue 18:30 | 211-2 | Soohyun&nbsp;Lee | |
-| 10/06 | Tue 18:30 | - | Haesoo&nbsp;Jung | |
-| 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
-| 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
-| 10/27 | Tue 18:30 | - | Junhee&nbsp;Park | |
-| 11/03 | Tue 18:30 | - | Junghyun&nbsp;Lee | |
-| 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
-| 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
-| 11/24 | Tue 18:30 | - | Chan&nbsp;Lee | |
-| 12/01 | Tue 18:30 | - | Suyeon&nbsp;Kim | |
-| 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
-| 12/15 | Tue 18:30 | - | Final | No Reading Group :book:|
+| 09/08 | Tue 19:00 | - | ECCV 2026 | No Reading Group :book:|
+| 09/15 | Tue 19:00 | 211-2 | Donghyeon&nbsp;Jeon | FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers[[Haisheng Su et al., ICCV2025](https://arxiv.org/pdf/2510.15385)][[slides](https://docs.google.com/presentation/d/1IhlhbSTLz4fqRNS9E8_ALuv9fDZDUXSD/edit?usp=sharing&ouid=117103868352502446707&rtpof=true&sd=true)] |
+| 09/22 | Tue 19:00 | - | ICLR 2027 Deadline | No Reading Group :book:|
+| 09/29 | Tue 19:00 | 211-2 | Soohyun&nbsp;Lee | |
+| 10/06 | Tue 19:00 | - | Haesoo&nbsp;Jung | |
+| 10/13 | Tue 19:00 | - | Midterm | No Reading Group :book:|
+| 10/20 | Tue 19:00 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
+| 10/27 | Tue 19:00 | - | Junhee&nbsp;Park | |
+| 11/03 | Tue 19:00 | - | Junghyun&nbsp;Lee | |
+| 11/10 | Tue 19:00 | - | CVPR 2027 Deadline | No Reading Group :book:|
+| 11/17 | Tue 19:00 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
+| 11/24 | Tue 19:00 | - | Chan&nbsp;Lee | |
+| 12/01 | Tue 19:00 | - | Suyeon&nbsp;Kim | |
+| 12/08 | Tue 19:00 | - | Final | No Reading Group :book:|
+| 12/15 | Tue 19:00 | - | Final | No Reading Group :book:|
 
 ## Mailing List
 
