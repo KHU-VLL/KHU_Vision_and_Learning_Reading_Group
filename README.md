@@ -65,7 +65,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 09/08 | Tue 19:00 | - | ECCV 2026 | No Reading Group :book:|
 | 09/15 | Tue 19:00 | 211-2 | Donghyeon&nbsp;Jeon | FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers[[Haisheng Su et al., ICCV2025](https://arxiv.org/pdf/2510.15385)][[slides](https://docs.google.com/presentation/d/1_8GBSz4sb2shb4RTB_RbmJ87rbbKO4jA/edit?usp=sharing&ouid=117103868352502446707&rtpof=true&sd=true)] |
 | 09/22 | Tue 19:00 | - | ICLR 2027 Deadline | No Reading Group :book:|
-| 09/29 | Tue 19:00 | 211-2 | Soohyun&nbsp;Lee | |
+| 09/29 | Tue 19:00 | 211-2 | Soohyun&nbsp;Lee |StreamVGGT : Streaming 4D Visual Geometry Transformer[[Dong Zhuo et al., ICLR 2026](https://arxiv.org/pdf/2507.11539)][[slides](https://docs.google.com/presentation/d/1aFLMvDqPnaIyfiiw0Au1zpu875fHeVvzqCKZDHYpkZM/edit?usp=sharing)] |
 | 10/06 | Tue 19:00 | - | Haesoo&nbsp;Jung | |
 | 10/13 | Tue 19:00 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 19:00 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
