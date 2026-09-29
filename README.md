@@ -40,16 +40,16 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 09/08 | Tue 18:30 | - | ECCV 2026 | No Reading Group :book:|
 | 09/15 | Tue 18:30 | 211-1 | Enki&nbsp;Cho | MemoryVLA: Perceptual-Cognitive Memory in Vision-Language-Action Models for Robotic Manipulation[[Hao Shi et al., ICLR 2026](https://arxiv.org/abs/2508.19236)][[slides](https://docs.google.com/presentation/d/15i_AS9L3W_s48XiM2TFqgHKlgbSd_QWn3l_4XK2rJB8/edit?usp=sharing)]|
 | 09/22 | Tue 18:30 | - | ICLR 2027 Deadline | No Reading Group :book:|
-| 09/29 | Tue 18:30 | 211-1 | Jiwook&nbsp;Han | MindCube: Spatial Mental Modeling from Limited Views[[Qineng Wang et al., ICLR 2026](https://arxiv.org/pdf/2506.21458)]|
-| 10/06 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | |
+| 09/29 | Tue 18:30 | 211-1 | Campus Event | No Reading Group :book:|
+| 10/06 | Tue 18:30 | 211-1 | Jiwook&nbsp;Han | MindCube: Spatial Mental Modeling from Limited Views[[Qineng Wang et al., ICLR 2026](https://arxiv.org/pdf/2506.21458)]|
 | 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
-| 10/27 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee | |
-| 11/03 | Tue 18:30 | 211-1 | Hyeonbae&nbsp;Kim | |
+| 10/27 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | |
+| 11/03 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee | |
 | 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
-| 11/24 | Tue 18:30 | 211-1 | Junpyo&nbsp;Hong | |
-| 12/01 | Tue 18:30 | 211-1 | Yong&nbsp;Hyun&nbsp;Ahn | |
+| 11/24 | Tue 18:30 | 211-1 | Hyeonbae&nbsp;Kim | |
+| 12/01 | Tue 18:30 | 211-1 | Junpyo&nbsp;Hong | |
 | 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
 | 12/15 | Tue 18:30 | - | Final | No Reading Group :book:|
 | 12/22 | Tue 18:30 | - | - | No Reading Group :book:|
