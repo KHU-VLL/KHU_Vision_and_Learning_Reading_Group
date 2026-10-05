@@ -66,7 +66,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 09/15 | Tue 19:00 | 211-2 | Donghyeon&nbsp;Jeon | FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers[[Haisheng Su et al., ICCV2025](https://arxiv.org/pdf/2510.15385)][[slides](https://docs.google.com/presentation/d/1_8GBSz4sb2shb4RTB_RbmJ87rbbKO4jA/edit?usp=sharing&ouid=117103868352502446707&rtpof=true&sd=true)] |
 | 09/22 | Tue 19:00 | - | ICLR 2027 Deadline | No Reading Group :book:|
 | 09/29 | Tue 19:00 | 211-2 | Soohyun&nbsp;Lee |StreamVGGT : Streaming 4D Visual Geometry Transformer[[Dong Zhuo et al., ICLR 2026](https://arxiv.org/pdf/2507.11539)][[slides](https://docs.google.com/presentation/d/1aFLMvDqPnaIyfiiw0Au1zpu875fHeVvzqCKZDHYpkZM/edit?usp=sharing)] |
-| 10/06 | Tue 19:00 | - | Haesoo&nbsp;Jung | |
+| 10/06 | Tue 19:00 | - | Haesoo&nbsp;Jung |KiVA: Kid-inspired Visual Analogies for Testing Large Multimodal Models[[Eunice Yiu et al., ICLR 2025](https://arxiv.org/pdf/2407.17773)][[slides](https://docs.google.com/presentation/d/1T3j9BQntXtYN1V03W8f6lrbDVwbBdUF-/edit?usp=sharing&ouid=109132351811971398261&rtpof=true&sd=true)] |
 | 10/13 | Tue 19:00 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 19:00 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
 | 10/27 | Tue 19:00 | - | Junhee&nbsp;Park | |
