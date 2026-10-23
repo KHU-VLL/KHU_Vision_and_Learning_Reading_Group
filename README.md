@@ -44,7 +44,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 10/06 | Tue 18:30 | 211-1 | Jiwook&nbsp;Han | MindCube: Spatial Mental Modeling from Limited Views[[Qineng Wang et al., ICLR 2026](https://arxiv.org/pdf/2506.21458)][[slides](https://docs.google.com/presentation/d/1iuX3DCl2x7odG8r8kSUvwvF_qzdEKPdVD24TXeOjfwo/edit?usp=sharing)]|
 | 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
-| 10/27 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | |
+| 10/27 | Tue 18:30 | 211-1 | Yeseul&nbsp;Lee | PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning[[Yushi Feng et al., AAAI 2026](https://arxiv.org/pdf/2508.10501)]|
 | 11/03 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee | |
 | 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
