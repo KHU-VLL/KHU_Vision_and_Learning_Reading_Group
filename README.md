@@ -45,7 +45,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 10/13 | Tue 18:30 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 18:30 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
 | 10/27 | Tue 18:30 | Online | Yeseul&nbsp;Lee | PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning[[Yushi Feng et al., AAAI 2026](https://arxiv.org/pdf/2508.10501)][[slides](https://docs.google.com/presentation/d/1spUw3BJqJomD3sNuZsr5ybF52lhxv_Ze1n76j7E8Eis/edit?usp=sharing)]|
-| 11/03 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee | |
+| 11/03 | Tue 18:30 | 309 | Wooil&nbsp;Lee | |
 | 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
 | 11/24 | Tue 18:30 | 211-1 | Hyeonbae&nbsp;Kim | |
