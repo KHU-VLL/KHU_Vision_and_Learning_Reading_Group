@@ -70,7 +70,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 10/13 | Tue 19:00 | - | Midterm | No Reading Group :book:|
 | 10/20 | Tue 19:00 | - | Midterm, AAAI 2027 Rebuttal | No Reading Group :book:|
 | 10/27 | Tue 19:00 | - | Junhee&nbsp;Park |Refersplat: Referring segmentation in 3d gaussian splatting[[He, Shuting, et al., ICML 2025](https://arxiv.org/pdf/2508.08252)][[slides](https://docs.google.com/presentation/d/1CKQiA-RjxRg0IhyewlxCx14Y4Qtbhk9Q/edit?usp=sharing&ouid=112011884492367118991&rtpof=true&sd=true)]  |
-| 11/03 | Tue 19:00 | - | Junghyun&nbsp;Lee | |
+| 11/03 | Tue 19:00 | - | Junghyun&nbsp;Lee |What to align in multimodal contrastive learning?[[Benoit Dufumier et al., ICLR 2025](https://arxiv.org/pdf/2409.07402)][[slides](https://docs.google.com/presentation/d/1dT2PZu9Zajhn3OG_8lgO08rQ2F5h3GWQ/edit?rtpof=true&sd=true)] |
 | 11/10 | Tue 19:00 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 19:00 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
 | 11/24 | Tue 19:00 | - | Chan&nbsp;Lee | |
