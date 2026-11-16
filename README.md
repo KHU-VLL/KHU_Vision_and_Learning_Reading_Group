@@ -74,7 +74,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 11/10 | Tue 19:00 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 19:00 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
 | 11/24 | Tue 19:00 | - | Chan&nbsp;Lee | |
-| 12/01 | Tue 19:00 | - | Suyeon&nbsp;Kim | |
+| 12/01 | Tue 19:00 | - | Hangjun&nbsp;Jo | |
 | 12/08 | Tue 19:00 | - | Final | No Reading Group :book:|
 | 12/15 | Tue 19:00 | - | Final | No Reading Group :book:|
 
@@ -102,7 +102,7 @@ We use Google Groups to manage the mailing list: [(link)](https://groups.google.
   - UG student : Haesoo Jung / Minseo Kang / Sungjin Um / Minsu Kang
 * [VSLab](https://vslab.khu.ac.kr/)
   - M.S. student : Taeyeong Kim / Myoungchul Kim / Kunho Heo / Seungjae Kim / Wongyu Lee / Junhee Lee / Suyeon Kim / Donghyeon Jeon
-  - UG student : Hayoung Lee / Junhee Park / Junseok Yu
+  - UG student : Hayoung Lee / Junhee Park / Junseok Yu / ChaeGyeong Lee / JaeWon Park / Hangjun Jo / Sejin Jo
 
 * Alumni
   - \[AGI] M.S. : Ahyung Shin / Sunghoon Lee / Jaeho Lee / Juwon Seo / Jun-Yeong Moon / Keonhee Park /  Seun-An Choe / Min-Yeong Park / Taeyoung Lee / Min-Jae Kim / UG : Won-Jeong Lee / Habin Lim / Jihyun Park / Taekyun Yoo
