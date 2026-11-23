@@ -48,7 +48,7 @@ Moreover, send the **presentation slides link** on  **Monday 11:59pm**.
 | 11/03 | Tue 18:30 | 211-1 | Wooil&nbsp;Lee | Transferability Between Understanding and Generation in Unified Multimodal Models[[Jiwon Kang et al., ECCV 2026](https://arxiv.org/pdf/2607.04423)][[slides](https://docs.google.com/presentation/d/1r7dGjwwj6_x5ls5YMNdUM8u312-lIPvWLOUEGXnKuEA/edit?slide=id.h26f886a7fb8d4e65_3_23#slide=id.h26f886a7fb8d4e65_3_23)]|
 | 11/10 | Tue 18:30 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 18:30 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
-| 11/24 | Tue 18:30 | 309 | Yong&nbsp;Hyun&nbsp;Ahn | Interpreting Physics in Video World Models [[Sonia Joseph et al., ICML 2026](https://arxiv.org/pdf/2602.07050)]|
+| 11/24 | Tue 18:30 | 309 | Yong&nbsp;Hyun&nbsp;Ahn | Interpreting Physics in Video World Models [[Sonia Joseph et al., ICML 2026](https://arxiv.org/pdf/2602.07050)][[slides](https://docs.google.com/presentation/d/16qoTWKt6ZNI6bugRhGN5-Nj4rEcuLSO-/edit?usp=sharing&ouid=110885157080048995296&rtpof=true&sd=true)]|
 | 12/01 | Tue 18:30 | 211-1 | Junpyo&nbsp;Hong | |
 | 12/08 | Tue 18:30 | - | Final | No Reading Group :book:|
 | 12/15 | Tue 18:30 | - | Final | No Reading Group :book:|
