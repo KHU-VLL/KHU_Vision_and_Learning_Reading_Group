@@ -73,8 +73,7 @@ Moreover, send the **presentation slides link** on  **Tuesday 11:59pm**.
 | 11/03 | Tue 19:00 | - | Junghyun&nbsp;Lee |What to align in multimodal contrastive learning?[[Benoit Dufumier et al., ICLR 2025](https://arxiv.org/pdf/2409.07402)][[slides](https://docs.google.com/presentation/d/1dT2PZu9Zajhn3OG_8lgO08rQ2F5h3GWQ/edit?rtpof=true&sd=true)] |
 | 11/10 | Tue 19:00 | - | CVPR 2027 Deadline | No Reading Group :book:|
 | 11/17 | Tue 19:00 | - | ICLR 2027 Rebuttal | No Reading Group :book:|
-| 11/24 | Tue 19:00 | - | Chan&nbsp;Lee |PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas[[Chan Lee et al., ECCV 2026](https://arxiv.org/pdf/2608.15230)][[slides](https://docs.google.com/presentation/d/1f7IQ_8Lv6QUY1sfLl8NdYrBS4gZbKVnd/edit?usp=sharing&ouid=101779896245807342870&rtpof=true&sd=true)]|
-| 12/01 | Tue 19:00 | - | Hangjun&nbsp;Jo | |
+| 12/01 | Tue 19:00 | - | Chan&nbsp;Lee |PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas[[Chan Lee et al., ECCV 2026](https://arxiv.org/pdf/2608.15230)][[slides](https://docs.google.com/presentation/d/1f7IQ_8Lv6QUY1sfLl8NdYrBS4gZbKVnd/edit?usp=sharing&ouid=101779896245807342870&rtpof=true&sd=true)]|
 | 12/08 | Tue 19:00 | - | Final | No Reading Group :book:|
 | 12/15 | Tue 19:00 | - | Final | No Reading Group :book:|
 
